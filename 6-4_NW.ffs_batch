@@ -1,0 +1,2738 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="BATCH" XmlFormat="11">
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Mirror</Variant>
+        <DetectMovedFiles>false</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude/>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\VS_Code_ionic1</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\VS_Code_ionic1</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+		<Pair>
+			<Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Flowgorithm</Left>
+			<Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Flowgorithm</Right>
+			<Filter>
+				<Include>
+					<Item>*</Item>
+				</Include>
+				<Exclude>
+					<Item>\System Volume Information\</Item>
+					<Item>\$Recycle.Bin\</Item>
+					<Item>\RECYCLER\</Item>
+					<Item>\RECYCLED\</Item>
+					<Item>*\desktop.ini</Item>
+					<Item>*\thumbs.db</Item>
+				</Exclude>
+				<TimeSpan Type="None">0</TimeSpan>
+				<SizeMin Unit="None">0</SizeMin>
+				<SizeMax Unit="None">0</SizeMax>
+			</Filter>
+		</Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\FreeFileSync</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\FreeFileSync</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\CMD_Gradle</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\CMD_Gradle</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\reports\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Batch</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Batch</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Bash</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Bash</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Android_Studio</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Android_Studio</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\reports\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\CodenameOne</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\CodenameOne</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\lib\impl\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\CN1Cordova</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\CN1Cordova</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\lib\impl\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\CMD_Ruby</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\CMD_Ruby</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\CMD_Python3</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\CMD_Python3</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\CMD_Python</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\CMD_Python</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\CMD_Node</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\CMD_Node</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\CMD_Mono</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\CMD_Mono</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\CMD_Lua</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\CMD_Lua</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\CMD_Java</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\CMD_Java</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Misc</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Misc</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\VS_Code_Python3</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\VS_Code_Python3</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\VS_Code_Python34</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\VS_Code_Python34</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Arduino_IDE</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Arduino_IDE</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\CMD_Go</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\CMD_Go</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\CMD_GCC</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\CMD_GCC</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\php</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\php</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Padre</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Padre</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\OpenOffice_Base</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\OpenOffice_Base</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\NetBeans_Gradle</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\NetBeans_Gradle</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Netbeans_Apache_OpenOffice</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Netbeans_Apache_OpenOffice</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Netbeans_Python</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Netbeans_Python</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Netbeans_JavaFX</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Netbeans_JavaFX</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Netbeans_Ruby</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Netbeans_Ruby</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Netbeans_Vaadin</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Netbeans_Vaadin</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\NetBeans_NBAndroid</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\NetBeans_NBAndroid</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\NetBeans_Gluon</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\NetBeans_Gluon</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\NetBeans_Groovy</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\NetBeans_Groovy</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\NetBeans_Arduino</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\NetBeans_Arduino</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\NetBeans_C</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\NetBeans_C</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\NetBeans_C++</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\NetBeans_C++</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\NetBeans_Fortran</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\NetBeans_Fortran</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\NetBeans_J2SE</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\NetBeans_J2SE</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\NetBeans_Maven</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\NetBeans_Maven</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\NativeBase</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\NativeBase</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\MongoDB</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\MongoDB</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Maven</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Maven</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\target\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Komodo_IDE</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Komodo_IDE</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Jupyter</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Jupyter</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\ionic2</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\ionic2</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\ionic</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\ionic</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\B4A</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\B4A</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*.meta</Item>
+                    <Item>*\Objects\</Item>
+                    <Item>*\Files\</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\ionic_angular</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\ionic_angular</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\IntelliJ_IDEA</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\IntelliJ_IDEA</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Inkscape</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Inkscape</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Cordova</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Cordova</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Ignite</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Ignite</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Groovy</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Groovy</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Google_App_Engine</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Google_App_Engine</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Geogibra</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Geogibra</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\firebird</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\firebird</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Eclipse_J2SE</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Eclipse_J2SE</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>\.metadata\</Item>
+                    <Item>*\bin\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>\.metadata\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                    <Item>*\.apt_generated\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\eC</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\eC</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Dosbox</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Dosbox</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Docker</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Docker</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Xamarin</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Xamarin</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\obj\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\WebstormProjects</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\WebstormProjects</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\obj\</Item>
+                    <Item>*\packages\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2013</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2013</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\obj\</Item>
+                    <Item>*\packages\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2012</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2012</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\obj\</Item>
+                    <Item>*\packages\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2010</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2010</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\obj\</Item>
+                    <Item>*\packages\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2008</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2008</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\obj\</Item>
+                    <Item>*\packages\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Tests</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Tests</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Spyder</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Spyder</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Shell</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Shell</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Ruby_ERB</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\Ruby_ERB</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\React-Native</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\React-Native</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\PyCham</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\PyCham</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\PlayN</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\PlayN</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\target\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\PowerShell</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\PowerShell</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\Ruby_Rails</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\Ruby_Rails</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\Ruby</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\Ruby</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\Python3</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\Python3</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\Python2</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\Python2</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\php</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\php</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\Perl</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\Perl</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\Node_js</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\Node_js</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\bower_components\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\Media_test</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\Media_test</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\JSP</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\JSP</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\jekyll</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\jekyll</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\HTML_CSS_JS_Bootstrap</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\HTML_CSS_JS_Bootstrap</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\HTML</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\HTML</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\Go</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\Go</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\ftp</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\ftp</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\aspnet_client\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\Flask</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\Flask</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\django</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\django</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\CGI</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\CGI</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\CFML</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\CFML</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\ASP_NET</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\ASP_NET</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\Appengine</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\wwwroot\Appengine</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Today</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Today</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>\Test\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Songs</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Songs</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\Folder.jpg</Item>
+                    <Item>*\AlbumArtSmall.jpg</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Seminars</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Seminars</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Scripting_Langauges</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Scripting_Langauges</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Satellite Dish Tracking Systems</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Satellite Dish Tracking Systems</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Research_Files</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Research_Files</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Projects</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Projects</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Programming Languages</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Programming Languages</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Programming Contents</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Programming Contents</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Physics</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Physics</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Networking Principles</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Networking Principles</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Micro Processors &amp; Controllers</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Micro Processors &amp; Controllers</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Images</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Images</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Embedded_Systems</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Embedded_Systems</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Electronics Systems</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Electronics Systems</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Electrical_Systems</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Electrical_Systems</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Computer Systems</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Computer Systems</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Backup Files</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Backup Files</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Android_Developments</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Android_Developments</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\R</Left>
+            <Right>\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\R</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\.Rapp.history</Item>
+                    <Item>*\.Rhistory</Item>
+                    <Item>*\.RData</Item>
+                    <Item>*\*-Ex.R</Item>
+                    <Item>*\*.tar.gz</Item>
+                    <Item>*\*.Rcheck\</Item>
+                    <Item>*\.Rproj.user\</Item>
+                    <Item>*\vignettes\*.html</Item>
+                    <Item>*\vignettes\*.pdf</Item>
+                    <Item>*\.httr-oauth</Item>
+                    <Item>*\*_cache\</Item>
+                    <Item>*\cache\</Item>
+                    <Item>*\*.utf8.md</Item>
+                    <Item>*\*.knit.md</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <PostSyncCommand Condition="Completion"/>
+    <Batch>
+        <ProgressDialog Minimized="false" AutoClose="false"/>
+        <ErrorDialog>Show</ErrorDialog>
+        <PostSyncAction>None</PostSyncAction>
+        <LogfileFolder Limit="-1">\\192.168.1.4\d\DK-HP-PA-2000AR\Laboratory\FreeFileSync</LogfileFolder>
+    </Batch>
+</FreeFileSync>

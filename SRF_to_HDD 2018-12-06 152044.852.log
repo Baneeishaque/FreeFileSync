@@ -1,0 +1,1085 @@
+___________________________________
+|12/06/18  SRF_to_HDD
+|
+|    Completed successfully
+|    Items processed: 663 (5.03 MB)
+|    Total time: 00:00:34
+|__________________________________
+
+[15:20:47]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Android_Developments
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Android_Developments
+[15:20:47]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Backup Files
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Backup Files
+[15:20:47]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Computer Systems
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Computer Systems
+[15:20:47]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Electrical_Systems
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Electrical_Systems
+[15:20:47]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Electronics Systems
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Electronics Systems
+[15:20:47]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Embedded_Systems
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Embedded_Systems
+[15:20:47]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Embedded_Systems\ER2031-51_AIM.pdf"
+[15:20:48]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Images
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Images
+[15:20:48]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Adobe_XD
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Adobe_XD
+[15:20:48]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Advanced_Renamer
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Advanced_Renamer
+[15:20:48]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Android_Studio
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\build.gradle"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\gradlew.bat"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\README.md"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\app\build.gradle"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\library\build.gradle"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\Counter\.git\FETCH_HEAD"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\GLottery\.git\FETCH_HEAD"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\gradle\wrapper\gradle-wrapper.properties"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\gradle.properties"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\gradlew"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\MIGRATION.md"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\.git\FETCH_HEAD"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\.git\index"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\.git\ORIG_HEAD"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\android-ActionBarCompat-ShareActionProvider\.git\config"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\android-ActionBarCompat-ShareActionProvider\.git\FETCH_HEAD"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\DStock\.git\FETCH_HEAD"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\WordPress-Android\.git\FETCH_HEAD"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\.git\logs\HEAD"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\DEV\definition-file-builder\index.html"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\gradle\wrapper\gradle-wrapper.jar"
+[15:20:48]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\.git\objects\pack\pack-74c616a8650ffd03a2ba24ba9010b4c20cdd6a6d.idx"
+[15:20:48]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\.git\objects\pack\pack-74c616a8650ffd03a2ba24ba9010b4c20cdd6a6d.pack"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\.git\refs\heads\develop"
+[15:20:48]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\.git\refs\tags\v6.2.0"
+[15:20:48]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\.git\refs\tags\v6.2.0-rc02"
+[15:20:48]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\.git\logs\refs\heads\develop"
+[15:20:49]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\.git\refs\remotes\origin\feature"
+[15:20:49]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\.git\refs\remotes\origin\develop"
+[15:20:49]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\.git\refs\remotes\origin\master"
+[15:20:49]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\.git\logs\refs\remotes\origin\feature"
+[15:20:49]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\.git\logs\refs\remotes\origin\develop"
+[15:20:49]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\.git\logs\refs\remotes\origin\master"
+[15:20:49]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\library\src\main\res\values\library_alexei_strings.xml"
+[15:20:49]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\library\src\main\res\values\library_androidslidinguppanel_strings.xml"
+[15:20:49]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\library\src\main\res\values\library_eclipsepahoandroidservice_strings.xml"
+[15:20:49]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\library\src\main\res\values\library_photoview_strings.xml"
+[15:20:49]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\.git\refs\remotes\origin\feature\kotlin"
+[15:20:49]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Android_Studio\AboutLibraries\.git\logs\refs\remotes\origin\feature\kotlin"
+[15:20:50]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Arduino_IDE
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Arduino_IDE
+[15:20:50]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\B4A
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\B4A
+[15:20:50]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Bash
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Bash
+[15:20:50]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Bash\git-slim\.git\FETCH_HEAD"
+[15:20:50]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Bash\megadown\.git\FETCH_HEAD"
+[15:20:50]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Batch
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Batch
+[15:20:51]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_GCC
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_GCC
+[15:20:51]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Go
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Go
+[15:20:51]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Gradle
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle
+[15:20:51]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.git\packed-refs"
+[15:20:51]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-commandline\pom.xml"
+[15:20:51]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\pom.xml"
+[15:20:51]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-commandline\src\main\assembly\component.xml"
+[15:20:51]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\Flyway.java"
+[15:20:51]  Info:  Moving folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\errorhandler" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\callback\BaseFlywayCallback.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\callback\FlywayCallback.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\configuration\ConfigurationAware.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\configuration\FlywayConfiguration.java" to the recycle bin
+[15:20:51]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\logging\LogFactory.java"
+[15:20:51]  Info:  Moving folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\migration\jdbc" to the recycle bin
+[15:20:51]  Info:  Moving folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\migration\spring" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\migration\MigrationChecksumProvider.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\migration\MigrationInfoProvider.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\resolver\BaseMigrationResolver.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\resolver\MigrationExecutor.java" to the recycle bin
+[15:20:51]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\resolver\MigrationResolver.java"
+[15:20:51]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\callback\CallbackExecutor.java"
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\callback\LegacyCallback.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\callback\SqlScriptFlywayCallbackFactory.java" to the recycle bin
+[15:20:51]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\command\DbBaseline.java"
+[15:20:51]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\command\DbClean.java"
+[15:20:51]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\command\DbInfo.java"
+[15:20:51]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\command\DbValidate.java"
+[15:20:51]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\configuration\ConfigUtils.java"
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\AbstractSqlStatement.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\Connection.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\Database.java" to the recycle bin
+[15:20:51]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\DatabaseFactory.java"
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\Delimiter.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\ExecutableSqlScript.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\Function.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\Schema.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\SchemaObject.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\SqlScript.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\SqlStatementBuilder.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\StandardSqlStatement.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\Table.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\Type.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\exception\FlywayEnterpriseUpgradeRequiredException.java" to the recycle bin
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\exception\FlywayProUpgradeRequiredException.java" to the recycle bin
+[15:20:51]  Info:  Moving folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resolver\jdbc" to the recycle bin
+[15:20:51]  Info:  Moving folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resolver\spring" to the recycle bin
+[15:20:51]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resolver\CompositeMigrationResolver.java"
+[15:20:51]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resolver\JavaMigrationResolver.java" to the recycle bin
+[15:20:51]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\sqlscript\SqlStatement.java"
+[15:20:51]  Info:  Moving folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\util\jdbc" to the recycle bin
+[15:20:51]  Info:  Moving folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\util\license" to the recycle bin
+[15:20:51]  Info:  Moving folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\util\line" to the recycle bin
+[15:20:52]  Info:  Moving folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\util\logging" to the recycle bin
+[15:20:52]  Info:  Moving folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\util\placeholder" to the recycle bin
+[15:20:52]  Info:  Moving folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\util\scanner" to the recycle bin
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\util\FeatureDetector.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\cockroachdb\CockroachDBConnection.java"
+[15:20:52]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\cockroachdb\CockroachDBSqlScript.java" to the recycle bin
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\cockroachdb\CockroachDBSqlStatementBuilder.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\cockroachdb\CockroachDBTable.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\db2\DB2Connection.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\db2\DB2Database.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\db2\DB2Schema.java"
+[15:20:52]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\db2\DB2SqlScript.java" to the recycle bin
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\db2\DB2SqlStatementBuilder.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\db2\DB2Table.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\db2\DB2Type.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\derby\DerbyConnection.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\derby\DerbyDatabase.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\derby\DerbySchema.java"
+[15:20:52]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\derby\DerbySqlScript.java" to the recycle bin
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\derby\DerbySqlStatementBuilder.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\derby\DerbyTable.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\h2\H2Connection.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\h2\H2Database.java"
+[15:20:52]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\h2\H2SqlScript.java" to the recycle bin
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\h2\H2SqlStatementBuilder.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\h2\H2Table.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\hsqldb\HSQLDBConnection.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\hsqldb\HSQLDBDatabase.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\hsqldb\HSQLDBSchema.java"
+[15:20:52]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\hsqldb\HSQLDBSqlScript.java" to the recycle bin
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\hsqldb\HSQLDBSqlStatementBuilder.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\hsqldb\HSQLDBTable.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\informix\InformixConnection.java"
+[15:20:52]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\informix\InformixSqlScript.java" to the recycle bin
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\informix\InformixSqlStatementBuilder.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\informix\InformixTable.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\mysql\MySQLNamedLockTemplate.java"
+[15:20:52]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\mysql\MySQLSqlScript.java" to the recycle bin
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\mysql\MySQLSqlStatementBuilder.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\mysql\MySQLTable.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\oracle\OracleConnection.java"
+[15:20:52]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\oracle\OracleContextImpl.java" to the recycle bin
+[15:20:52]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\oracle\OracleSqlScript.java" to the recycle bin
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\oracle\OracleTable.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\postgresql\PostgreSQLAdvisoryLockTemplate.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\postgresql\PostgreSQLDatabase.java"
+[15:20:52]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\postgresql\PostgreSQLSqlScript.java" to the recycle bin
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\postgresql\PostgreSQLTable.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\postgresql\PostgreSQLType.java"
+[15:20:52]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\redshift\RedshiftSqlScript.java" to the recycle bin
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\redshift\RedshiftSqlStatementBuilder.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\redshift\RedshiftType.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\saphana\SAPHANAConnection.java"
+[15:20:52]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\saphana\SAPHANADatabase.java"
+[15:20:53]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\saphana\SAPHANASqlScript.java" to the recycle bin
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\saphana\SAPHANASqlStatementBuilder.java"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\saphana\SAPHANATable.java"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sqlite\SQLiteConnection.java"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sqlite\SQLiteSchema.java"
+[15:20:53]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sqlite\SQLiteSqlScript.java" to the recycle bin
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sqlite\SQLiteTable.java"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sqlserver\SQLServerApplicationLockTemplate.java"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sqlserver\SQLServerConnection.java"
+[15:20:53]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sqlserver\SQLServerSqlScript.java" to the recycle bin
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sqlserver\SQLServerTable.java"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sybasease\SybaseASEConnection.java"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sybasease\SybaseASEDatabase.java"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sybasease\SybaseASESchema.java"
+[15:20:53]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sybasease\SybaseASESqlScript.java" to the recycle bin
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sybasease\SybaseASESqlStatementBuilder.java"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sybasease\SybaseASETable.java"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resolver\sql\SqlMigrationExecutor.java"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resolver\sql\SqlMigrationResolver.java"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.travis.yml"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\pom.xml"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\README.md"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.git\FETCH_HEAD"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.git\index"
+[15:20:53]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.git\ORIG_HEAD"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.git\logs\HEAD"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.mvn\wrapper\maven-wrapper.properties"
+[15:20:53]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.git\objects\pack\pack-6fae766c63eb733d58b7ef199bb5c93a65df0368.idx"
+[15:20:53]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.git\objects\pack\pack-6fae766c63eb733d58b7ef199bb5c93a65df0368.pack"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.git\refs\heads\master"
+[15:20:53]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.git\refs\tags\flyway-5.2.0"
+[15:20:53]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.git\refs\tags\flyway-5.2.1"
+[15:20:53]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.git\refs\tags\flyway-5.2.2"
+[15:20:53]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.git\refs\tags\flyway-5.2.3"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.git\logs\refs\heads\master"
+[15:20:53]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.git\refs\remotes\origin\flyway-5.2.x"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.git\refs\remotes\origin\master"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-commandline\src\main\assembly\flyway"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-commandline\src\main\assembly\flyway.cmd"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-commandline\src\main\assembly\flyway.conf"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-commandline\src\main\assembly\LICENSES-THIRD-PARTY.txt"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-commandline\src\main\assembly\README.txt"
+[15:20:53]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.git\logs\refs\remotes\origin\flyway-5.2.x"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\.git\logs\refs\remotes\origin\master"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-commandline\src\main\java\org\flywaydb\commandline\Main.java"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-gradle-plugin\src\main\java\org\flywaydb\gradle\FlywayExtension.java"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-maven-plugin\src\main\java\org\flywaydb\maven\AbstractFlywayMojo.java"
+[15:20:53]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\executor"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\MigrationVersion.java"
+[15:20:53]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\clazz"
+[15:20:53]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\jdbc"
+[15:20:53]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\license"
+[15:20:53]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\line"
+[15:20:53]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging"
+[15:20:53]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\placeholder"
+[15:20:53]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resource"
+[15:20:53]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner"
+[15:20:53]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-gradle-plugin\src\main\java\org\flywaydb\gradle\task\AbstractFlywayTask.java"
+[15:20:53]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\callback\BaseCallback.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\callback\Context.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\callback\Error.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\callback\Event.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\callback\Statement.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\callback\Warning.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\configuration\ClassicConfiguration.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\configuration\Configuration.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\configuration\FluentConfiguration.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\migration\BaseJavaMigration.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\migration\Context.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\migration\JavaMigration.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\resolver\Context.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\resolver\ResolvedMigration.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\callback\DefaultCallbackExecutor.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\callback\NoopCallbackExecutor.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\callback\package-info.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\callback\SimpleContext.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\callback\SqlScriptCallbackFactory.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\command\DbMigrate.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\command\DbRepair.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\command\DbSchemas.java"
+[15:20:54]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\base"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\exception\FlywayDbUpgradeRequiredException.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\info\MigrationInfoImpl.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\info\MigrationInfoServiceImpl.java"
+[15:20:54]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resolver\java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resolver\ResolvedMigrationImpl.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\schemahistory\JdbcTableSchemaHistory.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\schemahistory\SchemaHistory.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\schemahistory\SchemaHistoryFactory.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\sqlscript\AbstractSqlStatement.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\sqlscript\AbstractSqlStatementBuilderFactory.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\sqlscript\DefaultSqlScriptExecutor.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\sqlscript\Delimiter.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\sqlscript\FlywaySqlScriptException.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\sqlscript\NoopSqlScriptExecutor.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\sqlscript\SqlScript.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\sqlscript\SqlScriptExecutor.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\sqlscript\SqlStatementBuilder.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\sqlscript\SqlStatementBuilderFactory.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\sqlscript\StandardSqlStatement.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\util\ClassUtils.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\util\StringUtils.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\cockroachdb\CockroachDBDatabase.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\cockroachdb\CockroachDBSchema.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\db2\DB2Function.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\db2\DB2SqlStatementBuilderFactory.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\h2\H2Schema.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\h2\H2SqlStatementBuilderFactory.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\informix\InformixDatabase.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\informix\InformixSchema.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\mysql\MySQLConnection.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\mysql\MySQLDatabase.java"
+[15:20:54]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\mysql\MySQLSchema.java"
+[15:20:54]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\mysql\MySQLSqlStatementBuilderFactory.java"
+[15:20:55]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\oracle\OracleDatabase.java"
+[15:20:55]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\oracle\OracleResults.java"
+[15:20:55]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\oracle\OracleSchema.java"
+[15:20:55]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\oracle\OracleSqlScriptExecutor.java"
+[15:20:55]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\oracle\OracleSqlStatementBuilder.java"
+[15:20:55]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\oracle\OracleSqlStatementBuilderFactory.java"
+[15:20:55]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\oracle\OracleWithPLSQLStatement.java"
+[15:20:55]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\postgresql\PostgreSQLConnection.java"
+[15:20:55]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\postgresql\PostgreSQLCopyStatement.java"
+[15:20:55]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\postgresql\PostgreSQLSchema.java"
+[15:20:55]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\postgresql\PostgreSQLSqlStatementBuilder.java"
+[15:20:55]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\postgresql\PostgreSQLSqlStatementBuilderFactory.java"
+[15:20:55]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\redshift\RedshiftConnection.java"
+[15:20:55]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\redshift\RedshiftDatabase.java"
+[15:20:55]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\redshift\RedshiftSchema.java"
+[15:20:55]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\redshift\RedshiftTable.java"
+[15:20:55]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\saphana\SAPHANASchema.java"
+[15:20:55]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\saphana\SAPHANAStatementBuilderFactory.java"
+[15:20:55]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sqlite\SQLiteDatabase.java"
+[15:20:55]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sqlite\SQLiteSqlStatementBuilder.java"
+[15:20:55]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sqlserver\SQLServerDatabase.java"
+[15:20:55]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sqlserver\SQLServerSchema.java"
+[15:20:55]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sqlserver\SQLServerSqlStatementBuilder.java"
+[15:20:55]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sqlserver\SQLServerSqlStatementBuilderFactory.java"
+[15:20:55]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\sybasease\SybaseASESqlStatementBuilderFactory.java"
+[15:20:55]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resolver\sql\DefaultSqlMigrationExecutorFactory.java"
+[15:20:55]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resolver\sql\SqlMigrationExecutorFactory.java"
+[15:20:55]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\executor\Context.java"
+[15:20:55]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\executor\MigrationExecutor.java"
+[15:20:55]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\api\executor\package-info.java"
+[15:20:55]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\clazz\ClassProvider.java"
+[15:20:55]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\clazz\NoopClassProvider.java"
+[15:20:55]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\clazz\package-info.java"
+[15:20:55]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\jdbc\DatabaseType.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\jdbc\DriverDataSource.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\jdbc\ErrorImpl.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\jdbc\JdbcTemplate.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\jdbc\JdbcUtils.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\jdbc\Result.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\jdbc\Results.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\jdbc\RowMapper.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\jdbc\TransactionTemplate.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\jdbc\WarningImpl.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\jdbc\package-info.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\license\Edition.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\license\FlywayEditionUpgradeRequiredException.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\license\FlywayProUpgradeRequiredException.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\license\VersionPrinter.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\license\package-info.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\line\DefaultLine.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\line\DefaultLineReader.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\line\Line.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\line\LineReader.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\line\PlaceholderReplacingLine.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\line\package-info.java"
+[15:20:56]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\android"
+[15:20:56]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\apachecommons"
+[15:20:56]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\console"
+[15:20:56]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\javautil"
+[15:20:56]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\slf4j"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\LogCreatorFactory.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\package-info.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\placeholder\DefaultPlaceholderReplacer.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\placeholder\NoopPlaceholderReplacer.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\placeholder\PlaceholderReplacer.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\placeholder\package-info.java"
+[15:20:56]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resource\android"
+[15:20:56]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resource\classpath"
+[15:20:56]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resource\filesystem"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resource\AbstractLoadableResource.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resource\LoadableResource.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resource\NoopResourceProvider.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resource\Resource.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resource\ResourceProvider.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resource\StringResource.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resource\package-info.java"
+[15:20:56]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\android"
+[15:20:56]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\classpath"
+[15:20:56]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\filesystem"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\Scanner.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\package-info.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\base\Connection.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\base\Database.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\base\Function.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\base\Schema.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\base\SchemaObject.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\base\Table.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\base\Type.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\database\base\package-info.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resolver\java\JavaMigrationExecutor.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resolver\java\JavaMigrationResolver.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resolver\java\package-info.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\android\AndroidLog.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\android\AndroidLogCreator.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\apachecommons\ApacheCommonsLog.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\apachecommons\ApacheCommonsLogCreator.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\apachecommons\package-info.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\console\ConsoleLog.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\console\ConsoleLogCreator.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\console\package-info.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\javautil\JavaUtilLog.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\javautil\JavaUtilLogCreator.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\javautil\package-info.java"
+[15:20:56]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\slf4j\Slf4jLog.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\slf4j\Slf4jLogCreator.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\logging\slf4j\package-info.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resource\android\AndroidResource.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resource\android\package-info.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resource\classpath\ClassPathResource.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resource\classpath\package-info.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resource\filesystem\FileSystemResource.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\resource\filesystem\package-info.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\android\AndroidScanner.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\android\package-info.java"
+[15:20:57]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\classpath\jboss"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\classpath\ClassPathLocationScanner.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\classpath\ClassPathScanner.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\classpath\DefaultUrlResolver.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\classpath\FileSystemClassPathLocationScanner.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\classpath\JarFileClassPathLocationScanner.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\classpath\JarUtils.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\classpath\OsgiClassPathLocationScanner.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\classpath\ResourceAndClassScanner.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\classpath\UrlResolver.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\classpath\package-info.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\filesystem\FileSystemScanner.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\classpath\jboss\JBossVFSv2UrlResolver.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\classpath\jboss\JBossVFSv3ClassPathLocationScanner.java"
+[15:20:57]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Gradle\flyway\flyway-core\src\main\java\org\flywaydb\core\internal\scanner\classpath\jboss\package-info.java"
+[15:21:00]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Java
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Java
+[15:21:00]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Java\jeb2-plugin-pdf\.git\FETCH_HEAD"
+[15:21:00]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Java\JEBPlugins\.git\FETCH_HEAD"
+[15:21:00]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Java\JebPlugins2\.git\FETCH_HEAD"
+[15:21:00]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Java\jebPluginse\.git\FETCH_HEAD"
+[15:21:00]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Java\jebscripts\.git\FETCH_HEAD"
+[15:21:00]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Java\myJEBPlugins\.git\FETCH_HEAD"
+[15:21:00]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Lua
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Lua
+[15:21:00]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Mono
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Mono
+[15:21:00]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Node
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Node
+[15:21:00]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Node\Camtd\.git\FETCH_HEAD"
+[15:21:00]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_php
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_php
+[15:21:00]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_php\DBDiff\.git\FETCH_HEAD"
+[15:21:00]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Python
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python
+[15:21:00]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\apkdl\.git\FETCH_HEAD"
+[15:21:00]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\JEB-sample-scripts\.git\FETCH_HEAD"
+[15:21:00]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\jeb2-samplecode\.git\FETCH_HEAD"
+[15:21:01]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\jeb2-samplecode\.git\index"
+[15:21:01]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\jeb2-samplecode\.git\ORIG_HEAD"
+[15:21:01]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\jeb2-samplecode\scripts\AddCustomNativeTypes.py"
+[15:21:01]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\jebPlugins\.git\FETCH_HEAD"
+[15:21:01]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\simple-db-migrate\.git\FETCH_HEAD"
+[15:21:01]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\jeb2-samplecode\.git\logs\HEAD"
+[15:21:01]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\jeb2-samplecode\.git\objects\6b"
+[15:21:01]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\jeb2-samplecode\.git\objects\b3"
+[15:21:01]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\jeb2-samplecode\.git\objects\e5"
+[15:21:01]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\jeb2-samplecode\.git\objects\f0"
+[15:21:01]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\jeb2-samplecode\.git\refs\heads\master"
+[15:21:01]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\jeb2-samplecode\.git\logs\refs\heads\master"
+[15:21:01]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\jeb2-samplecode\.git\refs\remotes\origin\master"
+[15:21:01]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\jeb2-samplecode\.git\logs\refs\remotes\origin\master"
+[15:21:01]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\jeb2-samplecode\.git\objects\6b\1c2aeac4e10d0a094298cb371363c119b872c8"
+[15:21:01]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\jeb2-samplecode\.git\objects\b3\6ff5e242dfe836fb6ef2c04e38a36545f61fd6"
+[15:21:01]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\jeb2-samplecode\.git\objects\e5\9ff00563f04dea3b6c5bdda1dbb8bd80ae7918"
+[15:21:01]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python\jeb2-samplecode\.git\objects\f0\37a2be5743964ee8a9392e876b1923104b33dd"
+[15:21:01]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Python3
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Python3
+[15:21:01]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Ruby
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby
+[15:21:01]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\index.erb"
+[15:21:01]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\img\icons\collapse.svg" to the recycle bin
+[15:21:01]  Info:  Moving file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\img\icons\expand.svg" to the recycle bin
+[15:21:01]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\scss\inc\_layout.scss"
+[15:21:01]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\gulpfile.js"
+[15:21:01]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\README.md"
+[15:21:01]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\site.yml"
+[15:21:01]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\FETCH_HEAD"
+[15:21:02]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\index"
+[15:21:02]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\ORIG_HEAD"
+[15:21:02]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\404.erb"
+[15:21:02]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\_header.erb"
+[15:21:02]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\_sidebar-template.erb"
+[15:21:02]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\logs\HEAD"
+[15:21:02]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\08"
+[15:21:02]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\2f"
+[15:21:02]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\50"
+[15:21:02]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\d6"
+[15:21:02]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\dc"
+[15:21:02]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\f3"
+[15:21:02]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\f8"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\img\Gluegun_icon_1024px.png"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\img\Gluegun_icon_128.png"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\img\Gluegun_icon_16.png"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\img\Gluegun_icon_32.png"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\img\Gluegun_icon_512.png"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\img\Gluegun_icon_64.png"
+[15:21:02]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\js\gluegun.js"
+[15:21:02]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\js\gluegun.min.js"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\4c\ea9e7282f826d1b44a3b2df024573a02ca824b"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\51\cae14454c713b31da12ec0fd31b59113f85bcf"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\52\ac2529f1cd0f77275b99c11cca806f9d7a30bf"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\a7\c087f4a5b56b8d5336edd4325895c5ff90b9df"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\c2\0edf518d787df1a27f23e3416ec17658f5932a"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\d8\15f0c649df48583d9f01b444fbfaa3ffd59913"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\e9\8a3efcc862bc77edb79c001ca89fabad592788"
+[15:21:02]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\refs\heads\master"
+[15:21:02]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\scss\inc\_aside.scss"
+[15:21:02]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\scss\inc\_base.scss"
+[15:21:02]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\scss\inc\_misc.scss"
+[15:21:02]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\lib\scss\inc\_variables.scss"
+[15:21:02]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\logs\refs\heads\master"
+[15:21:02]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\refs\remotes\origin\master"
+[15:21:02]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\logs\refs\remotes\origin\master"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\08\1ec187e60fa2aa88c57476f0e0196cb1898c73"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\2f\6afb908d7c0343d208fb516bfc81f8013a7442"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\50\30be74e772b289df0b11840fa101e39ba1a21d"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\d6\8bb700fafad4b307c1ad04d1064214b7e36256"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\dc\f023d65215b60f36b9473a7cec37f378d0403d"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\f3\89ad0610dfdbd7b2c9155b0d5f3f87e2b2b340"
+[15:21:02]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby\gluegun\.git\objects\f8\2b747473f36d520eddc8fba684950a1b126e33"
+[15:21:03]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Ruby_Gems
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CMD_Ruby_Gems
+[15:21:03]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CN1Cordova
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CN1Cordova
+[15:21:03]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CodenameOne
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CodenameOne
+[15:21:03]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\CodenameOne\codenameone-demos\.git\FETCH_HEAD"
+[15:21:03]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Cordova
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Cordova
+[15:21:03]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Dev_C++
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Dev_C++
+[15:21:03]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Docker
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Docker
+[15:21:03]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Docker\py2_alpine_ssh\.git\FETCH_HEAD"
+[15:21:03]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Dosbox
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Dosbox
+[15:21:03]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\eC
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\eC
+[15:21:03]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Eclipse_ADT
+[15:21:04]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Eclipse_J2SE
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Eclipse_J2SE
+[15:21:04]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\firebird
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\firebird
+[15:21:04]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Flowgorithm
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Flowgorithm
+[15:21:04]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\FreeFileSync
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.gitattributes"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\100-6_NW.ffs_batch"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\216-4_NW.ffs_batch"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\216-6_NW.ffs_batch"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\4-216_NW.ffs_batch"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\4-6_NW.ffs_batch"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\4-manec-labs.ffs_batch"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\4-manec_NW.ffs_batch"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\6-100.ffs_batch"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\6-216_NW.ffs_batch"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\6-4_NW.ffs_batch"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\6-manec_NW.ffs_batch"
+[15:21:04]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\HDD1_to_HDD2.ffs_batch"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\HDD_to_SRF.ffs_batch"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\LICENSE"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\manec-4-labs.ffs_batch"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\manec-4_NW.ffs_batch"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\manec-6_NW.ffs_batch"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\nabeel_data.ffs_batch"
+[15:21:04]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\SRF_to_HDD.ffs_gui"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\COMMIT_EDITMSG"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\config"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\description"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\FETCH_HEAD"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\HEAD"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\index"
+[15:21:04]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\packed-refs"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\hooks\applypatch-msg.sample"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\hooks\commit-msg.sample"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\hooks\fsmonitor-watchman.sample"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\hooks\post-update.sample"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\hooks\pre-applypatch.sample"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\hooks\pre-commit.sample"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\hooks\pre-push.sample"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\hooks\pre-rebase.sample"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\hooks\pre-receive.sample"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\hooks\prepare-commit-msg.sample"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\hooks\update.sample"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\info\exclude"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\logs\HEAD"
+[15:21:04]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\70"
+[15:21:04]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\db"
+[15:21:04]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\e5"
+[15:21:04]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\08\0b953c6379964125eff32e327b3c8ade3eebaa"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\0c\32b2a78e9ad292f90ebf83ae24371ee9e2de30"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\0c\6098f350c2149cc7d2aaec095688b577a78fb3"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\14\9a32a9a92779b0f45a1b9f7c4148781e242bf3"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\18\c2e9c43f77558cc79ddd461bdd63482b77168b"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\23\47c7287bf37a1f09c6fec20e84b62eaaa13f62"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\2e\e0ef7770c6b1c0dfcb8c91356f5f4dc98afdde"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\3a\da9f0d3e067624a32d0835c8a540288131aaed"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\46\7b45ee64a2117864fe0567f9cf4fc46f2e7146"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\58\8040cbe8727e6c8237e171589af4bd5a990932"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\6c\3a8bb1f41a0a0f771deeb92082977c83d22ba7"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\79\dfb1187e3a5a31b49946e77185c1b69a6f11fa"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\8c\c7e4b7fac7221157946712eda100040679ec31"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\8f\894540e4ee1c21fa82a9d5887af5183c1ddc62"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\9e\419e042146a2ce2e354202d4f7d8e4a3d66f31"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\ad\c74d286edc7b82862df20983a9c31576cce3e3"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\c3\5446356750e301d76f3fa5d5d039d1a8121d2c"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\c6\fb83b0ef0d6df73a3be4b414f2030540065f8b"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\c7\bf0dfc9a622343abbc301422582e26be949dd6"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\df\e0770424b2a19faf507a501ebfc23be8f54e7b"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\ef\61968d91651959bcf4dbb173ded3da589ca531"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\refs\heads\master"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\logs\refs\heads\master"
+[15:21:05]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\refs\remotes\origin\HEAD"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\refs\remotes\origin\master"
+[15:21:05]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\logs\refs\remotes\origin\HEAD"
+[15:21:05]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\logs\refs\remotes\origin\master"
+[15:21:05]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\70\e5ecdd2603b3b110b4fa00543e898a308e1a69"
+[15:21:05]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\db\ab1ac9b646df63adc8943be0e89f3c161238aa"
+[15:21:05]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\FreeFileSync\.git\objects\e5\0df40dfd401355442ed4caac58280d2d5c84ce"
+[15:21:06]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Geogibra
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Geogibra
+[15:21:06]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Google_App_Engine
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Google_App_Engine
+[15:21:06]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Groovy
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Groovy
+[15:21:06]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Ignite
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Ignite
+[15:21:06]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Inkscape
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Inkscape
+[15:21:06]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\IntelliJ_IDEA
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\IntelliJ_IDEA
+[15:21:06]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\ionic
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\ionic
+[15:21:06]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\ionic_angular
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\ionic_angular
+[15:21:07]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\ionic2
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\ionic2
+[15:21:07]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\ionic3
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\ionic3
+[15:21:07]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Jupyter
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Jupyter
+[15:21:07]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Komodo_IDE
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Komodo_IDE
+[15:21:07]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Maven
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Maven
+[15:21:07]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\MikTex
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\MikTex
+[15:21:07]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\MikTex\An Energy-Efficient Programmable Manycore Accelerator for Personalized Biomedical Applications\.git\FETCH_HEAD"
+[15:21:07]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\MikTex\Jaseela Miss\.git\FETCH_HEAD"
+[15:21:07]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\MikTex\Minitex\.git\FETCH_HEAD"
+[15:21:07]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\MikTex\PROJECT REPORT\.git\FETCH_HEAD"
+[15:21:07]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\MikTex\ro\.git\FETCH_HEAD"
+[15:21:07]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Misc
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc
+[15:21:07]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\KiCad.gitignore"
+[15:21:07]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Laravel.gitignore"
+[15:21:07]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community"
+[15:21:07]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Android.gitignore"
+[15:21:07]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Autotools.gitignore"
+[15:21:07]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\CMake.gitignore"
+[15:21:07]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Delphi.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Drupal.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Elixir.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Magento.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Node.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Processing.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Python.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Rails.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\README.md"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Smalltalk.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Swift.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Symfony.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Terraform.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\TeX.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Unity.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\VisualStudio.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\awesome-android-ui\.git\FETCH_HEAD"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\.git\FETCH_HEAD"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\.git\index"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\.git\ORIG_HEAD"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Global\Backup.gitignore"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Global\Diff.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Global\Emacs.gitignore"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Global\Images.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Global\JetBrains.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Global\MicrosoftOffice.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Global\NetBeans.gitignore"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Global\Patch.gitignore"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Global\PSoCCreator.gitignore"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Global\PuTTY.gitignore"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\Global\Virtuoso.gitignore"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\Vagrant.tmbundle\.git\FETCH_HEAD"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\.git\logs\HEAD"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\.git\objects\pack\pack-7e5314dd82f5c541acf6c70c9123d6f2323151fb.idx"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\.git\objects\pack\pack-7e5314dd82f5c541acf6c70c9123d6f2323151fb.pack"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\.git\refs\heads\master"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\.git\logs\refs\heads\master"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\.git\refs\remotes\origin\annotating-visualstudio"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\.git\refs\remotes\origin\master"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\.git\logs\refs\remotes\origin\annotating-visualstudio"
+[15:21:08]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\.git\logs\refs\remotes\origin\master"
+[15:21:08]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\DotNet"
+[15:21:08]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Elixir"
+[15:21:08]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Golang"
+[15:21:08]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Java"
+[15:21:08]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\JavaScript"
+[15:21:08]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Linux"
+[15:21:08]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\PHP"
+[15:21:08]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Python"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Bazel.gitignore"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Exercism.gitignore"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Logtalk.gitignore"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Puppet.gitignore"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Racket.gitignore"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Red.gitignore"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Splunk.gitignore"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Xilinx.gitignore"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\DotNet\InforCMS.gitignore"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\DotNet\Kentico.gitignore"
+[15:21:08]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Elixir\Phoenix.gitignore"
+[15:21:09]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Golang\Hugo.gitignore"
+[15:21:09]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Java\JBoss4.gitignore"
+[15:21:09]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Java\JBoss6.gitignore"
+[15:21:09]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\JavaScript\Cordova.gitignore"
+[15:21:09]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\JavaScript\Meteor.gitignore"
+[15:21:09]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\JavaScript\NWjs.gitignore"
+[15:21:09]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\JavaScript\Nuxt.gitignore"
+[15:21:09]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\JavaScript\Vue.gitignore"
+[15:21:09]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Linux\Snap.gitignore"
+[15:21:09]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\PHP\Bitrix.gitignore"
+[15:21:09]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\PHP\CodeSniffer.gitignore"
+[15:21:09]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\PHP\Magento1.gitignore"
+[15:21:09]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\PHP\Pimcore.gitignore"
+[15:21:09]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\PHP\ThinkPHP.gitignore"
+[15:21:09]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Python\Drupal7.gitignore"
+[15:21:09]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Python\JupyterNotebooks.gitignore"
+[15:21:09]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Misc\gitignore\community\Python\Nikola.gitignore"
+[15:21:09]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\MongoDB
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\MongoDB
+[15:21:09]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\MySQL_Data_Compare
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\MySQL_Data_Compare
+[15:21:09]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NativeBase
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\NativeBase
+[15:21:10]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Apache_OpenOffice
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Netbeans_Apache_OpenOffice
+[15:21:10]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Arduino
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\NetBeans_Arduino
+[15:21:10]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_C
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\NetBeans_C
+[15:21:10]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_C++
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\NetBeans_C++
+[15:21:10]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Chrome_Extension
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Netbeans_Chrome_Extension
+[15:21:10]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Netbeans_Chrome_Extension\Aria2_Remote_Client\.git\FETCH_HEAD"
+[15:21:10]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Fortran
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\NetBeans_Fortran
+[15:21:10]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Gluon
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\NetBeans_Gluon
+[15:21:10]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Gradle
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\NetBeans_Gradle
+[15:21:10]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Groovy
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\NetBeans_Groovy
+[15:21:10]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_J2SE
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\NetBeans_J2SE
+[15:21:10]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Netbeans_JavaFX
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Netbeans_JavaFX
+[15:21:10]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Maven
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\NetBeans_Maven
+[15:21:11]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Netbeans_MinGW_W64_C
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Netbeans_MinGW_W64_C
+[15:21:11]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_NBAndroid
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\NetBeans_NBAndroid
+[15:21:11]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Python
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Netbeans_Python
+[15:21:11]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Ruby
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Netbeans_Ruby
+[15:21:11]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Vaadin
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Netbeans_Vaadin
+[15:21:11]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\OpenOffice_Base
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\OpenOffice_Base
+[15:21:11]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Padre
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Padre
+[15:21:11]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\php
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\php
+[15:21:11]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\pipenv
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\pipenv
+[15:21:11]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\PlayN
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\PlayN
+[15:21:11]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\PowerShell
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\PowerShell
+[15:21:11]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\PyCharm
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\PyCharm
+[15:21:11]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\PyCharm_py2
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\PyCharm_py2
+[15:21:11]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\PyCharm_py3
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\PyCharm_py3
+[15:21:11]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\PyCharm_py3\Address-Book\.git\config"
+[15:21:11]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\PyCharm_py3\Address-Book\.git\FETCH_HEAD"
+[15:21:11]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\PyCharm_py3\Address-Book\.git\refs\remotes\upstream"
+[15:21:11]  Info:  Creating folder "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\PyCharm_py3\Address-Book\.git\logs\refs\remotes\upstream"
+[15:21:11]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\PyCharm_py3\Address-Book\.git\refs\remotes\upstream\master"
+[15:21:11]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\PyCharm_py3\Address-Book\.git\logs\refs\remotes\upstream\master"
+[15:21:12]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\R
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\R
+[15:21:12]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\R\Fractal_Images\.git\FETCH_HEAD"
+[15:21:12]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\React-Native
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\React-Native
+[15:21:12]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Ruby_ERB
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Ruby_ERB
+[15:21:12]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Shell
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Shell
+[15:21:12]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Spyder
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Spyder
+[15:21:12]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Tests
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Tests
+[15:21:12]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Visual_Studio
+[15:21:12]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Visual_Studio\ServiceStack\.git\FETCH_HEAD"
+[15:21:12]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2008
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Visual_Studio_2008
+[15:21:12]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2010
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Visual_Studio_2010
+[15:21:13]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2012
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Visual_Studio_2012
+[15:21:13]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2013
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Visual_Studio_2013
+[15:21:13]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Visual_Studio_2017
+[15:21:13]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Visual_Studio_2017\aria2c_service\.git\FETCH_HEAD"
+[15:21:13]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Visual_Studio_2017\DataGridView_to_Excel\.git\FETCH_HEAD"
+[15:21:13]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Visual_Studio_2017\Destinationd_con_17\.git\FETCH_HEAD"
+[15:21:13]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Visual_Studio_2017\hospitalapp\.git\FETCH_HEAD"
+[15:21:13]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Visual_Studio_2017\Read_Excel_File\.git\FETCH_HEAD"
+[15:21:13]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Visual_Studio_2017\youtube-dl_service\.git\FETCH_HEAD"
+[15:21:13]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\VS_Code_Batch
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\VS_Code_Batch
+[15:21:14]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\VS_Code_ionic1
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\VS_Code_ionic1
+[15:21:14]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\VS_Code_mingw64
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\VS_Code_mingw64
+[15:21:14]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python3
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\VS_Code_Python3
+[15:21:14]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\VS_Code_Python3\BS4_Scrapper\.git\FETCH_HEAD"
+[15:21:14]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\VS_Code_Python3\Redis\.git\FETCH_HEAD"
+[15:21:14]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python34
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\VS_Code_Python34
+[15:21:14]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\VS_Code_Python34\FoundationDB\.git\FETCH_HEAD"
+[15:21:14]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\WebstormProjects
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\WebstormProjects
+[15:21:14]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Weex
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Weex
+[15:21:14]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Xamarin
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Xamarin
+[15:21:14]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Zend_Studio
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Laboratory\Zend_Studio
+[15:21:14]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Micro Processors & Controllers
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Micro Processors & Controllers
+[15:21:14]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Networking Principles
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Networking Principles
+[15:21:14]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Physics
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Physics
+[15:21:14]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Programming Contents
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Programming Contents
+[15:21:14]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Programming Languages
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Programming Languages
+[15:21:15]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Projects
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Projects
+[15:21:15]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Research_Files
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Research_Files
+[15:21:15]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Satellite Dish Tracking Systems
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Satellite Dish Tracking Systems
+[15:21:15]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Scripting_Langauges
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Scripting_Langauges
+[15:21:15]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Seminars
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Seminars
+[15:21:15]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Songs
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Songs
+[15:21:16]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Today
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\Today
+[15:21:16]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Appengine
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\Appengine
+[15:21:16]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\ASP_NET
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\ASP_NET
+[15:21:16]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\CFML
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\CFML
+[15:21:16]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\CGI
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\CGI
+[15:21:16]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\django
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\django
+[15:21:16]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Flask
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\Flask
+[15:21:16]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\ftp
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\ftp
+[15:21:16]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Go
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\Go
+[15:21:16]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\HTML
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\HTML
+[15:21:16]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\HTML\Levinux\.git\FETCH_HEAD"
+[15:21:17]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\HTML_CSS_JS_Bootstrap
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\HTML_CSS_JS_Bootstrap
+[15:21:17]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\HTML_JS_CSS
+[15:21:17]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\HTML_JS_CSS\ud864\.git\FETCH_HEAD"
+[15:21:17]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\jekyll
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\jekyll
+[15:21:17]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\JSP
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\JSP
+[15:21:17]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Media_test
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\Media_test
+[15:21:17]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Node_js
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\Node_js
+[15:21:17]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Node_js_client
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\Node_js_client
+[15:21:17]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Perl
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\Perl
+[15:21:17]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\php
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\php
+[15:21:18]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\php\Account_Ledger_Server\.git\FETCH_HEAD"
+[15:21:18]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\php\Account_Ledger_Server\.git\index"
+[15:21:18]  Info:  Creating file "I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\php\Account_Ledger_Server\.git\ORIG_HEAD"
+[15:21:18]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\php\aria2_remote_server\.git\FETCH_HEAD"
+[15:21:18]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\php\image_multiple\.git\FETCH_HEAD"
+[15:21:18]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\php\youtube-dl_remote_server\.git\FETCH_HEAD"
+[15:21:18]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\php\53\smsmymedia-com_Bulk_SMS_REST_API\.git\FETCH_HEAD"
+[15:21:18]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\php\72\smsmymedia-com_Bulk_SMS_REST_API\.git\FETCH_HEAD"
+[15:21:18]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\php\Account_Ledger_Server\.git\logs\HEAD"
+[15:21:18]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\php\Account_Ledger_Server\.git\refs\heads\master"
+[15:21:18]  Info:  Updating file "I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\php\Account_Ledger_Server\.git\logs\refs\heads\master"
+[15:21:18]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\production
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\production
+[15:21:19]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Python2
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\Python2
+[15:21:19]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Python3
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\Python3
+[15:21:19]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Ruby
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\Ruby
+[15:21:19]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Ruby_Rails
+                       I:\DK_HP_PA_2000AR_SYOK_SRF\wwwroot\Ruby_Rails

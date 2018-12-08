@@ -1,0 +1,424 @@
+________________________________
+|12/07/18  SRF_to_HDD
+|
+|    Completed successfully
+|    Items processed: 2 (149 KB)
+|    Total time: 00:00:10
+|_______________________________
+
+[18:37:19]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Android_Developments
+                       I:\DK-HP-PA-2000AR\Android_Developments
+[18:37:19]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Backup Files
+                       I:\DK-HP-PA-2000AR\Backup Files
+[18:37:19]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Computer Systems
+                       I:\DK-HP-PA-2000AR\Computer Systems
+[18:37:19]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Electrical_Systems
+                       I:\DK-HP-PA-2000AR\Electrical_Systems
+[18:37:19]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Electronics Systems
+                       I:\DK-HP-PA-2000AR\Electronics Systems
+[18:37:19]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Embedded_Systems
+                       I:\DK-HP-PA-2000AR\Embedded_Systems
+[18:37:19]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Images
+                       I:\DK-HP-PA-2000AR\Images
+[18:37:19]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Adobe_XD
+                       I:\DK-HP-PA-2000AR\Laboratory\Adobe_XD
+[18:37:19]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Advanced_Renamer
+                       I:\DK-HP-PA-2000AR\Laboratory\Advanced_Renamer
+[18:37:20]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Android_Studio
+                       I:\DK-HP-PA-2000AR\Laboratory\Android_Studio
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Arduino_IDE
+                       I:\DK-HP-PA-2000AR\Laboratory\Arduino_IDE
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\B4A
+                       I:\DK-HP-PA-2000AR\Laboratory\B4A
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Bash
+                       I:\DK-HP-PA-2000AR\Laboratory\Bash
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Batch
+                       I:\DK-HP-PA-2000AR\Laboratory\Batch
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_GCC
+                       I:\DK-HP-PA-2000AR\Laboratory\CMD_GCC
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Go
+                       I:\DK-HP-PA-2000AR\Laboratory\CMD_Go
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Gradle
+                       I:\DK-HP-PA-2000AR\Laboratory\CMD_Gradle
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Java
+                       I:\DK-HP-PA-2000AR\Laboratory\CMD_Java
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Lua
+                       I:\DK-HP-PA-2000AR\Laboratory\CMD_Lua
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Mono
+                       I:\DK-HP-PA-2000AR\Laboratory\CMD_Mono
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Node
+                       I:\DK-HP-PA-2000AR\Laboratory\CMD_Node
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_php
+                       I:\DK-HP-PA-2000AR\Laboratory\CMD_php
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Python
+                       I:\DK-HP-PA-2000AR\Laboratory\CMD_Python
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Python3
+                       I:\DK-HP-PA-2000AR\Laboratory\CMD_Python3
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Ruby
+                       I:\DK-HP-PA-2000AR\Laboratory\CMD_Ruby
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CMD_Ruby_Gems
+                       I:\DK-HP-PA-2000AR\Laboratory\CMD_Ruby_Gems
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CN1Cordova
+                       I:\DK-HP-PA-2000AR\Laboratory\CN1Cordova
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\CodenameOne
+                       I:\DK-HP-PA-2000AR\Laboratory\CodenameOne
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Cordova
+                       I:\DK-HP-PA-2000AR\Laboratory\Cordova
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Dev_C++
+                       I:\DK-HP-PA-2000AR\Laboratory\Dev_C++
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Docker
+                       I:\DK-HP-PA-2000AR\Laboratory\Docker
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Dosbox
+                       I:\DK-HP-PA-2000AR\Laboratory\Dosbox
+[18:37:21]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\eC
+                       I:\DK-HP-PA-2000AR\Laboratory\eC
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT
+                       I:\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Eclipse_J2SE
+                       I:\DK-HP-PA-2000AR\Laboratory\Eclipse_J2SE
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\firebird
+                       I:\DK-HP-PA-2000AR\Laboratory\firebird
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Flowgorithm
+                       I:\DK-HP-PA-2000AR\Laboratory\Flowgorithm
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\FreeFileSync
+                       I:\DK-HP-PA-2000AR\Laboratory\FreeFileSync
+[18:37:22]  Info:  Updating file "I:\DK-HP-PA-2000AR\Laboratory\FreeFileSync\HDD_to_SRF.ffs_batch"
+[18:37:22]  Info:  Creating file "I:\DK-HP-PA-2000AR\Laboratory\FreeFileSync\HDD_to_SRF 2018-12-07 183616.021.log"
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Geogibra
+                       I:\DK-HP-PA-2000AR\Laboratory\Geogibra
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Google_App_Engine
+                       I:\DK-HP-PA-2000AR\Laboratory\Google_App_Engine
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Groovy
+                       I:\DK-HP-PA-2000AR\Laboratory\Groovy
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Ignite
+                       I:\DK-HP-PA-2000AR\Laboratory\Ignite
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Inkscape
+                       I:\DK-HP-PA-2000AR\Laboratory\Inkscape
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\IntelliJ_IDEA
+                       I:\DK-HP-PA-2000AR\Laboratory\IntelliJ_IDEA
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\ionic
+                       I:\DK-HP-PA-2000AR\Laboratory\ionic
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\ionic_angular
+                       I:\DK-HP-PA-2000AR\Laboratory\ionic_angular
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\ionic2
+                       I:\DK-HP-PA-2000AR\Laboratory\ionic2
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\ionic3
+                       I:\DK-HP-PA-2000AR\Laboratory\ionic3
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Jupyter
+                       I:\DK-HP-PA-2000AR\Laboratory\Jupyter
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Komodo_IDE
+                       I:\DK-HP-PA-2000AR\Laboratory\Komodo_IDE
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Maven
+                       I:\DK-HP-PA-2000AR\Laboratory\Maven
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\MikTex
+                       I:\DK-HP-PA-2000AR\Laboratory\MikTex
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Misc
+                       I:\DK-HP-PA-2000AR\Laboratory\Misc
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\MongoDB
+                       I:\DK-HP-PA-2000AR\Laboratory\MongoDB
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\MySQL_Data_Compare
+                       I:\DK-HP-PA-2000AR\Laboratory\MySQL_Data_Compare
+[18:37:22]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NativeBase
+                       I:\DK-HP-PA-2000AR\Laboratory\NativeBase
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Apache_OpenOffice
+                       I:\DK-HP-PA-2000AR\Laboratory\Netbeans_Apache_OpenOffice
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Arduino
+                       I:\DK-HP-PA-2000AR\Laboratory\NetBeans_Arduino
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_C
+                       I:\DK-HP-PA-2000AR\Laboratory\NetBeans_C
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_C++
+                       I:\DK-HP-PA-2000AR\Laboratory\NetBeans_C++
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Chrome_Extension
+                       I:\DK-HP-PA-2000AR\Laboratory\Netbeans_Chrome_Extension
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Fortran
+                       I:\DK-HP-PA-2000AR\Laboratory\NetBeans_Fortran
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Gluon
+                       I:\DK-HP-PA-2000AR\Laboratory\NetBeans_Gluon
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Gradle
+                       I:\DK-HP-PA-2000AR\Laboratory\NetBeans_Gradle
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Groovy
+                       I:\DK-HP-PA-2000AR\Laboratory\NetBeans_Groovy
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_J2SE
+                       I:\DK-HP-PA-2000AR\Laboratory\NetBeans_J2SE
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Netbeans_JavaFX
+                       I:\DK-HP-PA-2000AR\Laboratory\Netbeans_JavaFX
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Maven
+                       I:\DK-HP-PA-2000AR\Laboratory\NetBeans_Maven
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Netbeans_MinGW_W64_C
+                       I:\DK-HP-PA-2000AR\Laboratory\Netbeans_MinGW_W64_C
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\NetBeans_NBAndroid
+                       I:\DK-HP-PA-2000AR\Laboratory\NetBeans_NBAndroid
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Python
+                       I:\DK-HP-PA-2000AR\Laboratory\Netbeans_Python
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Ruby
+                       I:\DK-HP-PA-2000AR\Laboratory\Netbeans_Ruby
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Vaadin
+                       I:\DK-HP-PA-2000AR\Laboratory\Netbeans_Vaadin
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\OpenOffice_Base
+                       I:\DK-HP-PA-2000AR\Laboratory\OpenOffice_Base
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Padre
+                       I:\DK-HP-PA-2000AR\Laboratory\Padre
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\php
+                       I:\DK-HP-PA-2000AR\Laboratory\php
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\pipenv
+                       I:\DK-HP-PA-2000AR\Laboratory\pipenv
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\PlayN
+                       I:\DK-HP-PA-2000AR\Laboratory\PlayN
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\PowerShell
+                       I:\DK-HP-PA-2000AR\Laboratory\PowerShell
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\PyCharm
+                       I:\DK-HP-PA-2000AR\Laboratory\PyCharm
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\PyCharm_py2
+                       I:\DK-HP-PA-2000AR\Laboratory\PyCharm_py2
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\PyCharm_py3
+                       I:\DK-HP-PA-2000AR\Laboratory\PyCharm_py3
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\R
+                       I:\DK-HP-PA-2000AR\Laboratory\R
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\React-Native
+                       I:\DK-HP-PA-2000AR\Laboratory\React-Native
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Ruby_ERB
+                       I:\DK-HP-PA-2000AR\Laboratory\Ruby_ERB
+[18:37:23]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Shell
+                       I:\DK-HP-PA-2000AR\Laboratory\Shell
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Spyder
+                       I:\DK-HP-PA-2000AR\Laboratory\Spyder
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Tests
+                       I:\DK-HP-PA-2000AR\Laboratory\Tests
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio
+                       I:\DK-HP-PA-2000AR\Laboratory\Visual_Studio
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2008
+                       I:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2008
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2010
+                       I:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2010
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2012
+                       I:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2012
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2013
+                       I:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2013
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017
+                       I:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\VS_Code_Batch
+                       I:\DK-HP-PA-2000AR\Laboratory\VS_Code_Batch
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\VS_Code_ionic1
+                       I:\DK-HP-PA-2000AR\Laboratory\VS_Code_ionic1
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\VS_Code_mingw64
+                       I:\DK-HP-PA-2000AR\Laboratory\VS_Code_mingw64
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python3
+                       I:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python3
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python34
+                       I:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python34
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\WebstormProjects
+                       I:\DK-HP-PA-2000AR\Laboratory\WebstormProjects
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Weex
+                       I:\DK-HP-PA-2000AR\Laboratory\Weex
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Xamarin
+                       I:\DK-HP-PA-2000AR\Laboratory\Xamarin
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Laboratory\Zend_Studio
+                       I:\DK-HP-PA-2000AR\Laboratory\Zend_Studio
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Micro Processors & Controllers
+                       I:\DK-HP-PA-2000AR\Micro Processors & Controllers
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Networking Principles
+                       I:\DK-HP-PA-2000AR\Networking Principles
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Physics
+                       I:\DK-HP-PA-2000AR\Physics
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Programming Contents
+                       I:\DK-HP-PA-2000AR\Programming Contents
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Programming Languages
+                       I:\DK-HP-PA-2000AR\Programming Languages
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Projects
+                       I:\DK-HP-PA-2000AR\Projects
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Research_Files
+                       I:\DK-HP-PA-2000AR\Research_Files
+[18:37:24]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Satellite Dish Tracking Systems
+                       I:\DK-HP-PA-2000AR\Satellite Dish Tracking Systems
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Scripting_Langauges
+                       I:\DK-HP-PA-2000AR\Scripting_Langauges
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Seminars
+                       I:\DK-HP-PA-2000AR\Seminars
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Songs
+                       I:\DK-HP-PA-2000AR\Songs
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\Today
+                       I:\DK-HP-PA-2000AR\Today
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Appengine
+                       I:\DK-HP-PA-2000AR\wwwroot\Appengine
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\ASP_NET
+                       I:\DK-HP-PA-2000AR\wwwroot\ASP_NET
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\CFML
+                       I:\DK-HP-PA-2000AR\wwwroot\CFML
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\CGI
+                       I:\DK-HP-PA-2000AR\wwwroot\CGI
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\django
+                       I:\DK-HP-PA-2000AR\wwwroot\django
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Flask
+                       I:\DK-HP-PA-2000AR\wwwroot\Flask
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\ftp
+                       I:\DK-HP-PA-2000AR\wwwroot\ftp
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Go
+                       I:\DK-HP-PA-2000AR\wwwroot\Go
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\HTML
+                       I:\DK-HP-PA-2000AR\wwwroot\HTML
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\HTML_CSS_JS_Bootstrap
+                       I:\DK-HP-PA-2000AR\wwwroot\HTML_CSS_JS_Bootstrap
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS
+                       I:\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\jekyll
+                       I:\DK-HP-PA-2000AR\wwwroot\jekyll
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\JSP
+                       I:\DK-HP-PA-2000AR\wwwroot\JSP
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Media_test
+                       I:\DK-HP-PA-2000AR\wwwroot\Media_test
+[18:37:25]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Node_js
+                       I:\DK-HP-PA-2000AR\wwwroot\Node_js
+[18:37:26]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Node_js_client
+                       I:\DK-HP-PA-2000AR\wwwroot\Node_js_client
+[18:37:26]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Perl
+                       I:\DK-HP-PA-2000AR\wwwroot\Perl
+[18:37:26]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\php
+                       I:\DK-HP-PA-2000AR\wwwroot\php
+[18:37:26]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\production
+                       I:\DK-HP-PA-2000AR\wwwroot\production
+[18:37:26]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Python2
+                       I:\DK-HP-PA-2000AR\wwwroot\Python2
+[18:37:26]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Python3
+                       I:\DK-HP-PA-2000AR\wwwroot\Python3
+[18:37:27]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Ruby
+                       I:\DK-HP-PA-2000AR\wwwroot\Ruby
+[18:37:27]  Info:  Synchronizing folder pair: Mirror->
+                       D:\DK-HP-PA-2000AR\wwwroot\Ruby_Rails
+                       I:\DK-HP-PA-2000AR\wwwroot\Ruby_Rails

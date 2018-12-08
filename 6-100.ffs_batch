@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FreeFileSync XmlType="BATCH" XmlFormat="11">
+<FreeFileSync XmlType="BATCH" XmlFormat="14">
     <Compare>
         <Variant>TimeAndSize</Variant>
         <Symlinks>Exclude</Symlinks>
@@ -604,7 +604,7 @@
                 <SizeMax Unit="None">0</SizeMax>
             </Filter>
         </Pair>
-		<Pair>
+        <Pair>
             <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Netbeans_Chrome_Extension</Left>
             <Right>\\192.168.1.100\Data_Drive\DK-HP-PA-2000AR\Laboratory\Netbeans_Chrome_Extension</Right>
             <Filter>
@@ -2141,7 +2141,7 @@
                 <SizeMax Unit="None">0</SizeMax>
             </Filter>
         </Pair>
-		<Pair>
+        <Pair>
             <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS</Left>
             <Right>\\192.168.1.100\Data_Drive\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS</Right>
             <Filter>
@@ -2162,7 +2162,7 @@
                 <SizeMax Unit="None">0</SizeMax>
             </Filter>
         </Pair>
-		<Pair>
+        <Pair>
             <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\wwwroot\production</Left>
             <Right>\\192.168.1.100\Data_Drive\DK-HP-PA-2000AR\wwwroot\production</Right>
             <Filter>
@@ -2799,11 +2799,11 @@
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>
+    <LogFolder>\\192.168.1.100\Data_Drive\DK-HP-PA-2000AR\Laboratory\FreeFileSync</LogFolder>
     <PostSyncCommand Condition="Completion"/>
     <Batch>
         <ProgressDialog Minimized="false" AutoClose="false"/>
         <ErrorDialog>Show</ErrorDialog>
         <PostSyncAction>None</PostSyncAction>
-        <LogfileFolder Limit="-1">\\192.168.1.100\Data_Drive\DK-HP-PA-2000AR\Laboratory\FreeFileSync</LogfileFolder>
     </Batch>
 </FreeFileSync>

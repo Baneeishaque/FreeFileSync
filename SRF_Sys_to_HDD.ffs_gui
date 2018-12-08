@@ -29,14 +29,6 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>D:\To Repair</Left>
-            <Right>I:\Banee_Data_HDD\To Repair</Right>
-        </Pair>
-        <Pair>
-            <Left>D:\To DK</Left>
-            <Right>I:\Banee_Data_HDD\To DK</Right>
-        </Pair>
-        <Pair>
             <Left>D:\Shared To DK</Left>
             <Right>I:\Sharafu_System\D_Drive\Shared To DK</Right>
         </Pair>

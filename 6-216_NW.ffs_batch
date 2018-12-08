@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FreeFileSync XmlType="BATCH" XmlFormat="11">
+<FreeFileSync XmlType="BATCH" XmlFormat="14">
     <Compare>
         <Variant>TimeAndSize</Variant>
         <Symlinks>Exclude</Symlinks>
@@ -46,26 +46,26 @@
                 <SizeMax Unit="None">0</SizeMax>
             </Filter>
         </Pair>
-		<Pair>
-			<Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Flowgorithm</Left>
-			<Right>\\192.168.1.216\d\Laboratory\Flowgorithm</Right>
-			<Filter>
-				<Include>
-					<Item>*</Item>
-				</Include>
-				<Exclude>
-					<Item>\System Volume Information\</Item>
-					<Item>\$Recycle.Bin\</Item>
-					<Item>\RECYCLER\</Item>
-					<Item>\RECYCLED\</Item>
-					<Item>*\desktop.ini</Item>
-					<Item>*\thumbs.db</Item>
-				</Exclude>
-				<TimeSpan Type="None">0</TimeSpan>
-				<SizeMin Unit="None">0</SizeMin>
-				<SizeMax Unit="None">0</SizeMax>
-			</Filter>
-		</Pair>
+        <Pair>
+            <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\Flowgorithm</Left>
+            <Right>\\192.168.1.216\d\Laboratory\Flowgorithm</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
         <Pair>
             <Left>\\192.168.1.6\e\DK-HP-PA-2000AR\Laboratory\FreeFileSync</Left>
             <Right>\\192.168.1.216\d\Laboratory\FreeFileSync</Right>
@@ -2728,11 +2728,11 @@
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>
+    <LogFolder>\\192.168.1.216\d\Laboratory\FreeFileSync</LogFolder>
     <PostSyncCommand Condition="Completion"/>
     <Batch>
         <ProgressDialog Minimized="false" AutoClose="false"/>
         <ErrorDialog>Show</ErrorDialog>
         <PostSyncAction>None</PostSyncAction>
-        <LogfileFolder Limit="-1">\\192.168.1.216\d\Laboratory\FreeFileSync</LogfileFolder>
     </Batch>
 </FreeFileSync>

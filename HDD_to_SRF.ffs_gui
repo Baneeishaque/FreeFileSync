@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FreeFileSync XmlType="BATCH" XmlFormat="14">
+<FreeFileSync XmlType="GUI" XmlFormat="14">
     <Compare>
         <Variant>TimeAndSize</Variant>
         <Symlinks>Exclude</Symlinks>
@@ -833,7 +833,7 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
+                    <Item>*.log</Item>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1993,6 +1993,27 @@
             </Filter>
         </Pair>
         <Pair>
+            <Left>I:\DK-HP-PA-2000AR\Laboratory\Unix_Scripts</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Unix_Scripts</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
             <Left>I:\DK-HP-PA-2000AR\Laboratory\Visual_Studio</Left>
             <Right>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio</Right>
             <Filter>
@@ -3063,13 +3084,37 @@
                 <SizeMax Unit="None">0</SizeMax>
             </Filter>
         </Pair>
+        <Pair>
+            <Left>I:\DK-HP-PA-2000AR\wwwroot</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>\php\</Item>
+                    <Item>\React\</Item>
+                    <Item>\Node_js\</Item>
+                    <Item>\aspnet_client\</Item>
+                    <Item>\JSP\</Item>
+                    <Item>\Node_js_client\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>
     <LogFolder>D:\DK-HP-PA-2000AR\Laboratory\FreeFileSync</LogFolder>
     <PostSyncCommand Condition="Completion"/>
-    <Batch>
-        <ProgressDialog Minimized="false" AutoClose="false"/>
-        <ErrorDialog>Show</ErrorDialog>
-        <PostSyncAction>None</PostSyncAction>
-    </Batch>
+    <Gui>
+        <MiddleGridView>Action</MiddleGridView>
+    </Gui>
 </FreeFileSync>

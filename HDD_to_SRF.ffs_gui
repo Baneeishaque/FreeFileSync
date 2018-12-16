@@ -1682,6 +1682,27 @@
             </Filter>
         </Pair>
         <Pair>
+            <Left>I:\DK-HP-PA-2000AR\Laboratory\Packet_Tracer</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Packet_Tracer</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
             <Left>I:\DK-HP-PA-2000AR\Laboratory\Padre</Left>
             <Right>D:\DK-HP-PA-2000AR\Laboratory\Padre</Right>
             <Filter>
@@ -2337,6 +2358,26 @@
                     <Item>*\thumbs.db</Item>
                     <Item>*\vendor\</Item>
                     <Item>*\.metadata\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>I:\DK-HP-PA-2000AR\Laboratory\ZeroBrane_Studio</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\ZeroBrane_Studio</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>

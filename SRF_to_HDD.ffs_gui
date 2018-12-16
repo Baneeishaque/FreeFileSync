@@ -1682,6 +1682,27 @@
             </Filter>
         </Pair>
         <Pair>
+            <Left>D:\DK-HP-PA-2000AR\Laboratory\Packet_Tracer</Left>
+            <Right>I:\DK-HP-PA-2000AR\Laboratory\Packet_Tracer</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
             <Left>D:\DK-HP-PA-2000AR\Laboratory\Padre</Left>
             <Right>I:\DK-HP-PA-2000AR\Laboratory\Padre</Right>
             <Filter>
@@ -2344,6 +2365,26 @@
             </Filter>
         </Pair>
         <Pair>
+            <Left>D:\DK-HP-PA-2000AR\Laboratory\ZeroBrane_Studio</Left>
+            <Right>I:\DK-HP-PA-2000AR\Laboratory\ZeroBrane_Studio</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
             <Left>D:\DK-HP-PA-2000AR\Micro Processors &amp; Controllers</Left>
             <Right>I:\DK-HP-PA-2000AR\Micro Processors &amp; Controllers</Right>
             <Filter>
@@ -2891,6 +2932,27 @@
             </Filter>
         </Pair>
         <Pair>
+            <Left>D:\DK-HP-PA-2000AR\wwwroot\Moonshine</Left>
+            <Right>I:\DK-HP-PA-2000AR\wwwroot\Moonshine</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
             <Left>D:\DK-HP-PA-2000AR\wwwroot\Node_js</Left>
             <Right>I:\DK-HP-PA-2000AR\wwwroot\Node_js</Right>
             <Filter>
@@ -3103,6 +3165,7 @@
                     <Item>\Node_js\</Item>
                     <Item>\aspnet_client\</Item>
                     <Item>\JSP\</Item>
+                    <Item>\Moonshine\</Item>
                     <Item>\Node_js_client\</Item>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>

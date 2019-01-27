@@ -16,7 +16,11 @@
             <Item>*</Item>
         </Include>
         <Exclude>
-            <Item>*\aspnet_client\</Item>
+            <Item>/.fseventsd/</Item>
+            <Item>/.Spotlight-V100/</Item>
+            <Item>/.Trashes/</Item>
+            <Item>*/.DS_Store</Item>
+            <Item>*/._.*</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -24,8 +28,8 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Android_Developments</Left>
-            <Right>I:\DK-HP-PA-2000AR\Android_Developments</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Android_Developments</Left>
+            <Right>D:\DK-HP-PA-2000AR\Android_Developments</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -45,8 +49,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Backup Files</Left>
-            <Right>I:\DK-HP-PA-2000AR\Backup Files</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Backup Files</Left>
+            <Right>D:\DK-HP-PA-2000AR\Backup Files</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -66,8 +70,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Computer Systems</Left>
-            <Right>I:\DK-HP-PA-2000AR\Computer Systems</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Computer Systems</Left>
+            <Right>D:\DK-HP-PA-2000AR\Computer Systems</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -87,8 +91,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Electrical_Systems</Left>
-            <Right>I:\DK-HP-PA-2000AR\Electrical_Systems</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Electrical_Systems</Left>
+            <Right>D:\DK-HP-PA-2000AR\Electrical_Systems</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -108,8 +112,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Electronics Systems</Left>
-            <Right>I:\DK-HP-PA-2000AR\Electronics Systems</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Electronics Systems</Left>
+            <Right>D:\DK-HP-PA-2000AR\Electronics Systems</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -129,8 +133,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Embedded_Systems</Left>
-            <Right>I:\DK-HP-PA-2000AR\Embedded_Systems</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Embedded_Systems</Left>
+            <Right>D:\DK-HP-PA-2000AR\Embedded_Systems</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -150,8 +154,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Images</Left>
-            <Right>I:\DK-HP-PA-2000AR\Images</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Images</Left>
+            <Right>D:\DK-HP-PA-2000AR\Images</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -171,8 +175,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Adobe_XD</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Adobe_XD</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Adobe_XD</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Adobe_XD</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -192,8 +196,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Advanced_Renamer</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Advanced_Renamer</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Advanced_Renamer</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Advanced_Renamer</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -213,8 +217,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Android_Studio</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Android_Studio</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Android_Studio</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Android_Studio</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -235,8 +239,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Arduino_IDE</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Arduino_IDE</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Arduino_IDE</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Arduino_IDE</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -256,8 +260,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\B4A</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\B4A</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\B4A</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\B4A</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -280,8 +284,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Bash</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Bash</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Bash</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Bash</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -301,8 +305,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Batch</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Batch</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Batch</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Batch</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -322,8 +326,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_GCC</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\CMD_GCC</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\CMD_GCC</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\CMD_GCC</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -343,8 +347,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Go</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\CMD_Go</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\CMD_Go</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\CMD_Go</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -364,8 +368,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Gradle</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\CMD_Gradle</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\CMD_Gradle</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\CMD_Gradle</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -386,8 +390,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Java</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\CMD_Java</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\CMD_Java</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\CMD_Java</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -407,8 +411,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Lua</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\CMD_Lua</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\CMD_Lua</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\CMD_Lua</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -428,8 +432,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Mono</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\CMD_Mono</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\CMD_Mono</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\CMD_Mono</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -449,8 +453,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Node</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\CMD_Node</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\CMD_Node</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\CMD_Node</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -471,8 +475,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_php</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\CMD_php</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\CMD_php</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\CMD_php</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -494,8 +498,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Python</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\CMD_Python</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\CMD_Python</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\CMD_Python</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -515,8 +519,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Python3</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\CMD_Python3</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\CMD_Python3</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\CMD_Python3</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -536,8 +540,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Ruby</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\CMD_Ruby</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\CMD_Ruby</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\CMD_Ruby</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -557,8 +561,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Ruby_Gems</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\CMD_Ruby_Gems</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\CMD_Ruby_Gems</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\CMD_Ruby_Gems</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -578,8 +582,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CN1Cordova</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\CN1Cordova</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\CN1Cordova</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\CN1Cordova</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -601,8 +605,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CodenameOne</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\CodenameOne</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\CodenameOne</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\CodenameOne</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -624,8 +628,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Cordova</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Cordova</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Cordova</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Cordova</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -651,8 +655,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Dev_C++</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Dev_C++</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Dev_C++</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Dev_C++</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -672,8 +676,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Docker</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Docker</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Docker</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Docker</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -693,8 +697,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Dosbox</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Dosbox</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Dosbox</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Dosbox</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -714,8 +718,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\eC</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\eC</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\eC</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\eC</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -735,8 +739,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -759,8 +763,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Eclipse_J2SE</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Eclipse_J2SE</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Eclipse_J2SE</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Eclipse_J2SE</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -781,8 +785,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\firebird</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\firebird</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\firebird</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\firebird</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -802,8 +806,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Flowgorithm</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Flowgorithm</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Flowgorithm</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Flowgorithm</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -822,8 +826,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\FreeFileSync</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\FreeFileSync</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\FreeFileSync</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\FreeFileSync</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -843,8 +847,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Geogibra</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Geogibra</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Geogibra</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Geogibra</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -864,8 +868,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Google_App_Engine</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Google_App_Engine</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Google_App_Engine</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Google_App_Engine</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -885,8 +889,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Groovy</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Groovy</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Groovy</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Groovy</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -906,8 +910,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Ignite</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Ignite</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Ignite</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Ignite</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -930,8 +934,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Inkscape</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Inkscape</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Inkscape</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Inkscape</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -951,8 +955,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\IntelliJ_IDEA</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\IntelliJ_IDEA</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\IntelliJ_IDEA</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\IntelliJ_IDEA</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -973,35 +977,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\ionic</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\ionic</Right>
-            <Filter>
-                <Include>
-                    <Item>*</Item>
-                </Include>
-                <Exclude>
-                    <Item>\System Volume Information\</Item>
-                    <Item>\$Recycle.Bin\</Item>
-                    <Item>\RECYCLER\</Item>
-                    <Item>\RECYCLED\</Item>
-                    <Item>*\desktop.ini</Item>
-                    <Item>*\thumbs.db</Item>
-                    <Item>*\node_modules\</Item>
-                    <Item>*\bower_components\</Item>
-                    <Item>*\platforms\</Item>
-                    <Item>*\plugins\</Item>
-                    <Item>*\.gradle\</Item>
-                    <Item>*\build\</Item>
-                    <Item/>
-                </Exclude>
-                <TimeSpan Type="None">0</TimeSpan>
-                <SizeMin Unit="None">0</SizeMin>
-                <SizeMax Unit="None">0</SizeMax>
-            </Filter>
-        </Pair>
-        <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\ionic_angular</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\ionic_angular</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\ionic</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\ionic</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1027,8 +1004,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\ionic2</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\ionic2</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\ionic_angular</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\ionic_angular</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1054,8 +1031,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\ionic3</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\ionic3</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\ionic2</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\ionic2</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1081,8 +1058,35 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Jupyter</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Jupyter</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\ionic3</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\ionic3</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\bower_components\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Jupyter</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Jupyter</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1102,8 +1106,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Komodo_IDE</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Komodo_IDE</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Komodo_IDE</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Komodo_IDE</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1123,8 +1127,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Maven</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Maven</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Maven</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Maven</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1144,8 +1148,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\MikTex</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\MikTex</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\MikTex</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\MikTex</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1165,8 +1169,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Misc</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Misc</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Misc</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Misc</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1186,8 +1190,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\MongoDB</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\MongoDB</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\MongoDB</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\MongoDB</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1207,8 +1211,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\MySQL_Data_Compare</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\MySQL_Data_Compare</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\MySQL_Data_Compare</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\MySQL_Data_Compare</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1228,8 +1232,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NativeBase</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\NativeBase</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\NativeBase</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\NativeBase</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1252,8 +1256,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Apache_OpenOffice</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Netbeans_Apache_OpenOffice</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Netbeans_Apache_OpenOffice</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Apache_OpenOffice</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1276,8 +1280,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Arduino</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\NetBeans_Arduino</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\NetBeans_Arduino</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Arduino</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1300,8 +1304,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_C</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\NetBeans_C</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\NetBeans_C</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_C</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1324,8 +1328,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_C++</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\NetBeans_C++</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\NetBeans_C++</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_C++</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1348,8 +1352,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Chrome_Extension</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Netbeans_Chrome_Extension</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Netbeans_Chrome_Extension</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Chrome_Extension</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1374,8 +1378,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Fortran</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\NetBeans_Fortran</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\NetBeans_Fortran</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Fortran</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1398,8 +1402,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Gluon</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\NetBeans_Gluon</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\NetBeans_Gluon</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Gluon</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1423,8 +1427,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Gradle</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\NetBeans_Gradle</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\NetBeans_Gradle</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Gradle</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1447,8 +1451,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Groovy</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\NetBeans_Groovy</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\NetBeans_Groovy</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Groovy</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1471,8 +1475,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_J2SE</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\NetBeans_J2SE</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\NetBeans_J2SE</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_J2SE</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1495,8 +1499,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_JavaFX</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Netbeans_JavaFX</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Netbeans_JavaFX</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_JavaFX</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1519,8 +1523,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Maven</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\NetBeans_Maven</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\NetBeans_Maven</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Maven</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1543,8 +1547,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_MinGW_W64_C</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Netbeans_MinGW_W64_C</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Netbeans_MinGW_W64_C</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_MinGW_W64_C</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1567,8 +1571,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_NBAndroid</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\NetBeans_NBAndroid</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\NetBeans_NBAndroid</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_NBAndroid</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1591,8 +1595,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Python</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Netbeans_Python</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Netbeans_Python</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Python</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1615,8 +1619,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Ruby</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Netbeans_Ruby</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Netbeans_Ruby</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Ruby</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1639,8 +1643,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Vaadin</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Netbeans_Vaadin</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Netbeans_Vaadin</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Vaadin</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1663,8 +1667,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\OpenOffice_Base</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\OpenOffice_Base</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\OpenOffice_Base</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\OpenOffice_Base</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1684,8 +1688,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Packet_Tracer</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Packet_Tracer</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Packet_Tracer</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Packet_Tracer</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1705,8 +1709,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Padre</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Padre</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Padre</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Padre</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1726,8 +1730,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\php</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\php</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\php</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\php</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1747,8 +1751,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\pipenv</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\pipenv</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\pipenv</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\pipenv</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1768,8 +1772,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\PlayN</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\PlayN</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\PlayN</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\PlayN</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1789,8 +1793,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\PowerShell</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\PowerShell</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\PowerShell</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\PowerShell</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1810,8 +1814,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\PyCharm</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\PyCharm</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\PyCharm</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\PyCharm</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1831,8 +1835,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\PyCharm_py2</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\PyCharm_py2</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\PyCharm_py2</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\PyCharm_py2</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1852,8 +1856,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\PyCharm_py3</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\PyCharm_py3</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\PyCharm_py3</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\PyCharm_py3</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1873,8 +1877,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\R</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\R</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\R</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\R</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1907,8 +1911,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\React-Native</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\React-Native</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\React-Native</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\React-Native</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1932,8 +1936,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Ruby_ERB</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Ruby_ERB</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Ruby_ERB</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Ruby_ERB</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1953,8 +1957,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Shell</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Shell</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Shell</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Shell</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1974,8 +1978,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Spyder</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Spyder</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Spyder</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Spyder</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1995,8 +1999,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Tests</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Tests</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Tests</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Tests</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2016,8 +2020,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Unix_Scripts</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Unix_Scripts</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Unix_Scripts</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Unix_Scripts</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2037,8 +2041,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Visual_Studio</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Visual_Studio</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2059,8 +2063,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2008</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2008</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2008</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2008</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2081,8 +2085,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2010</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2010</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2010</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2010</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2103,8 +2107,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2012</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2012</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2012</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2012</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2125,8 +2129,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2013</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2013</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2013</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2013</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2147,8 +2151,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2169,8 +2173,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\VS_Code_Batch</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\VS_Code_Batch</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\VS_Code_Batch</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\VS_Code_Batch</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2189,8 +2193,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\VS_Code_ionic1</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\VS_Code_ionic1</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\VS_Code_ionic1</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\VS_Code_ionic1</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2215,8 +2219,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\VS_Code_mingw64</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\VS_Code_mingw64</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\VS_Code_mingw64</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\VS_Code_mingw64</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2235,29 +2239,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python3</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python3</Right>
-            <Filter>
-                <Include>
-                    <Item>*</Item>
-                </Include>
-                <Exclude>
-                    <Item>\System Volume Information\</Item>
-                    <Item>\$Recycle.Bin\</Item>
-                    <Item>\RECYCLER\</Item>
-                    <Item>\RECYCLED\</Item>
-                    <Item>*\desktop.ini</Item>
-                    <Item>*\thumbs.db</Item>
-                    <Item/>
-                </Exclude>
-                <TimeSpan Type="None">0</TimeSpan>
-                <SizeMin Unit="None">0</SizeMin>
-                <SizeMax Unit="None">0</SizeMax>
-            </Filter>
-        </Pair>
-        <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python34</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python34</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\VS_Code_Python3</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python3</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2277,8 +2260,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\WebstormProjects</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\WebstormProjects</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\VS_Code_Python34</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python34</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2298,8 +2281,29 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Weex</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Weex</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\WebstormProjects</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\WebstormProjects</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Weex</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Weex</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2324,8 +2328,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Xamarin</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Xamarin</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Xamarin</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Xamarin</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2345,8 +2349,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Zend_Studio</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\Zend_Studio</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\Zend_Studio</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\Zend_Studio</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2367,8 +2371,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\ZeroBrane_Studio</Left>
-            <Right>I:\DK-HP-PA-2000AR\Laboratory\ZeroBrane_Studio</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Laboratory\ZeroBrane_Studio</Left>
+            <Right>D:\DK-HP-PA-2000AR\Laboratory\ZeroBrane_Studio</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2387,29 +2391,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Micro Processors &amp; Controllers</Left>
-            <Right>I:\DK-HP-PA-2000AR\Micro Processors &amp; Controllers</Right>
-            <Filter>
-                <Include>
-                    <Item>*</Item>
-                </Include>
-                <Exclude>
-                    <Item>\System Volume Information\</Item>
-                    <Item>\$Recycle.Bin\</Item>
-                    <Item>\RECYCLER\</Item>
-                    <Item>\RECYCLED\</Item>
-                    <Item>*\desktop.ini</Item>
-                    <Item>*\thumbs.db</Item>
-                    <Item/>
-                </Exclude>
-                <TimeSpan Type="None">0</TimeSpan>
-                <SizeMin Unit="None">0</SizeMin>
-                <SizeMax Unit="None">0</SizeMax>
-            </Filter>
-        </Pair>
-        <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Networking Principles</Left>
-            <Right>I:\DK-HP-PA-2000AR\Networking Principles</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Micro Processors &amp; Controllers</Left>
+            <Right>D:\DK-HP-PA-2000AR\Micro Processors &amp; Controllers</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2429,8 +2412,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Physics</Left>
-            <Right>I:\DK-HP-PA-2000AR\Physics</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Networking Principles</Left>
+            <Right>D:\DK-HP-PA-2000AR\Networking Principles</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2450,8 +2433,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Programming Contents</Left>
-            <Right>I:\DK-HP-PA-2000AR\Programming Contents</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Physics</Left>
+            <Right>D:\DK-HP-PA-2000AR\Physics</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2471,8 +2454,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Programming Languages</Left>
-            <Right>I:\DK-HP-PA-2000AR\Programming Languages</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Programming Contents</Left>
+            <Right>D:\DK-HP-PA-2000AR\Programming Contents</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2492,8 +2475,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Projects</Left>
-            <Right>I:\DK-HP-PA-2000AR\Projects</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Programming Languages</Left>
+            <Right>D:\DK-HP-PA-2000AR\Programming Languages</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2513,8 +2496,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Research_Files</Left>
-            <Right>I:\DK-HP-PA-2000AR\Research_Files</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Projects</Left>
+            <Right>D:\DK-HP-PA-2000AR\Projects</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2534,8 +2517,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Satellite Dish Tracking Systems</Left>
-            <Right>I:\DK-HP-PA-2000AR\Satellite Dish Tracking Systems</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Research_Files</Left>
+            <Right>D:\DK-HP-PA-2000AR\Research_Files</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2555,8 +2538,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Scripting_Langauges</Left>
-            <Right>I:\DK-HP-PA-2000AR\Scripting_Langauges</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Satellite Dish Tracking Systems</Left>
+            <Right>D:\DK-HP-PA-2000AR\Satellite Dish Tracking Systems</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2576,8 +2559,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Seminars</Left>
-            <Right>I:\DK-HP-PA-2000AR\Seminars</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Scripting_Langauges</Left>
+            <Right>D:\DK-HP-PA-2000AR\Scripting_Langauges</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2597,8 +2580,29 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Songs</Left>
-            <Right>I:\DK-HP-PA-2000AR\Songs</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Seminars</Left>
+            <Right>D:\DK-HP-PA-2000AR\Seminars</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Songs</Left>
+            <Right>D:\DK-HP-PA-2000AR\Songs</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2619,8 +2623,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Today</Left>
-            <Right>I:\DK-HP-PA-2000AR\Today</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\Today</Left>
+            <Right>D:\DK-HP-PA-2000AR\Today</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2639,29 +2643,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Appengine</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\Appengine</Right>
-            <Filter>
-                <Include>
-                    <Item>*</Item>
-                </Include>
-                <Exclude>
-                    <Item>\System Volume Information\</Item>
-                    <Item>\$Recycle.Bin\</Item>
-                    <Item>\RECYCLER\</Item>
-                    <Item>\RECYCLED\</Item>
-                    <Item>*\desktop.ini</Item>
-                    <Item>*\thumbs.db</Item>
-                    <Item/>
-                </Exclude>
-                <TimeSpan Type="None">0</TimeSpan>
-                <SizeMin Unit="None">0</SizeMin>
-                <SizeMax Unit="None">0</SizeMax>
-            </Filter>
-        </Pair>
-        <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\ASP_NET</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\ASP_NET</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\Appengine</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\Appengine</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2681,8 +2664,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\CFML</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\CFML</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\ASP_NET</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\ASP_NET</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2702,8 +2685,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\CGI</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\CGI</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\CFML</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\CFML</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2723,8 +2706,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\django</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\django</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\CGI</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\CGI</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2744,8 +2727,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Flask</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\Flask</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\django</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\django</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2765,8 +2748,29 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\ftp</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\ftp</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\Flask</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\Flask</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\ftp</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\ftp</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2786,8 +2790,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Go</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\Go</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\Go</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\Go</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2807,8 +2811,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\HTML</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\HTML</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\HTML</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\HTML</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2828,8 +2832,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\HTML_CSS_JS_Bootstrap</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\HTML_CSS_JS_Bootstrap</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\HTML_CSS_JS_Bootstrap</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\HTML_CSS_JS_Bootstrap</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2849,8 +2853,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2870,8 +2874,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\jekyll</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\jekyll</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\jekyll</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\jekyll</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2891,8 +2895,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\JSP</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\JSP</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\JSP</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\JSP</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2913,8 +2917,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Media_test</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\Media_test</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\Media_test</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\Media_test</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2934,29 +2938,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Moonshine</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\Moonshine</Right>
-            <Filter>
-                <Include>
-                    <Item>*</Item>
-                </Include>
-                <Exclude>
-                    <Item>\System Volume Information\</Item>
-                    <Item>\$Recycle.Bin\</Item>
-                    <Item>\RECYCLER\</Item>
-                    <Item>\RECYCLED\</Item>
-                    <Item>*\desktop.ini</Item>
-                    <Item>*\thumbs.db</Item>
-                    <Item/>
-                </Exclude>
-                <TimeSpan Type="None">0</TimeSpan>
-                <SizeMin Unit="None">0</SizeMin>
-                <SizeMax Unit="None">0</SizeMax>
-            </Filter>
-        </Pair>
-        <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Node_js</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\Node_js</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\Node_js</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\Node_js</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2977,8 +2960,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Node_js_client</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\Node_js_client</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\Node_js_client</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\Node_js_client</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2999,8 +2982,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Perl</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\Perl</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\Perl</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\Perl</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -3020,8 +3003,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\php</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\php</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\php</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\php</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -3044,8 +3027,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\production</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\production</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\production</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\production</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -3065,8 +3048,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Python2</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\Python2</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\Python2</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\Python2</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -3086,8 +3069,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Python3</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\Python3</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\Python3</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\Python3</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -3107,8 +3090,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Ruby</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\Ruby</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\Ruby</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\Ruby</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -3128,8 +3111,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Ruby_Rails</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot\Ruby_Rails</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot\Ruby_Rails</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\Ruby_Rails</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -3149,8 +3132,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot</Left>
-            <Right>I:\DK-HP-PA-2000AR\wwwroot</Right>
+            <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR\wwwroot</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -3162,12 +3145,29 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
+                    <Item>/Appengine/</Item>
+                    <Item>/ASP_NET/</Item>
+                    <Item>/CFML/</Item>
+                    <Item>/CGI/</Item>
+                    <Item>/django/</Item>
+                    <Item>/Flask/</Item>
+                    <Item>/ftp/</Item>
+                    <Item>/Go/</Item>
+                    <Item>/HTML_CSS_JS_Bootstrap/</Item>
+                    <Item>/jekyll/</Item>
+                    <Item>/Media_test/</Item>
+                    <Item>/Moonshine/</Item>
+                    <Item>/Perl/</Item>
+                    <Item>/production/</Item>
+                    <Item>/Python2/</Item>
+                    <Item>/Python3/</Item>
+                    <Item>/Ruby/</Item>
+                    <Item>/Ruby_Rails/</Item>
                     <Item>\php\</Item>
                     <Item>\React\</Item>
                     <Item>\Node_js\</Item>
                     <Item>\aspnet_client\</Item>
                     <Item>\JSP\</Item>
-                    <Item>\Moonshine\</Item>
                     <Item>\Node_js_client\</Item>
                     <Item>\HTML\</Item>
                     <Item>\HTML_JS_CSS\</Item>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="14">
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Mirror</Variant>
+        <DetectMovedFiles>true</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLER\</Item>
+            <Item>\RECYCLED\</Item>
+            <Item>*\desktop.ini</Item>
+            <Item>*\thumbs.db</Item>
+            <Item>\Android\data\</Item>
+            <Item>\DCIM\.thumbnails\</Item>
+            <Item>\Huawei\CloudDrive\.thumbnail\</Item>
+            <Item>\Pictures\.Gallery2\</Item>
+            <Item>\Huawei\Themes\.cache\</Item>
+            <Item>\Android\media\com.google.android.talk\</Item>
+            <Item>\AppProjects\Account_Ledger\app\build\</Item>
+            <Item>\data\com.twoplay.twoplayer2\mediaCache\</Item>
+            <Item>\Download\test\bin\</Item>
+            <Item>\Huawei\Themes\themecache\</Item>
+            <Item>\AppProjects\MyGame\gdx-game\bin\</Item>
+            <Item>\AppProjects\MyGame\gdx-game-android\bin\</Item>
+            <Item>\AppProjects\MyGame\gdx-game-android\gen\</Item>
+            <Item>\AppProjects\MyJavaConsoleApp\bin\</Item>
+            <Item>\DCIM\Camera\cache\</Item>
+            <Item>\Download\MyApp\app\build\</Item>
+            <Item>\Download\MyNDKApp\bin\</Item>
+            <Item>\Download\MyNDKApp\gen\</Item>
+            <Item>\WhatsApp\Media\.Statuses\</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>ftp://francis@192.168.43.1:2221/|pass64=ZnJhbmNpcw==</Left>
+            <Right>D:\ph</Right>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <LogFolder/>
+    <PostSyncCommand Condition="Completion"/>
+    <Gui>
+        <MiddleGridView>Action</MiddleGridView>
+    </Gui>
+</FreeFileSync>

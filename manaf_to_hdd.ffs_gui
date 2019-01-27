@@ -18,8 +18,7 @@
         <Exclude>
             <Item>\System Volume Information\</Item>
             <Item>\$Recycle.Bin\</Item>
-            <Item>\RECYCLER\</Item>
-            <Item>\RECYCLED\</Item>
+            <Item>\RECYCLE?\</Item>
             <Item>*\desktop.ini</Item>
             <Item>*\thumbs.db</Item>
         </Exclude>
@@ -29,12 +28,12 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>D:\Shared To DK</Left>
-            <Right>I:\Sharafu_System\D_Drive\Shared To DK</Right>
+            <Left>D:\Softwares\banee</Left>
+            <Right>G:\Banee_Data\Manaf_System\banee</Right>
         </Pair>
         <Pair>
-            <Left>E:\Sharafudheen</Left>
-            <Right>I:\Sharafu_System\E_Drive\Sharafudheen</Right>
+            <Left>D:\C_Drive\Desktop\To DK</Left>
+            <Right>G:\Banee_Data\Manaf_System\To DK</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

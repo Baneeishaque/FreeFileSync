@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FreeFileSync XmlType="GUI" XmlFormat="14">
     <Compare>
-        <Variant>TimeAndSize</Variant>
+        <Variant>Size</Variant>
         <Symlinks>Exclude</Symlinks>
         <IgnoreTimeShift/>
     </Compare>
@@ -49,8 +49,8 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>sftp://root@139.59.65.128:22/root|chan=10|pass64=YUEhOTg5NTIwNDgxNA==</Left>
-            <Right>D:\DK-HP-PA-2000AR\wwwroot\php\Lottery_Server\db_backups\do</Right>
+            <Left>sftp://root@139.59.65.128:22/var/www/html/aria2_repository/tasks/android_studio2/android-studio|chan=10|pass64=YUEhOTg5NTIwNDgxNA==</Left>
+            <Right>C:\Programs\android-studio-ide-183.5240547-windows</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

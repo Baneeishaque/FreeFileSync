@@ -34,11 +34,11 @@
     <FolderPairs>
         <Pair>
             <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR_Linux</Left>
-            <Right>D:\DK-HP-PA-2000AR_Linux</Right>
+            <Right>H:\DK-HP-PA-2000AR_Linux</Right>
         </Pair>
         <Pair>
             <Left>\\192.168.1.45\manec\Banee_Data\DK-HP-PA-2000AR_Win</Left>
-            <Right>D:\DK-HP-PA-2000AR_Win</Right>
+            <Right>H:\DK-HP-PA-2000AR_Win</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

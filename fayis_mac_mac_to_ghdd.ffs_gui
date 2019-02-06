@@ -35,7 +35,7 @@
     <FolderPairs>
         <Pair>
             <Left>\\192.168.1.45\manec\Fayis_Data</Left>
-            <Right>I:\DK_Uncopied_Data\fayis_mac</Right>
+            <Right>G:\DK_Uncopied_Data\fayis_mac</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

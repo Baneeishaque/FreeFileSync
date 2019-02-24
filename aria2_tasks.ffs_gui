@@ -18,15 +18,10 @@
         <Exclude>
             <Item>\System Volume Information\</Item>
             <Item>\$Recycle.Bin\</Item>
-            <Item>\RECYCLER\</Item>
-            <Item>\RECYCLED\</Item>
+            <Item>\RECYCLE?\</Item>
             <Item>*\desktop.ini</Item>
             <Item>*\thumbs.db</Item>
-            <Item>/.fseventsd/</Item>
-            <Item>/.Spotlight-V100/</Item>
-            <Item>/.Trashes/</Item>
-            <Item>*/.DS_Store</Item>
-            <Item>*/._.*</Item>
+            <Item>\aria2.log</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -34,12 +29,8 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>H:\Sharafu_System\D_Drive\Shared To DK</Left>
-            <Right>D:\Shared To DK</Right>
-        </Pair>
-        <Pair>
-            <Left>H:\Sharafu_System\E_Drive\Sharafudheen</Left>
-            <Right>E:\Sharafudheen</Right>
+            <Left>C:\Programs\aria2_repository</Left>
+            <Right>H:\From_SRF\aria2_repository</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

@@ -33,15 +33,27 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>H:\DK-HP-PA-2000AR_Win64</Left>
+            <Left>G:\DK-HP-PA-2000AR_Win7_SP1</Left>
+            <Right>D:\DK-HP-PA-2000AR_Win7_SP1</Right>
+        </Pair>
+        <Pair>
+            <Left>G:\DK-HP-PA-2000AR_Ubuntu</Left>
+            <Right>D:\DK-HP-PA-2000AR_Ubuntu</Right>
+        </Pair>
+        <Pair>
+            <Left>G:\DK-HP-PA-2000AR_Mac</Left>
+            <Right>D:\DK-HP-PA-2000AR_Mac</Right>
+        </Pair>
+        <Pair>
+            <Left>G:\DK-HP-PA-2000AR_Win64</Left>
             <Right>D:\DK-HP-PA-2000AR_Win64</Right>
         </Pair>
         <Pair>
-            <Left>H:\DK-HP-PA-2000AR_Linux</Left>
+            <Left>G:\DK-HP-PA-2000AR_Linux</Left>
             <Right>D:\DK-HP-PA-2000AR_Linux</Right>
         </Pair>
         <Pair>
-            <Left>H:\DK-HP-PA-2000AR_Win</Left>
+            <Left>G:\DK-HP-PA-2000AR_Win</Left>
             <Right>D:\DK-HP-PA-2000AR_Win</Right>
         </Pair>
     </FolderPairs>

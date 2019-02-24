@@ -21,11 +21,6 @@
             <Item>\RECYCLE?\</Item>
             <Item>*\desktop.ini</Item>
             <Item>*\thumbs.db</Item>
-            <Item>/.fseventsd/</Item>
-            <Item>/.Spotlight-V100/</Item>
-            <Item>/.Trashes/</Item>
-            <Item>*/.DS_Store</Item>
-            <Item>*/._.*</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -33,12 +28,12 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR_Linux</Left>
-            <Right>G:\DK-HP-PA-2000AR_Linux</Right>
+            <Left>D:\Nabeel_Data\Nabeel_Data_D\Songs</Left>
+            <Right>H:\DK_Uncopied_Data\To_Hear\nabeel_d_Songs</Right>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR_Win</Left>
-            <Right>G:\DK-HP-PA-2000AR_Win</Right>
+            <Left>D:\Nabeel_Data\Nabeel_Data_C\SoNgs</Left>
+            <Right>H:\DK_Uncopied_Data\To_Hear\nabeel_C_SoNgs</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

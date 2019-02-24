@@ -15,7 +15,13 @@
         <Include>
             <Item>*</Item>
         </Include>
-        <Exclude/>
+        <Exclude>
+            <Item>/.fseventsd/</Item>
+            <Item>/.Spotlight-V100/</Item>
+            <Item>/.Trashes/</Item>
+            <Item>*/.DS_Store</Item>
+            <Item>*/._.*</Item>
+        </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
         <SizeMax Unit="None">0</SizeMax>
@@ -1165,6 +1171,11 @@
         <Pair>
             <Left>G:\DK-HP-PA-2000AR\Laboratory\Misc</Left>
             <Right>D:\DK-HP-PA-2000AR\Laboratory\Misc</Right>
+            <Compare>
+                <Variant>TimeAndSize</Variant>
+                <Symlinks>Follow</Symlinks>
+                <IgnoreTimeShift/>
+            </Compare>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -3139,27 +3150,27 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
+                    <Item>/Appengine/</Item>
+                    <Item>/ASP_NET/</Item>
+                    <Item>/CFML/</Item>
+                    <Item>/CGI/</Item>
+                    <Item>/django/</Item>
+                    <Item>/Flask/</Item>
+                    <Item>/ftp/</Item>
+                    <Item>/Go/</Item>
+                    <Item>/HTML_CSS_JS_Bootstrap/</Item>
+                    <Item>/jekyll/</Item>
+                    <Item>/Media_test/</Item>
+                    <Item>/Moonshine/</Item>
+                    <Item>/Perl/</Item>
+                    <Item>/production/</Item>
+                    <Item>/Python2/</Item>
+                    <Item>/Python3/</Item>
+                    <Item>/Ruby/</Item>
+                    <Item>/Ruby_Rails/</Item>
                     <Item>\php\</Item>
                     <Item>\React\</Item>
                     <Item>\Node_js\</Item>
-                    <Item>\Python3\</Item>
-                    <Item>\ASP_NET\</Item>
-                    <Item>\Python2\</Item>
-                    <Item>\Ruby_Rails\</Item>
-                    <Item>\production\</Item>
-                    <Item>\django\</Item>
-                    <Item>\Media_test\</Item>
-                    <Item>\ftp\</Item>
-                    <Item>\Ruby\</Item>
-                    <Item>\Moonshine\</Item>
-                    <Item>\CGI\</Item>
-                    <Item>\Appengine\</Item>
-                    <Item>\HTML_CSS_JS_Bootstrap\</Item>
-                    <Item>\Flask\</Item>
-                    <Item>\CFML\</Item>
-                    <Item>\Go\</Item>
-                    <Item>\jekyll\</Item>
-                    <Item>\Perl\</Item>
                     <Item>\aspnet_client\</Item>
                     <Item>\JSP\</Item>
                     <Item>\Node_js_client\</Item>

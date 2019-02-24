@@ -32,7 +32,7 @@
     <FolderPairs>
         <Pair>
             <Left>G:\Nabeel_Data</Left>
-            <Right>E:\Nabeel_Data</Right>
+            <Right>D:\Nabeel_Data</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

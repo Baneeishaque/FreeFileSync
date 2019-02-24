@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="14">
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Mirror</Variant>
+        <DetectMovedFiles>true</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLER\</Item>
+            <Item>\RECYCLED\</Item>
+            <Item>*\desktop.ini</Item>
+            <Item>*\thumbs.db</Item>
+            <Item>/Android/data/com.aide.ui/cache/</Item>
+            <Item>/Android/data/com.aide.web/cache/</Item>
+            <Item>/Android/data/com.alibaba.aliexpresshd/cache/</Item>
+            <Item>/Android/data/com.android.contacts/cache/</Item>
+            <Item>/Android/data/com.android.gallery3d/cache/</Item>
+            <Item>/Android/data/com.android.mediacenter/musiccache/</Item>
+            <Item>/Android/data/com.android.providers.media/thumbnail_cache/</Item>
+            <Item>/Android/data/com.app.wooplr/cache/</Item>
+            <Item>/Android/data/com.bsb.hike/cache/</Item>
+            <Item>/Android/data/com.bsb.hike/files/assetsTemp/</Item>
+            <Item>/Android/data/com.bsb.hike/files/diskcache/</Item>
+            <Item>/Android/data/com.carwale/cache/</Item>
+            <Item>/Android/data/com.cleartrip.android/cache/</Item>
+            <Item>/Android/data/com.dropbox.android/asset_cache/</Item>
+            <Item>/Android/data/com.dropbox.android/cache/</Item>
+            <Item>/Android/data/com.echofon/cache/</Item>
+            <Item>/Android/data/com.google.android.apps.maps/cache/</Item>
+            <Item>/Android/data/com.google.android.gm/cache/</Item>
+            <Item>/Android/data/com.google.android.youtube/cache/</Item>
+            <Item>/Android/data/com.huawei.himovie.overseas/cache/</Item>
+            <Item>/Android/data/com.huawei.hwid/cache/</Item>
+            <Item>/Android/data/com.idea.backup.smscontacts/cache/</Item>
+            <Item>/Android/data/com.infosys.android.ui/cache/</Item>
+            <Item>/Android/data/com.instagram.android/cache/</Item>
+            <Item>/Android/data/com.lonelycatgames.Xplore/cache/</Item>
+            <Item>/Android/data/com.lonelycatgames.Xplore/files/Send Anywhere/.temp/</Item>
+            <Item>/Android/data/com.microsoft.office.outlook/cache/</Item>
+            <Item>/Android/data/com.microsoft.office.powerpoint/cache/</Item>
+            <Item>/Android/data/com.microsoft.todos/cache/</Item>
+            <Item>/Android/data/com.mobisystems.office/cache/</Item>
+            <Item>/Android/data/com.sand.airdroid/files/cache/</Item>
+            <Item>/Android/data/com.sds.android.ttpod/.cache/</Item>
+            <Item>/Android/data/com.sds.android.ttpod/cache/</Item>
+            <Item>/Android/data/com.taskbucks.taskbucks/cache/</Item>
+            <Item>/Android/data/com.touchtype.swiftkey/cache/</Item>
+            <Item>/Android/data/com.whatsapp/cache/</Item>
+            <Item>/Android/data/com.whatsonindia/cache/</Item>
+            <Item>/Android/data/lysesoft.andftp/cache/</Item>
+            <Item>/Android/data/ndk.personal.account_ledger/cache/</Item>
+            <Item>/baidu/tempdata/</Item>
+            <Item>/Hike/Temp/</Item>
+            <Item>/system/tmp/</Item>
+            <Item>/TempImages/</Item>
+            <Item>/ttpod/cache/</Item>
+            <Item>\4SHARED.COM\.install</Item>
+            <Item>\Android\data\</Item>
+            <Item>\Android\media\com.google.android.talk\</Item>
+            <Item>\AppProjects\Account_Ledger\app\build\</Item>
+            <Item>\AppProjects\MyGame\gdx-game\bin\</Item>
+            <Item>\AppProjects\MyGame\gdx-game-android\bin\</Item>
+            <Item>\AppProjects\MyGame\gdx-game-android\gen\</Item>
+            <Item>\AppProjects\MyJavaConsoleApp\bin\</Item>
+            <Item>\data\com.twoplay.twoplayer2\mediaCache\</Item>
+            <Item>\DCIM\.thumbnails\</Item>
+            <Item>\DCIM\Camera\cache\</Item>
+            <Item>\Download\MyApp\app\build\</Item>
+            <Item>\Download\MyNDKApp\bin\</Item>
+            <Item>\Download\MyNDKApp\gen\</Item>
+            <Item>\Download\test\bin\</Item>
+            <Item>\Huawei\CloudDrive\.thumbnail\</Item>
+            <Item>\Huawei\Themes\.cache\</Item>
+            <Item>\Huawei\Themes\themecache\</Item>
+            <Item>\Pictures\.Gallery2\</Item>
+            <Item>\TempImages\</Item>
+            <Item>\WhatsApp\Media\.Statuses\</Item>
+            <Item>\Xender\.db\</Item>
+            <Item>\Xender\.x_did</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>mtp:\Honor 9 Lite\Internal shared storage</Left>
+            <Right>D:\ph</Right>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <LogFolder/>
+    <PostSyncCommand Condition="Completion"/>
+    <Gui>
+        <MiddleGridView>Action</MiddleGridView>
+    </Gui>
+</FreeFileSync>

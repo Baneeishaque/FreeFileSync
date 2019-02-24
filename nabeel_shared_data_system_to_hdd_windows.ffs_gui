@@ -28,12 +28,16 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>E:\Nabeel_Data\Nabeel_Data_D\Songs</Left>
-            <Right>H:\DK_Uncopied_Data\To_Hear\nabeel_d_Songs</Right>
+            <Left>D:\Shared_Data\Players</Left>
+            <Right>G:\DK-HP-PA-2000AR\Computer Systems\Software Maintanance Files\Media Tools\Players</Right>
         </Pair>
         <Pair>
-            <Left>E:\Nabeel_Data\Nabeel_Data_C\SoNgs</Left>
-            <Right>H:\DK_Uncopied_Data\To_Hear\nabeel_C_SoNgs</Right>
+            <Left>D:\Shared_Data\HP Deskjet 1510 series</Left>
+            <Right>G:\DK-HP-PA-2000AR\Computer Systems\Hardware Maintanance Files\Peripheral Devices\Printers\HP Deskjet 1510 series</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Shared_Data\KTU</Left>
+            <Right>G:\DK-HP-PA-2000AR\Backup Files\B Tech\KTU</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

@@ -1165,6 +1165,11 @@
         <Pair>
             <Left>D:\DK-HP-PA-2000AR\Laboratory\Misc</Left>
             <Right>G:\DK-HP-PA-2000AR\Laboratory\Misc</Right>
+            <Compare>
+                <Variant>TimeAndSize</Variant>
+                <Symlinks>Follow</Symlinks>
+                <IgnoreTimeShift/>
+            </Compare>
             <Filter>
                 <Include>
                     <Item>*</Item>

@@ -30,7 +30,7 @@
     <FolderPairs>
         <Pair>
             <Left>C:\Programs\aria2_repository</Left>
-            <Right>H:\From_SRF\aria2_repository</Right>
+            <Right>I:\From_SRF\aria2_repository</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

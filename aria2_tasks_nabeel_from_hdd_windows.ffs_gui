@@ -21,6 +21,7 @@
             <Item>\RECYCLE?\</Item>
             <Item>*\desktop.ini</Item>
             <Item>*\thumbs.db</Item>
+            <Item>\aria2.log</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -28,12 +29,8 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>H:\DK_Uncopied_Data\To_Hear\nabeel_d_Songs</Left>
-            <Right>D:\Nabeel_Data\Nabeel_Data_D\Songs</Right>
-        </Pair>
-        <Pair>
-            <Left>H:\DK_Uncopied_Data\To_Hear\nabeel_C_SoNgs</Left>
-            <Right>D:\Nabeel_Data\Nabeel_Data_C\SoNgs</Right>
+            <Left>H:\From_Nabeel\aria2_repository</Left>
+            <Right>C:\Programs\aria2_repository</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

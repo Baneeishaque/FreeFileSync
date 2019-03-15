@@ -89,6 +89,7 @@
             <Item>\WhatsApp\Media\.Statuses\</Item>
             <Item>\Xender\.db\</Item>
             <Item>\Xender\.x_did</Item>
+            <Item>\login_log\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>

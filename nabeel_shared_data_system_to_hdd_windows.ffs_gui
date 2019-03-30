@@ -29,11 +29,11 @@
     <FolderPairs>
         <Pair>
             <Left>D:\Shared_Data\Players</Left>
-            <Right>G:\DK-HP-PA-2000AR\Computer Systems\Software Maintanance Files\Media Tools\Players</Right>
+            <Right>G:\DK-HP-PA-2000AR\Computer Systems\Software_Tools\Media Tools\Players</Right>
         </Pair>
         <Pair>
             <Left>D:\Shared_Data\HP Deskjet 1510 series</Left>
-            <Right>G:\DK-HP-PA-2000AR\Computer Systems\Hardware Maintanance Files\Peripheral Devices\Printers\HP Deskjet 1510 series</Right>
+            <Right>G:\DK-HP-PA-2000AR\Computer Systems\Hardware_Tools\Peripheral Devices\Printers\HP Deskjet 1510 series</Right>
         </Pair>
         <Pair>
             <Left>D:\Shared_Data\KTU</Left>

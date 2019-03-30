@@ -33,6 +33,10 @@
     </Filter>
     <FolderPairs>
         <Pair>
+            <Left>H:\DK-HP-PA-2000AR_Linux64</Left>
+            <Right>C:\DK-HP-PA-2000AR_Linux64</Right>
+        </Pair>
+        <Pair>
             <Left>H:\DK-HP-PA-2000AR_Win7_SP1</Left>
             <Right>C:\DK-HP-PA-2000AR_Win7_SP1</Right>
         </Pair>

@@ -7,7 +7,7 @@
     </Compare>
     <Synchronize>
         <Variant>Mirror</Variant>
-        <DetectMovedFiles>true</DetectMovedFiles>
+        <DetectMovedFiles>false</DetectMovedFiles>
         <DeletionPolicy>RecycleBin</DeletionPolicy>
         <VersioningFolder Style="Replace"/>
     </Synchronize>
@@ -28,16 +28,8 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>G:\DK-HP-PA-2000AR\Computer Systems\Software_Tools\Media Tools\Players</Left>
-            <Right>D:\Shared_Data\Players</Right>
-        </Pair>
-        <Pair>
-            <Left>G:\DK-HP-PA-2000AR\Computer Systems\Hardware_Tools\Peripheral Devices\Printers\HP Deskjet 1510 series</Left>
-            <Right>D:\Shared_Data\HP Deskjet 1510 series</Right>
-        </Pair>
-        <Pair>
-            <Left>G:\DK-HP-PA-2000AR\Backup Files\B Tech\KTU</Left>
-            <Right>D:\Shared_Data\KTU</Right>
+            <Left>C:\Songs</Left>
+            <Right>mtp:\Honor 9 Lite\SD card\Songs</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FreeFileSync XmlType="GUI" XmlFormat="14">
     <Compare>
-        <Variant>TimeAndSize</Variant>
+        <Variant>Size</Variant>
         <Symlinks>Exclude</Symlinks>
         <IgnoreTimeShift/>
     </Compare>
@@ -97,7 +97,7 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>G:\Honor_9_Lite\sdcard</Left>
+            <Left>G:\Data_Backups\Honor_9_Lite\sdcard</Left>
             <Right>ftp://android@192.168.43.1:2221/|pass64=YW5kcm9pZA==</Right>
         </Pair>
     </FolderPairs>

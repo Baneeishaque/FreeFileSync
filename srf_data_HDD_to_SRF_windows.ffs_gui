@@ -34,12 +34,12 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>G:\Sharafu_System\D_Drive\Shared To DK</Left>
+            <Left>G:\Data_Backups\Sharafu_System\D_Drive\Shared To DK</Left>
             <Right>D:\Shared To DK</Right>
         </Pair>
         <Pair>
-            <Left>G:\Sharafu_System\E_Drive\Sharafudheen</Left>
-            <Right>E:\Sharafudheen</Right>
+            <Left>G:\Data_Backups\Sharafu_System\E_Drive\Sharafudheen</Left>
+            <Right>D:\Sharafudheen</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

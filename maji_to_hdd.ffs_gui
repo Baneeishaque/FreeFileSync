@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="14">
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Mirror</Variant>
+        <DetectMovedFiles>true</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLE?\</Item>
+            <Item>*\desktop.ini</Item>
+            <Item>*\thumbs.db</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>E:\Banee</Left>
+            <Right>F:\Changed_Files\Maji_Rest</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\4G_Mobiles\</Item>
+                    <Item>\adt-infra-958180293308f4be67f6369acb075503f84a08b1-emu-image-external\</Item>
+                    <Item>\Android_Common_Utils_API_16\</Item>
+                    <Item>\Account_Ledger\</Item>
+                    <Item>\Account_Ledger_Server\</Item>
+                    <Item>\Android_Common_Utils_API_19\</Item>
+                    <Item>\Lottery_Server\</Item>
+                    <Item>\Lottery\</Item>
+                    <Item>\Android_Common_Utils_API_1\</Item>
+                    <Item>\SHC_Android_Client\</Item>
+                    <Item>\Android_Common_Utils_API_14\</Item>
+                    <Item>\DK-HP-PA-2000AR\</Item>
+                    <Item>\DK-HP-PA-2000AR_Win\</Item>
+                    <Item>\DK-HP-PA-2000AR_Win64\</Item>
+                    <Item>\DK-HP-PA-2000AR_Win7_SP1\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <LogFolder/>
+    <PostSyncCommand Condition="Completion"/>
+    <Gui>
+        <MiddleGridView>Action</MiddleGridView>
+    </Gui>
+</FreeFileSync>

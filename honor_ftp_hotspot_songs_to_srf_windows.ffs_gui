@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FreeFileSync XmlType="GUI" XmlFormat="14">
     <Compare>
-        <Variant>TimeAndSize</Variant>
+        <Variant>Size</Variant>
         <Symlinks>Exclude</Symlinks>
         <IgnoreTimeShift/>
     </Compare>
@@ -13,17 +13,18 @@
     </Synchronize>
     <Filter>
         <Include>
-            <Item>*</Item>
+            <Item>*.txt</Item>
+            <Item>*.lrc</Item>
+            <Item>*.trc</Item>
+            <Item>*.xtrc</Item>
         </Include>
         <Exclude>
             <Item>\System Volume Information\</Item>
             <Item>\$Recycle.Bin\</Item>
-            <Item>\RECYCLE?\</Item>
+            <Item>\RECYCLER\</Item>
+            <Item>\RECYCLED\</Item>
             <Item>*\desktop.ini</Item>
             <Item>*\thumbs.db</Item>
-            <Item>\Nabeel_Data_C\SoNgs\</Item>
-            <Item>\Adobe_Acrobat_Pro_DC_2017.009.20044 - IZOFILE.COM.rar</Item>
-            <Item>\Nabeel_Data_D\Songs\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -31,8 +32,8 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>D:\Nabeel_Data</Left>
-            <Right>G:\Data_Backups\Nabeel_Data</Right>
+            <Left>ftp://android@192.168.43.1:2221/Songs|pass64=YW5kcm9pZA==</Left>
+            <Right>D:\DK-HP-PA-2000AR\Songs</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

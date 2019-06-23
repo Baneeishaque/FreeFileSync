@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FreeFileSync XmlType="GUI" XmlFormat="14">
     <Compare>
-        <Variant>TimeAndSize</Variant>
+        <Variant>Size</Variant>
         <Symlinks>Exclude</Symlinks>
         <IgnoreTimeShift/>
     </Compare>
@@ -42,6 +42,7 @@
             <Item>\private_key_sender.asc</Item>
             <Item>\public_key_sender.asc</Item>
             <Item>\secring.gpg</Item>
+            <Item>\account_ledger_*</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -50,7 +51,7 @@
     <FolderPairs>
         <Pair>
             <Left>sftp://root@139.59.65.128:22/root|chan=10|pass64=YUEhOTg5NTIwNDgxNA==</Left>
-            <Right>D:\DK-HP-PA-2000AR\wwwroot\php\Lottery_Server\db_backups\do</Right>
+            <Right>D:\Banee_Data\Lottery_Server\db_backups\do</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

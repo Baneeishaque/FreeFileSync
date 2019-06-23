@@ -21,9 +21,6 @@
             <Item>\RECYCLE?\</Item>
             <Item>*\desktop.ini</Item>
             <Item>*\thumbs.db</Item>
-            <Item>\Nabeel_Data_C\SoNgs\</Item>
-            <Item>\Adobe_Acrobat_Pro_DC_2017.009.20044 - IZOFILE.COM.rar</Item>
-            <Item>\Nabeel_Data_D\Songs\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -31,8 +28,16 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>D:\Nabeel_Data</Left>
-            <Right>G:\Data_Backups\Nabeel_Data</Right>
+            <Left>F:\DK-HP-PA-2000AR_Win64</Left>
+            <Right>E:\Banee\DK-HP-PA-2000AR_Win64</Right>
+        </Pair>
+        <Pair>
+            <Left>F:\DK-HP-PA-2000AR_Win7_SP1</Left>
+            <Right>E:\Banee\DK-HP-PA-2000AR_Win7_SP1</Right>
+        </Pair>
+        <Pair>
+            <Left>F:\DK-HP-PA-2000AR_Win</Left>
+            <Right>E:\Banee\DK-HP-PA-2000AR_Win</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

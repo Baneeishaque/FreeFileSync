@@ -42,6 +42,7 @@
             <Item>\private_key_sender.asc</Item>
             <Item>\public_key_sender.asc</Item>
             <Item>\secring.gpg</Item>
+            <Item>\vfmobo6d_lottery_*</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -49,7 +50,7 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\php\Lottery_Server\db_backups\do</Left>
+            <Left>D:\DK-HP-PA-2000AR\wwwroot\php\Account_Ledger_Server\db_backups\do</Left>
             <Right>sftp://root@139.59.65.128:22/root|chan=10|pass64=YUEhOTg5NTIwNDgxNA==</Right>
         </Pair>
     </FolderPairs>

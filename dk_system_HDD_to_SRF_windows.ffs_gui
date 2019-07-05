@@ -354,7 +354,7 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
+                    <Item>*\node_modules\</Item>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -964,6 +964,7 @@
                     <Item>*\thumbs.db</Item>
                     <Item>*\.gradle\</Item>
                     <Item>*\build\</Item>
+                    <Item>*\out\</Item>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2614,7 +2615,7 @@
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
                     <Item>*\Folder.jpg</Item>
-                    <Item>*\AlbumArtSmall.jpg</Item>
+                    <Item>*\AlbumArt*</Item>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>

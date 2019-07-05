@@ -35,7 +35,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -56,7 +55,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -77,7 +75,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -98,7 +95,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -119,7 +115,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -140,7 +135,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -161,7 +155,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -182,7 +175,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -203,7 +195,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -246,7 +237,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -270,7 +260,6 @@
                     <Item>*.meta</Item>
                     <Item>*\Objects\</Item>
                     <Item>*\Files\</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -291,7 +280,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -312,7 +300,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -333,7 +320,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -397,7 +383,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -418,7 +403,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -439,7 +423,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -505,7 +488,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -526,7 +508,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -547,7 +528,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -568,7 +548,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -641,7 +620,6 @@
                     <Item>*\plugins\</Item>
                     <Item>*\.gradle\</Item>
                     <Item>*\build\</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -662,7 +640,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -683,7 +660,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -704,7 +680,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -725,7 +700,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -792,7 +766,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -854,7 +827,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -875,7 +847,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -896,7 +867,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -941,7 +911,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -990,7 +959,6 @@
                     <Item>*\plugins\</Item>
                     <Item>*\.gradle\</Item>
                     <Item>*\build\</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1017,7 +985,6 @@
                     <Item>*\plugins\</Item>
                     <Item>*\.gradle\</Item>
                     <Item>*\build\</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1044,7 +1011,6 @@
                     <Item>*\plugins\</Item>
                     <Item>*\.gradle\</Item>
                     <Item>*\build\</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1071,7 +1037,6 @@
                     <Item>*\plugins\</Item>
                     <Item>*\.gradle\</Item>
                     <Item>*\build\</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1092,7 +1057,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1113,7 +1077,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1181,7 +1144,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1202,7 +1164,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1223,7 +1184,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1679,7 +1639,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1700,7 +1659,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1721,7 +1679,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1742,7 +1699,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1763,7 +1719,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1805,7 +1760,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1826,7 +1780,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1847,7 +1800,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1868,7 +1820,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1948,7 +1899,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1969,7 +1919,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1990,7 +1939,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2011,7 +1959,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2032,7 +1979,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2251,7 +2197,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2272,7 +2217,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2293,7 +2237,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2403,7 +2346,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2424,7 +2366,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2445,7 +2386,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2466,7 +2406,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2487,7 +2426,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2508,7 +2446,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2529,7 +2466,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2550,7 +2486,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2571,7 +2506,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2592,7 +2526,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2614,7 +2547,9 @@
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
                     <Item>*\Folder.jpg</Item>
-                    <Item>*\AlbumArt*</Item>
+                    <Item>*\AlbumArtSmall.jpg</Item>
+                    <Item>*\AlbumArt_*_Small.jpg</Item>
+                    <Item>*\AlbumArt_*_Large.jpg</Item>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2655,7 +2590,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2676,7 +2610,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2697,7 +2630,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2718,7 +2650,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2739,7 +2670,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2760,7 +2690,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2802,7 +2731,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2823,7 +2751,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2844,7 +2771,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2865,7 +2791,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2886,7 +2811,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2929,7 +2853,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2994,7 +2917,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -3018,7 +2940,6 @@
                     <Item>*\vendor\</Item>
                     <Item>*\node_modules\</Item>
                     <Item>*\bower_components\</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -3039,7 +2960,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -3060,7 +2980,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -3081,7 +3000,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -3102,7 +3020,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -3123,7 +3040,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -3170,6 +3086,128 @@
                     <Item>\Node_js_client\</Item>
                     <Item>\HTML\</Item>
                     <Item>\HTML_JS_CSS\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Shared To DK</Left>
+            <Right>G:\Data_Backups\Sharafu_System\D_Drive\Shared To DK</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>/.fseventsd/</Item>
+                    <Item>/.Spotlight-V100/</Item>
+                    <Item>/.Trashes/</Item>
+                    <Item>*/.DS_Store</Item>
+                    <Item>*/._.*</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Sharafudheen</Left>
+            <Right>G:\Data_Backups\Sharafu_System\E_Drive\Sharafudheen</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>/.fseventsd/</Item>
+                    <Item>/.Spotlight-V100/</Item>
+                    <Item>/.Trashes/</Item>
+                    <Item>*/.DS_Store</Item>
+                    <Item>*/._.*</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\DK-HP-PA-2000AR_Win7_SP1</Left>
+            <Right>G:\DK-HP-PA-2000AR_Win7_SP1</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLE?\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>/.fseventsd/</Item>
+                    <Item>/.Spotlight-V100/</Item>
+                    <Item>/.Trashes/</Item>
+                    <Item>*/.DS_Store</Item>
+                    <Item>*/._.*</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\DK-HP-PA-2000AR_Win64</Left>
+            <Right>G:\DK-HP-PA-2000AR_Win64</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLE?\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>/.fseventsd/</Item>
+                    <Item>/.Spotlight-V100/</Item>
+                    <Item>/.Trashes/</Item>
+                    <Item>*/.DS_Store</Item>
+                    <Item>*/._.*</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\DK-HP-PA-2000AR_Win</Left>
+            <Right>G:\DK-HP-PA-2000AR_Win</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLE?\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>/.fseventsd/</Item>
+                    <Item>/.Spotlight-V100/</Item>
+                    <Item>/.Trashes/</Item>
+                    <Item>*/.DS_Store</Item>
+                    <Item>*/._.*</Item>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>

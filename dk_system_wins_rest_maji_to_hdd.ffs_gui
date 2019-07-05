@@ -15,15 +15,17 @@
         <Include>
             <Item>*</Item>
         </Include>
-        <Exclude/>
+        <Exclude>
+            <Item>\Srf_Val_System_Backup\</Item>
+        </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
         <SizeMax Unit="None">0</SizeMax>
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Android_Developments</Left>
-            <Right>G:\DK-HP-PA-2000AR\Android_Developments</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Android_Developments</Left>
+            <Right>F:\DK-HP-PA-2000AR\Android_Developments</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -35,7 +37,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -43,8 +44,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Backup Files</Left>
-            <Right>G:\DK-HP-PA-2000AR\Backup Files</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Backup Files</Left>
+            <Right>F:\DK-HP-PA-2000AR\Backup Files</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -56,7 +57,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -64,8 +64,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Computer Systems</Left>
-            <Right>G:\DK-HP-PA-2000AR\Computer Systems</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Computer Systems</Left>
+            <Right>F:\DK-HP-PA-2000AR\Computer Systems</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -77,7 +77,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -85,8 +84,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Electrical_Systems</Left>
-            <Right>G:\DK-HP-PA-2000AR\Electrical_Systems</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Electrical_Systems</Left>
+            <Right>F:\DK-HP-PA-2000AR\Electrical_Systems</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -98,7 +97,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -106,8 +104,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Electronics Systems</Left>
-            <Right>G:\DK-HP-PA-2000AR\Electronics Systems</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Electronics Systems</Left>
+            <Right>F:\DK-HP-PA-2000AR\Electronics Systems</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -119,7 +117,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -127,8 +124,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Embedded_Systems</Left>
-            <Right>G:\DK-HP-PA-2000AR\Embedded_Systems</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Embedded_Systems</Left>
+            <Right>F:\DK-HP-PA-2000AR\Embedded_Systems</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -140,7 +137,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -148,8 +144,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Images</Left>
-            <Right>G:\DK-HP-PA-2000AR\Images</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Images</Left>
+            <Right>F:\DK-HP-PA-2000AR\Images</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -161,7 +157,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -169,8 +164,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Adobe_XD</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Adobe_XD</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Adobe_XD</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Adobe_XD</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -182,7 +177,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -190,8 +184,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Advanced_Renamer</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Advanced_Renamer</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Advanced_Renamer</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Advanced_Renamer</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -203,7 +197,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -211,8 +204,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Android_Studio</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Android_Studio</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Android_Studio</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Android_Studio</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -233,8 +226,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Arduino_IDE</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Arduino_IDE</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Arduino_IDE</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Arduino_IDE</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -246,7 +239,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -254,8 +246,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\B4A</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\B4A</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\B4A</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\B4A</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -270,7 +262,6 @@
                     <Item>*.meta</Item>
                     <Item>*\Objects\</Item>
                     <Item>*\Files\</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -278,8 +269,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Bash</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Bash</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Bash</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Bash</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -291,7 +282,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -299,8 +289,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Batch</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Batch</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Batch</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Batch</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -312,7 +302,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -320,8 +309,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_GCC</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\CMD_GCC</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\CMD_GCC</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\CMD_GCC</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -333,7 +322,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -341,8 +329,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Go</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\CMD_Go</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\CMD_Go</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\CMD_Go</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -354,7 +342,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item>*\node_modules\</Item>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -362,8 +349,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Gradle</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\CMD_Gradle</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\CMD_Gradle</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\CMD_Gradle</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -384,8 +371,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Java</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\CMD_Java</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\CMD_Java</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\CMD_Java</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -397,7 +384,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -405,8 +391,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Lua</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\CMD_Lua</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\CMD_Lua</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\CMD_Lua</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -418,7 +404,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -426,8 +411,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Mono</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\CMD_Mono</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\CMD_Mono</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\CMD_Mono</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -439,7 +424,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -447,8 +431,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Node</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\CMD_Node</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\CMD_Node</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\CMD_Node</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -469,8 +453,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_php</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\CMD_php</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\CMD_php</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\CMD_php</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -492,8 +476,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Python</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\CMD_Python</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\CMD_Python</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\CMD_Python</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -505,7 +489,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -513,8 +496,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Python3</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\CMD_Python3</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\CMD_Python3</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\CMD_Python3</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -526,7 +509,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -534,8 +516,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Ruby</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\CMD_Ruby</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\CMD_Ruby</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\CMD_Ruby</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -547,7 +529,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -555,8 +536,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CMD_Ruby_Gems</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\CMD_Ruby_Gems</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\CMD_Ruby_Gems</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\CMD_Ruby_Gems</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -568,7 +549,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -576,31 +556,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CN1Cordova</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\CN1Cordova</Right>
-            <Filter>
-                <Include>
-                    <Item>*</Item>
-                </Include>
-                <Exclude>
-                    <Item>\System Volume Information\</Item>
-                    <Item>\$Recycle.Bin\</Item>
-                    <Item>\RECYCLER\</Item>
-                    <Item>\RECYCLED\</Item>
-                    <Item>*\desktop.ini</Item>
-                    <Item>*\thumbs.db</Item>
-                    <Item>*\build\</Item>
-                    <Item>*\dist\</Item>
-                    <Item>*\lib\impl\</Item>
-                </Exclude>
-                <TimeSpan Type="None">0</TimeSpan>
-                <SizeMin Unit="None">0</SizeMin>
-                <SizeMax Unit="None">0</SizeMax>
-            </Filter>
-        </Pair>
-        <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\CodenameOne</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\CodenameOne</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\CN1Cordova</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\CN1Cordova</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -622,8 +579,31 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Cordova</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Cordova</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\CodenameOne</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\CodenameOne</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\lib\impl\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Cordova</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Cordova</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -641,7 +621,6 @@
                     <Item>*\plugins\</Item>
                     <Item>*\.gradle\</Item>
                     <Item>*\build\</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -649,8 +628,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Dev_C++</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Dev_C++</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Dev_C++</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Dev_C++</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -662,7 +641,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -670,8 +648,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Docker</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Docker</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Docker</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Docker</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -683,7 +661,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -691,8 +668,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Dosbox</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Dosbox</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Dosbox</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Dosbox</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -704,7 +681,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -712,8 +688,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\eC</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\eC</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\eC</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\eC</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -725,7 +701,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -733,8 +708,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -757,8 +732,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Eclipse_J2SE</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Eclipse_J2SE</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Eclipse_J2SE</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Eclipse_J2SE</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -779,29 +754,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\firebird</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\firebird</Right>
-            <Filter>
-                <Include>
-                    <Item>*</Item>
-                </Include>
-                <Exclude>
-                    <Item>\System Volume Information\</Item>
-                    <Item>\$Recycle.Bin\</Item>
-                    <Item>\RECYCLER\</Item>
-                    <Item>\RECYCLED\</Item>
-                    <Item>*\desktop.ini</Item>
-                    <Item>*\thumbs.db</Item>
-                    <Item/>
-                </Exclude>
-                <TimeSpan Type="None">0</TimeSpan>
-                <SizeMin Unit="None">0</SizeMin>
-                <SizeMax Unit="None">0</SizeMax>
-            </Filter>
-        </Pair>
-        <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Flowgorithm</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Flowgorithm</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\firebird</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\firebird</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -820,8 +774,28 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\FreeFileSync</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\FreeFileSync</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Flowgorithm</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Flowgorithm</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\FreeFileSync</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\FreeFileSync</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -841,8 +815,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Geogibra</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Geogibra</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Geogibra</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Geogibra</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -854,7 +828,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -862,8 +835,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Google_App_Engine</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Google_App_Engine</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Google_App_Engine</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Google_App_Engine</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -875,7 +848,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -883,8 +855,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Groovy</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Groovy</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Groovy</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Groovy</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -896,7 +868,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -904,8 +875,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Ignite</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Ignite</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Ignite</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Ignite</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -928,8 +899,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Inkscape</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Inkscape</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Inkscape</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Inkscape</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -941,7 +912,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -949,8 +919,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\IntelliJ_IDEA</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\IntelliJ_IDEA</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\IntelliJ_IDEA</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\IntelliJ_IDEA</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -971,8 +941,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\ionic</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\ionic</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\ionic</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\ionic</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -990,7 +960,6 @@
                     <Item>*\plugins\</Item>
                     <Item>*\.gradle\</Item>
                     <Item>*\build\</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -998,8 +967,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\ionic_angular</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\ionic_angular</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\ionic_angular</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\ionic_angular</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1017,7 +986,6 @@
                     <Item>*\plugins\</Item>
                     <Item>*\.gradle\</Item>
                     <Item>*\build\</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1025,8 +993,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\ionic2</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\ionic2</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\ionic2</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\ionic2</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1044,7 +1012,6 @@
                     <Item>*\plugins\</Item>
                     <Item>*\.gradle\</Item>
                     <Item>*\build\</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1052,8 +1019,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\ionic3</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\ionic3</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\ionic3</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\ionic3</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1071,7 +1038,6 @@
                     <Item>*\plugins\</Item>
                     <Item>*\.gradle\</Item>
                     <Item>*\build\</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1079,8 +1045,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Jupyter</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Jupyter</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Jupyter</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Jupyter</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1092,7 +1058,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1100,8 +1065,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Komodo_IDE</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Komodo_IDE</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Komodo_IDE</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Komodo_IDE</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1113,7 +1078,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1121,8 +1085,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Maven</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Maven</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Maven</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Maven</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1142,8 +1106,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\MikTex</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\MikTex</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\MikTex</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\MikTex</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1163,8 +1127,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Misc</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Misc</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Misc</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Misc</Right>
             <Compare>
                 <Variant>TimeAndSize</Variant>
                 <Symlinks>Follow</Symlinks>
@@ -1181,7 +1145,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1189,8 +1152,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\MongoDB</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\MongoDB</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\MongoDB</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\MongoDB</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1202,7 +1165,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1210,8 +1172,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\MySQL_Data_Compare</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\MySQL_Data_Compare</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\MySQL_Data_Compare</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\MySQL_Data_Compare</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1223,7 +1185,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1231,8 +1192,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NativeBase</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\NativeBase</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\NativeBase</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\NativeBase</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1255,8 +1216,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Apache_OpenOffice</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Netbeans_Apache_OpenOffice</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Netbeans_Apache_OpenOffice</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Netbeans_Apache_OpenOffice</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1279,8 +1240,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Arduino</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\NetBeans_Arduino</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\NetBeans_Arduino</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\NetBeans_Arduino</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1303,8 +1264,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_C</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\NetBeans_C</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\NetBeans_C</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\NetBeans_C</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1327,8 +1288,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_C++</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\NetBeans_C++</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\NetBeans_C++</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\NetBeans_C++</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1351,8 +1312,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Chrome_Extension</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Netbeans_Chrome_Extension</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Netbeans_Chrome_Extension</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Netbeans_Chrome_Extension</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1377,8 +1338,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Fortran</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\NetBeans_Fortran</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\NetBeans_Fortran</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\NetBeans_Fortran</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1401,8 +1362,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Gluon</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\NetBeans_Gluon</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\NetBeans_Gluon</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\NetBeans_Gluon</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1426,8 +1387,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Gradle</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\NetBeans_Gradle</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\NetBeans_Gradle</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\NetBeans_Gradle</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1450,8 +1411,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Groovy</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\NetBeans_Groovy</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\NetBeans_Groovy</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\NetBeans_Groovy</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1474,8 +1435,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_J2SE</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\NetBeans_J2SE</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\NetBeans_J2SE</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\NetBeans_J2SE</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1498,8 +1459,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_JavaFX</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Netbeans_JavaFX</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Netbeans_JavaFX</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Netbeans_JavaFX</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1522,8 +1483,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_Maven</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\NetBeans_Maven</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\NetBeans_Maven</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\NetBeans_Maven</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1546,8 +1507,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_MinGW_W64_C</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Netbeans_MinGW_W64_C</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Netbeans_MinGW_W64_C</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Netbeans_MinGW_W64_C</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1570,8 +1531,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\NetBeans_NBAndroid</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\NetBeans_NBAndroid</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\NetBeans_NBAndroid</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\NetBeans_NBAndroid</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1594,8 +1555,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Python</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Netbeans_Python</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Netbeans_Python</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Netbeans_Python</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1618,8 +1579,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Ruby</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Netbeans_Ruby</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Netbeans_Ruby</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Netbeans_Ruby</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1642,8 +1603,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Netbeans_Vaadin</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Netbeans_Vaadin</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Netbeans_Vaadin</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Netbeans_Vaadin</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1666,8 +1627,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\OpenOffice_Base</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\OpenOffice_Base</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\OpenOffice_Base</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\OpenOffice_Base</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1679,7 +1640,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1687,8 +1647,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Packet_Tracer</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Packet_Tracer</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Packet_Tracer</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Packet_Tracer</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1700,7 +1660,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1708,8 +1667,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Padre</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Padre</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Padre</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Padre</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1721,7 +1680,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1729,8 +1687,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\php</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\php</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\php</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\php</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1742,7 +1700,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1750,8 +1707,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\pipenv</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\pipenv</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\pipenv</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\pipenv</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1763,7 +1720,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1771,8 +1727,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\PlayN</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\PlayN</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\PlayN</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\PlayN</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1792,8 +1748,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\PowerShell</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\PowerShell</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\PowerShell</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\PowerShell</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1805,7 +1761,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1813,8 +1768,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\PyCharm</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\PyCharm</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\PyCharm</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\PyCharm</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1826,7 +1781,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1834,8 +1788,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\PyCharm_py2</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\PyCharm_py2</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\PyCharm_py2</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\PyCharm_py2</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1847,7 +1801,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1855,8 +1808,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\PyCharm_py3</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\PyCharm_py3</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\PyCharm_py3</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\PyCharm_py3</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1868,7 +1821,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1876,8 +1828,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\R</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\R</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\R</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\R</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1910,8 +1862,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\React-Native</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\React-Native</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\React-Native</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\React-Native</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1935,8 +1887,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Ruby_ERB</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Ruby_ERB</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Ruby_ERB</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Ruby_ERB</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1948,7 +1900,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1956,8 +1907,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Shell</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Shell</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Shell</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Shell</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1969,7 +1920,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1977,8 +1927,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Spyder</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Spyder</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Spyder</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Spyder</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -1990,7 +1940,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -1998,8 +1947,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Tests</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Tests</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Tests</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Tests</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2011,7 +1960,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2019,8 +1967,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Unix_Scripts</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Unix_Scripts</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Unix_Scripts</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Unix_Scripts</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2032,7 +1980,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2040,30 +1987,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Visual_Studio</Right>
-            <Filter>
-                <Include>
-                    <Item>*</Item>
-                </Include>
-                <Exclude>
-                    <Item>\System Volume Information\</Item>
-                    <Item>\$Recycle.Bin\</Item>
-                    <Item>\RECYCLER\</Item>
-                    <Item>\RECYCLED\</Item>
-                    <Item>*\desktop.ini</Item>
-                    <Item>*\thumbs.db</Item>
-                    <Item>*\obj\</Item>
-                    <Item>*\packages\</Item>
-                </Exclude>
-                <TimeSpan Type="None">0</TimeSpan>
-                <SizeMin Unit="None">0</SizeMin>
-                <SizeMax Unit="None">0</SizeMax>
-            </Filter>
-        </Pair>
-        <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2008</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2008</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Visual_Studio</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Visual_Studio</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2084,8 +2009,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2010</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2010</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2008</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2008</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2106,8 +2031,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2012</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2012</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2010</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2010</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2128,8 +2053,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2013</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2013</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2012</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2012</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2150,8 +2075,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2013</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2013</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2172,8 +2097,30 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\VS_Code_Batch</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\VS_Code_Batch</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>*\obj\</Item>
+                    <Item>*\packages\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\VS_Code_Batch</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\VS_Code_Batch</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2192,8 +2139,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\VS_Code_ionic1</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\VS_Code_ionic1</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\VS_Code_ionic1</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\VS_Code_ionic1</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2218,8 +2165,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\VS_Code_mingw64</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\VS_Code_mingw64</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\VS_Code_mingw64</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\VS_Code_mingw64</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2238,8 +2185,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python3</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python3</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\VS_Code_Python3</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python3</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2251,7 +2198,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2259,8 +2205,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python34</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python34</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\VS_Code_Python34</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python34</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2272,7 +2218,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2280,8 +2225,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\WebstormProjects</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\WebstormProjects</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\WebstormProjects</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\WebstormProjects</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2293,7 +2238,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2301,8 +2245,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Weex</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Weex</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Weex</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Weex</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2327,8 +2271,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Xamarin</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Xamarin</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Xamarin</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Xamarin</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2348,8 +2292,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\Zend_Studio</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Zend_Studio</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\Zend_Studio</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\Zend_Studio</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2370,8 +2314,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Laboratory\ZeroBrane_Studio</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\ZeroBrane_Studio</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Laboratory\ZeroBrane_Studio</Left>
+            <Right>F:\DK-HP-PA-2000AR\Laboratory\ZeroBrane_Studio</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2390,8 +2334,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Micro Processors &amp; Controllers</Left>
-            <Right>G:\DK-HP-PA-2000AR\Micro Processors &amp; Controllers</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Micro Processors &amp; Controllers</Left>
+            <Right>F:\DK-HP-PA-2000AR\Micro Processors &amp; Controllers</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2403,7 +2347,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2411,8 +2354,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Networking Principles</Left>
-            <Right>G:\DK-HP-PA-2000AR\Networking Principles</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Networking Principles</Left>
+            <Right>F:\DK-HP-PA-2000AR\Networking Principles</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2424,7 +2367,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2432,8 +2374,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Physics</Left>
-            <Right>G:\DK-HP-PA-2000AR\Physics</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Physics</Left>
+            <Right>F:\DK-HP-PA-2000AR\Physics</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2445,7 +2387,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2453,8 +2394,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Programming Contents</Left>
-            <Right>G:\DK-HP-PA-2000AR\Programming Contents</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Programming Contents</Left>
+            <Right>F:\DK-HP-PA-2000AR\Programming Contents</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2466,7 +2407,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2474,8 +2414,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Programming Languages</Left>
-            <Right>G:\DK-HP-PA-2000AR\Programming Languages</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Programming Languages</Left>
+            <Right>F:\DK-HP-PA-2000AR\Programming Languages</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2487,7 +2427,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2495,8 +2434,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Projects</Left>
-            <Right>G:\DK-HP-PA-2000AR\Projects</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Projects</Left>
+            <Right>F:\DK-HP-PA-2000AR\Projects</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2508,7 +2447,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2516,8 +2454,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Research_Files</Left>
-            <Right>G:\DK-HP-PA-2000AR\Research_Files</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Research_Files</Left>
+            <Right>F:\DK-HP-PA-2000AR\Research_Files</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2529,7 +2467,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2537,8 +2474,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Satellite Dish Tracking Systems</Left>
-            <Right>G:\DK-HP-PA-2000AR\Satellite Dish Tracking Systems</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Satellite Dish Tracking Systems</Left>
+            <Right>F:\DK-HP-PA-2000AR\Satellite Dish Tracking Systems</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2550,7 +2487,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2558,8 +2494,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Scripting_Langauges</Left>
-            <Right>G:\DK-HP-PA-2000AR\Scripting_Langauges</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Scripting_Langauges</Left>
+            <Right>F:\DK-HP-PA-2000AR\Scripting_Langauges</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2571,7 +2507,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2579,8 +2514,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Seminars</Left>
-            <Right>G:\DK-HP-PA-2000AR\Seminars</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Seminars</Left>
+            <Right>F:\DK-HP-PA-2000AR\Seminars</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2592,7 +2527,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2600,8 +2534,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Songs</Left>
-            <Right>G:\DK-HP-PA-2000AR\Songs</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Songs</Left>
+            <Right>F:\DK-HP-PA-2000AR\Songs</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2614,7 +2548,9 @@
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
                     <Item>*\Folder.jpg</Item>
-                    <Item>*\AlbumArt*</Item>
+                    <Item>*\AlbumArtSmall.jpg</Item>
+                    <Item>*\AlbumArt_*_Large.jpg</Item>
+                    <Item>*\AlbumArt_*_Small.jpg</Item>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2622,8 +2558,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\Today</Left>
-            <Right>G:\DK-HP-PA-2000AR\Today</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\Today</Left>
+            <Right>F:\DK-HP-PA-2000AR\Today</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2642,8 +2578,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Appengine</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\Appengine</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\Appengine</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\Appengine</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2655,7 +2591,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2663,8 +2598,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\ASP_NET</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\ASP_NET</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\ASP_NET</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\ASP_NET</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2676,7 +2611,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2684,8 +2618,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\CFML</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\CFML</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\CFML</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\CFML</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2697,7 +2631,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2705,8 +2638,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\CGI</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\CGI</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\CGI</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\CGI</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2718,7 +2651,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2726,8 +2658,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\django</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\django</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\django</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\django</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2739,7 +2671,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2747,8 +2678,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Flask</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\Flask</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\Flask</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\Flask</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2760,7 +2691,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2768,8 +2698,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\ftp</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\ftp</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\ftp</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\ftp</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2789,8 +2719,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Go</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\Go</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\Go</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\Go</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2802,7 +2732,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2810,8 +2739,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\HTML</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\HTML</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\HTML</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\HTML</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2823,7 +2752,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2831,8 +2759,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\HTML_CSS_JS_Bootstrap</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\HTML_CSS_JS_Bootstrap</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\HTML_CSS_JS_Bootstrap</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\HTML_CSS_JS_Bootstrap</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2844,7 +2772,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2852,8 +2779,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2865,7 +2792,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2873,8 +2799,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\jekyll</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\jekyll</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\jekyll</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\jekyll</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2886,7 +2812,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2894,8 +2819,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\JSP</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\JSP</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\JSP</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\JSP</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2916,8 +2841,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Media_test</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\Media_test</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\Media_test</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\Media_test</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2929,7 +2854,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -2937,30 +2861,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Node_js</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\Node_js</Right>
-            <Filter>
-                <Include>
-                    <Item>*</Item>
-                </Include>
-                <Exclude>
-                    <Item>\System Volume Information\</Item>
-                    <Item>\$Recycle.Bin\</Item>
-                    <Item>\RECYCLER\</Item>
-                    <Item>\RECYCLED\</Item>
-                    <Item>*\desktop.ini</Item>
-                    <Item>*\thumbs.db</Item>
-                    <Item>*\node_modules\</Item>
-                    <Item>*\bower_components\</Item>
-                </Exclude>
-                <TimeSpan Type="None">0</TimeSpan>
-                <SizeMin Unit="None">0</SizeMin>
-                <SizeMax Unit="None">0</SizeMax>
-            </Filter>
-        </Pair>
-        <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Node_js_client</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\Node_js_client</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\Node_js</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\Node_js</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2981,8 +2883,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Perl</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\Perl</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\Node_js_client</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\Node_js_client</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -2994,7 +2896,8 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\bower_components\</Item>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -3002,8 +2905,28 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\php</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\php</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\Perl</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\Perl</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLER\</Item>
+                    <Item>\RECYCLED\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\php</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\php</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -3018,7 +2941,6 @@
                     <Item>*\vendor\</Item>
                     <Item>*\node_modules\</Item>
                     <Item>*\bower_components\</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -3026,8 +2948,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\production</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\production</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\production</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\production</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -3039,7 +2961,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -3047,8 +2968,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Python2</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\Python2</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\Python2</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\Python2</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -3060,7 +2981,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -3068,8 +2988,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Python3</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\Python3</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\Python3</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\Python3</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -3081,7 +3001,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -3089,8 +3008,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Ruby</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\Ruby</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\Ruby</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\Ruby</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -3102,7 +3021,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -3110,8 +3028,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot\Ruby_Rails</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\Ruby_Rails</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot\Ruby_Rails</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\Ruby_Rails</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -3123,7 +3041,6 @@
                     <Item>\RECYCLED\</Item>
                     <Item>*\desktop.ini</Item>
                     <Item>*\thumbs.db</Item>
-                    <Item/>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -3131,8 +3048,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\DK-HP-PA-2000AR\wwwroot</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot</Right>
+            <Left>E:\Banee\DK-HP-PA-2000AR\wwwroot</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -3176,9 +3093,125 @@
                 <SizeMax Unit="None">0</SizeMax>
             </Filter>
         </Pair>
+        <Pair>
+            <Left>E:\Banee\DK-HP-PA-2000AR_Win64</Left>
+            <Right>F:\DK-HP-PA-2000AR_Win64</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLE?\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>E:\Banee\DK-HP-PA-2000AR_Win7_SP1</Left>
+            <Right>F:\DK-HP-PA-2000AR_Win7_SP1</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLE?\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>E:\Banee\DK-HP-PA-2000AR_Win</Left>
+            <Right>F:\DK-HP-PA-2000AR_Win</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLE?\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>E:\Banee</Left>
+            <Right>H:\Data\Majid_System\Rest</Right>
+            <Synchronize>
+                <Variant>Mirror</Variant>
+                <DetectMovedFiles>false</DetectMovedFiles>
+                <DeletionPolicy>RecycleBin</DeletionPolicy>
+                <VersioningFolder Style="Replace"/>
+            </Synchronize>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLE?\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>DK-HP-PA-2000AR\</Item>
+                    <Item>DK-HP-PA-2000AR_Win\</Item>
+                    <Item>DK-HP-PA-2000AR_Win7_SP1\</Item>
+                    <Item>DK-HP-PA-2000AR_Win64\</Item>
+                    <Item>\To_DK\IntelliJ_IDEA_Maven\account_ledger\target\</Item>
+                    <Item>\To_DK\IntelliJ_IDEA_Maven\appiumTests\Dev\wikipediaTest\target\</Item>
+                    <Item>\Srf_System_Backup\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>E:\Programs\aria2_repository</Left>
+            <Right>H:\Data\Majid_System\aria2_repository</Right>
+            <Synchronize>
+                <Variant>Mirror</Variant>
+                <DetectMovedFiles>false</DetectMovedFiles>
+                <DeletionPolicy>RecycleBin</DeletionPolicy>
+                <VersioningFolder Style="Replace"/>
+            </Synchronize>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLE?\</Item>
+                    <Item>*\desktop.ini</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item/>
+                    <Item>\aria2.log</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>
-    <LogFolder>D:\DK-HP-PA-2000AR\Laboratory\FreeFileSync</LogFolder>
+    <LogFolder/>
     <PostSyncCommand Condition="Completion"/>
     <Gui>
         <MiddleGridView>Action</MiddleGridView>

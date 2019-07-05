@@ -7,7 +7,7 @@
     </Compare>
     <Synchronize>
         <Variant>Mirror</Variant>
-        <DetectMovedFiles>true</DetectMovedFiles>
+        <DetectMovedFiles>false</DetectMovedFiles>
         <DeletionPolicy>RecycleBin</DeletionPolicy>
         <VersioningFolder Style="Replace"/>
     </Synchronize>
@@ -21,6 +21,8 @@
             <Item>\RECYCLE?\</Item>
             <Item>*\desktop.ini</Item>
             <Item>*\thumbs.db</Item>
+            <Item/>
+            <Item/>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -29,27 +31,33 @@
     <FolderPairs>
         <Pair>
             <Left>E:\Banee</Left>
-            <Right>F:\Changed_Files\Maji_Rest</Right>
+            <Right>H:\Data\Majid_System\Rest</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
                 </Include>
                 <Exclude>
-                    <Item>\4G_Mobiles\</Item>
-                    <Item>\adt-infra-958180293308f4be67f6369acb075503f84a08b1-emu-image-external\</Item>
-                    <Item>\Android_Common_Utils_API_16\</Item>
-                    <Item>\Account_Ledger\</Item>
-                    <Item>\Account_Ledger_Server\</Item>
-                    <Item>\Android_Common_Utils_API_19\</Item>
-                    <Item>\Lottery_Server\</Item>
-                    <Item>\Lottery\</Item>
-                    <Item>\Android_Common_Utils_API_1\</Item>
-                    <Item>\SHC_Android_Client\</Item>
-                    <Item>\Android_Common_Utils_API_14\</Item>
-                    <Item>\DK-HP-PA-2000AR\</Item>
-                    <Item>\DK-HP-PA-2000AR_Win\</Item>
-                    <Item>\DK-HP-PA-2000AR_Win64\</Item>
-                    <Item>\DK-HP-PA-2000AR_Win7_SP1\</Item>
+                    <Item>DK-HP-PA-2000AR\</Item>
+                    <Item>DK-HP-PA-2000AR_Win\</Item>
+                    <Item>DK-HP-PA-2000AR_Win7_SP1\</Item>
+                    <Item>DK-HP-PA-2000AR_Win64\</Item>
+                    <Item>\To_DK\IntelliJ_IDEA_Maven\account_ledger\target\</Item>
+                    <Item>\To_DK\IntelliJ_IDEA_Maven\appiumTests\Dev\wikipediaTest\target\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>E:\Programs\aria2_repository</Left>
+            <Right>H:\Data\Majid_System\aria2_repository</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\aria2.log</Item>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>

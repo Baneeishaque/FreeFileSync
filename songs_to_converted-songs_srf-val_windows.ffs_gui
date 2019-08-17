@@ -21,6 +21,7 @@
             <Item>\RECYCLE?\</Item>
             <Item>*\desktop.ini</Item>
             <Item>*\thumbs.db</Item>
+            <Item>*.flac | *.MP3 | *.pdf | *.ape | *.jpg | *.aac | *.m4a | *.wpl | *.nfo | *.m3u | *.png | *.cue | *.wma | *.xml |</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -28,19 +29,8 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>D:\Programs\aria2_repository</Left>
-            <Right>T:\Changed_Files\Srf_Rest\aria2_repository</Right>
-            <Filter>
-                <Include>
-                    <Item>*</Item>
-                </Include>
-                <Exclude>
-                    <Item>\aria2.log</Item>
-                </Exclude>
-                <TimeSpan Type="None">0</TimeSpan>
-                <SizeMin Unit="None">0</SizeMin>
-                <SizeMax Unit="None">0</SizeMax>
-            </Filter>
+            <Left>D:\DK-HP-PA-2000AR\Songs</Left>
+            <Right>D:\S</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

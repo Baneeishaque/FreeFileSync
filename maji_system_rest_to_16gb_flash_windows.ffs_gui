@@ -21,8 +21,8 @@
             <Item>\RECYCLE?\</Item>
             <Item>*\desktop.ini</Item>
             <Item>*\thumbs.db</Item>
-            <Item/>
-            <Item/>
+            <Item>\Srf_System_Backup\</Item>
+            <Item>\Srf_Val_System_Backup\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>

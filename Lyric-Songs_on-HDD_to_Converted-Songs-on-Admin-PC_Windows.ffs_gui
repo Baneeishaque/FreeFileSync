@@ -30,7 +30,7 @@
     <FolderPairs>
         <Pair>
             <Left>F:\DK-HP-PA-2000AR\Songs</Left>
-            <Right>ftp://android@192.168.43.1:2221/Songs|pass64=YW5kcm9pZA==</Right>
+            <Right>C:\Songs</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

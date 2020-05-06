@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="14">
+    <Compare>
+        <Variant>Size</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Mirror</Variant>
+        <DetectMovedFiles>true</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLER\</Item>
+            <Item>\RECYCLED\</Item>
+            <Item>*\desktop.ini</Item>
+            <Item>*\thumbs.db</Item>
+            <Item>\.gradle\</Item>
+            <Item>\android_sdk\</Item>
+            <Item>\.cache\</Item>
+            <Item>\.android\</Item>
+            <Item>\.phpstorm_helpers\</Item>
+            <Item>\.config\</Item>
+            <Item>\.local\</Item>
+            <Item>\.nano\</Item>
+            <Item>\.ssh\</Item>
+            <Item>\.bashrc</Item>
+            <Item>\.bash_history</Item>
+            <Item>\.cloud-locale-test.skip</Item>
+            <Item>\.gitconfig</Item>
+            <Item>\.mysql_history</Item>
+            <Item>\.profile</Item>
+            <Item>\.viminfo</Item>
+            <Item>\.gnupg\</Item>
+            <Item>\private_key_sender.asc</Item>
+            <Item>\public_key_sender.asc</Item>
+            <Item>\secring.gpg</Item>
+            <Item>\websites\</Item>
+            <Item>\.gem\</Item>
+            <Item>\mysql-dump-views.sh</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>sftp://root@139.59.65.128:22/root|chan=10|pass64=YUEhOTg5NTIwNDgxNA==</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\php\Account_Ledger_Server\db_backups\do</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\vfmobo6d_lottery_*</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>sftp://root@139.59.65.128:22/root|chan=10|pass64=YUEhOTg5NTIwNDgxNA==</Left>
+            <Right>D:\DK-HP-PA-2000AR\wwwroot\php\Lottery_Server\db_backups\do</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\account_ledger_*</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <LogFolder/>
+    <PostSyncCommand Condition="Completion"/>
+    <Gui>
+        <MiddleGridView>Action</MiddleGridView>
+    </Gui>
+</FreeFileSync>

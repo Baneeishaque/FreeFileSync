@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="14">
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Mirror</Variant>
+        <DetectMovedFiles>false</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLE?\</Item>
+            <Item>*\desktop.ini</Item>
+            <Item>*\thumbs.db</Item>
+            <Item>*\.DS_Store</Item>
+            <Item>*\._*</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>U:\Lab\Cordova_Mobile</Left>
+            <Right>E:\Banee\Lab\Cordova_Mobile</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>U:\Lab\Cordova_Web</Left>
+            <Right>E:\Banee\Lab\Cordova_Web</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\platforms\</Item>
+                    <Item>*\plugins\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>U:\Lab\Expo</Left>
+            <Right>E:\Banee\Lab\Expo</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\node_modules\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>U:\Lab</Left>
+            <Right>E:\Banee\Lab</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\Azure_DevOps\</Item>
+                    <Item>\Laravel\</Item>
+                    <Item>\Meson\</Item>
+                    <Item>\MSYS2_MinGW-w64\</Item>
+                    <Item>\Persepolis\</Item>
+                    <Item>\Phar\</Item>
+                    <Item>\Rider\</Item>
+                    <Item>\Symfony\</Item>
+                    <Item>\Tally_ERP\</Item>
+                    <Item>\RStudio\</Item>
+                    <Item>\Colaboratory\</Item>
+                    <Item>\JupyterHub\</Item>
+                    <Item>\IntelliJ_IDEA_Maven\*\target\</Item>
+                    <Item>\Multi_Projects\realm-scanner\Server\node_modules\</Item>
+                    <Item>\Eclipse_CDT\.metadata\</Item>
+                    <Item>\Eclipse_CDT\*\build\</Item>
+                    <Item>\Eclipse_CDT\*\a.out.exe</Item>
+                    <Item>\Eclipse_CDT\*\autom4te.cache\</Item>
+                    <Item>\Eclipse_CDT\*\Debug\</Item>
+                    <Item>\Eclipse_CDT\CPP_MinGW_Make\CPP_MinGW_Make.exe</Item>
+                    <Item>\Eclipse_CDT\CPP_Cygwin_Make\CPP_Cygwin_Make.exe</Item>
+                    <Item>\CodeBlocks\*\bin\</Item>
+                    <Item>\CodeBlocks\*\obj\</Item>
+                    <Item>\Eclipse_CDT\*\.deps\</Item>
+                    <Item>\VS_2008_Win_CE5\*\bin\</Item>
+                    <Item>\VS_2008_Win_CE5\*\obj\</Item>
+                    <Item>\Expo\</Item>
+                    <Item>\Cordova_Web\</Item>
+                    <Item>\Cordova_Mobile\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>U:\Lab\Azure_DevOps</Left>
+            <Right>E:\Banee\Lab\Azure_DevOps</Right>
+        </Pair>
+        <Pair>
+            <Left>U:\Lab\Colaboratory</Left>
+            <Right>E:\Banee\Lab\Colaboratory</Right>
+        </Pair>
+        <Pair>
+            <Left>U:\Lab\JupyterHub</Left>
+            <Right>E:\Banee\Lab\JupyterHub</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\.ipynb_checkpoints\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>U:\Lab\Laravel</Left>
+            <Right>E:\Banee\Lab\Laravel</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\vendor\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>U:\Lab\Meson</Left>
+            <Right>E:\Banee\Lab\Meson</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\build\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>U:\Lab\MSYS2_MinGW-w64</Left>
+            <Right>E:\Banee\Lab\MSYS2_MinGW-w64</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\autom4te.cache\</Item>
+                    <Item>*\.deps\</Item>
+                    <Item>*\.libs\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>U:\Lab\Persepolis</Left>
+            <Right>E:\Banee\Lab\Persepolis</Right>
+        </Pair>
+        <Pair>
+            <Left>U:\Lab\Phar</Left>
+            <Right>E:\Banee\Lab\Phar</Right>
+        </Pair>
+        <Pair>
+            <Left>U:\Lab\Rider</Left>
+            <Right>E:\Banee\Lab\Rider</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\packages\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\obj\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>U:\Lab\RStudio</Left>
+            <Right>E:\Banee\Lab\RStudio</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\.Rproj.user\</Item>
+                    <Item>*\packrat\lib\</Item>
+                    <Item>*\packrat\lib-ext\</Item>
+                    <Item>*\packrat\lib-R\</Item>
+                    <Item>*\packrat\src\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>U:\Lab\Symfony</Left>
+            <Right>E:\Banee\Lab\Symfony</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\vendor\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>U:\Lab\Tally_ERP</Left>
+            <Right>E:\Banee\Lab\Tally_ERP</Right>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <LogFolder/>
+    <PostSyncCommand Condition="Completion"/>
+    <Gui>
+        <MiddleGridView>Action</MiddleGridView>
+    </Gui>
+</FreeFileSync>

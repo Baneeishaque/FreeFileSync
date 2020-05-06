@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="15">
+    <Compare>
+        <Variant>Size</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Mirror</Variant>
+        <DetectMovedFiles>true</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLER\</Item>
+            <Item>\RECYCLED\</Item>
+            <Item>*\desktop.ini</Item>
+            <Item>*\thumbs.db</Item>
+            <Item>*.nomedia</Item>
+            <Item>\COASAPP\2019-12-19_10:23:41.184.txt</Item>
+            <Item>\COASAPP\{"Response":{"response_code":"-2","response":"Not a registered user"}}\2019-12-19_10:23:40.519.txt</Item>
+            <Item>\com.yy.hiyo\audio\soundConfig\</Item>
+            <Item>\com.yy.hiyo\image_manager_disk_cache\</Item>
+            <Item>\com.yy.hiyo\logs\</Item>
+            <Item>\com.yy.hiyo\tmp\</Item>
+            <Item>\com.yy.hiyo\webgame\</Item>
+            <Item>\im.thebot.messenger\cache\</Item>
+            <Item>\Android\data\com.android.gallery3d\cache\</Item>
+            <Item>\Android\data\com.android.gallery3d\VolumeId\</Item>
+            <Item>\Android\data\com.android.mediacenter\cache\</Item>
+            <Item>\Android\data\com.android.contacts\cache\</Item>
+            <Item>\Android\data\com.android.providers.media\albumthumbs\</Item>
+            <Item>\Android\data\com.android.providers.media\thumbnail_cache\</Item>
+            <Item>\Android\data\com.android.systemui\cache\</Item>
+            <Item>\Android\data\com.asana.app\files\instabug\logs\</Item>
+            <Item>\Android\data\com.google.android.gm\cache\</Item>
+            <Item>\Android\data\com.huawei.android.pushagent\files\Log\</Item>
+            <Item>\Android\data\com.huawei.android.thememanager\cache\</Item>
+            <Item>\Android\data\com.huawei.hidisk\files\Log\</Item>
+            <Item>\Android\data\com.huawei.himovie.overseas\cache\</Item>
+            <Item>\Android\data\com.huawei.himovie.overseas\files\Log\</Item>
+            <Item>\Android\data\com.huawei.hwid\cache\</Item>
+            <Item>\Android\data\com.huawei.hwid\files\Log\</Item>
+            <Item>\Android\data\com.huawei.search\cache\</Item>
+            <Item>\Android\data\com.huawei.systemmanager\cache\</Item>
+            <Item>\Android\data\com.imo.android.imoim\cache\</Item>
+            <Item>\Android\data\com.lonelycatgames.Xplore\cache\</Item>
+            <Item>\Android\data\com.qkopy.prdkerala\cache\</Item>
+            <Item>\Android\data\com.thirtydegreesray.openhub\cache\</Item>
+            <Item>\Android\data\com.Version1\cache\</Item>
+            <Item>\Android\data\com.whatsapp\cache\</Item>
+            <Item>\breakasia\fresco\normalDiskCacheName\v2.ols100.1\</Item>
+            <Item>\DCIM\Camera\cache\</Item>
+            <Item>\system\tmp\</Item>
+            <Item>\Android\data\com.touchtype.swiftkey\cache\</Item>
+            <Item>\Android\data\cn.xender\cache\</Item>
+            <Item>\Android\data\com.foxdebug.acodefree\cache\</Item>
+            <Item>\Android\data\com.idea.backup.smscontacts\cache\</Item>
+            <Item>\Android\data\com.intube.in\cache\</Item>
+            <Item>\Android\data\com.intube.in\files\vungle_cache\</Item>
+            <Item>\Android\data\com.promiz.media\cache\</Item>
+            <Item>\Android\data\org.telegram.plus\cache\</Item>
+            <Item>\Android\data\com.ucturbo\cache\</Item>
+            <Item>\AlivcData\alivc_data.txt</Item>
+            <Item>\Android\data\com.imo.android.imoim\files\xlog\com_imo_android_imoim_20200419.xlog</Item>
+            <Item>\Android\data\com.intube.in\files\other\omsdk\om_js_content.txt</Item>
+            <Item>\Android\data\com.promiz.media\files\other\omsdk\om_js_content.txt</Item>
+            <Item>\Android\data\in.android.vcredit\files\data\database\vcredit_upload1586463905891.vyc</Item>
+            <Item>\breakasia\wk_sign_2.txt</Item>
+            <Item>\breakasia\video\962e7f3afca3b2ead3f6b66bdf0e389e.alv</Item>
+            <Item>\Android\data\com.android.vending\files\installer\-384534904\1587488414737</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>F:\Data_Backups\Honor_9_Lite\sdcard</Left>
+            <Right>ftp://francis@192.168.43.1:2222/|pass64=ZnJhbmNpcw==</Right>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <PostSyncCommand Condition="Completion"/>
+    <LogFolder/>
+    <EmailNotification Condition="Always"/>
+    <Gui>
+        <MiddleGridView>Action</MiddleGridView>
+    </Gui>
+</FreeFileSync>

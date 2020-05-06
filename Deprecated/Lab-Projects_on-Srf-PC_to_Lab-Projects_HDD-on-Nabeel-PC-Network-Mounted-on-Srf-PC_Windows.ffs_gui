@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="14">
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Mirror</Variant>
+        <DetectMovedFiles>false</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLE?\</Item>
+            <Item>*\desktop.ini</Item>
+            <Item>*\thumbs.db</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>D:\Projects</Left>
+            <Right>J:\DK-HP-PA-2000AR\Projects</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab</Left>
+            <Right>J:\Lab</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\Azure_DevOps\</Item>
+                    <Item>\Laravel\</Item>
+                    <Item>\Meson\</Item>
+                    <Item>\MSYS2_MinGW-w64\</Item>
+                    <Item>\Persepolis\</Item>
+                    <Item>\Phar\</Item>
+                    <Item>\Rider\</Item>
+                    <Item>\Symfony\</Item>
+                    <Item>\Tally_ERP\</Item>
+                    <Item>\Android_Studio\</Item>
+                    <Item>\Bash\</Item>
+                    <Item>\CMD_Node\</Item>
+                    <Item>\CMD_Python\</Item>
+                    <Item>\django\</Item>
+                    <Item>\Eclipse_ADT\</Item>
+                    <Item>\HTML_JS_CSS\</Item>
+                    <Item>\Maven\</Item>
+                    <Item>\php\</Item>
+                    <Item>\React-Native\</Item>
+                    <Item>\Tests\</Item>
+                    <Item>\Visual_Studio_2017\</Item>
+                    <Item>\RStudio\</Item>
+                    <Item>\Colaboratory\</Item>
+                    <Item>\JupyterHub\</Item>
+                    <Item>\Jupyter\</Item>
+                    <Item>\IntelliJ_IDEA_Maven\*\target\</Item>
+                    <Item>\Multi_Projects\realm-scanner\Server\node_modules\</Item>
+                    <Item>\Eclipse_CDT\.metadata\</Item>
+                    <Item>\Eclipse_CDT\*\build\</Item>
+                    <Item>\Eclipse_CDT\*\a.out.exe</Item>
+                    <Item>\Eclipse_CDT\*\autom4te.cache\</Item>
+                    <Item>\Eclipse_CDT\*\Debug\</Item>
+                    <Item>\Eclipse_CDT\CPP_MinGW_Make\CPP_MinGW_Make.exe</Item>
+                    <Item>\Eclipse_CDT\CPP_Cygwin_Make\CPP_Cygwin_Make.exe</Item>
+                    <Item>\References\aria2\po\aria2.pot</Item>
+                    <Item>\CodeBlocks\*\bin\</Item>
+                    <Item>\CodeBlocks\*\obj\</Item>
+                    <Item>\Eclipse_CDT\*\.deps\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\Azure_DevOps</Left>
+            <Right>J:\Lab\Azure_DevOps</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\Colaboratory</Left>
+            <Right>J:\Lab\Colaboratory</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\JupyterHub</Left>
+            <Right>J:\Lab\JupyterHub</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\Laravel</Left>
+            <Right>J:\Lab\Laravel</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\vendor\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\Meson</Left>
+            <Right>J:\Lab\Meson</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\build\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\MSYS2_MinGW-w64</Left>
+            <Right>J:\Lab\MSYS2_MinGW-w64</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\autom4te.cache\</Item>
+                    <Item>*\.deps\</Item>
+                    <Item>*\.libs\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\Persepolis</Left>
+            <Right>J:\Lab\Persepolis</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\Phar</Left>
+            <Right>J:\Lab\Phar</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\Rider</Left>
+            <Right>J:\Lab\Rider</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\packages\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\obj\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\RStudio</Left>
+            <Right>J:\Lab\RStudio</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\.Rproj.user\</Item>
+                    <Item>*\packrat\lib\</Item>
+                    <Item>*\packrat\lib-ext\</Item>
+                    <Item>*\packrat\lib-R\</Item>
+                    <Item>*\packrat\src\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\Symfony</Left>
+            <Right>J:\Lab\Symfony</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\vendor\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\Tally_ERP</Left>
+            <Right>J:\Lab\Tally_ERP</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\Android_Studio</Left>
+            <Right>J:\DK-HP-PA-2000AR\Laboratory\Android_Studio</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\Bash</Left>
+            <Right>J:\DK-HP-PA-2000AR\Laboratory\Bash</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\CMD_Node</Left>
+            <Right>J:\DK-HP-PA-2000AR\Laboratory\CMD_Node</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\node_modules\</Item>
+                    <Item>\Camtd\dist\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\CMD_Python</Left>
+            <Right>J:\DK-HP-PA-2000AR\Laboratory\CMD_Python</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\django</Left>
+            <Right>J:\DK-HP-PA-2000AR\wwwroot\django</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\Eclipse_ADT</Left>
+            <Right>J:\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\.metadata\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                    <Item>*\.apt_generated\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\HTML_JS_CSS</Left>
+            <Right>J:\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\Jupyter</Left>
+            <Right>J:\DK-HP-PA-2000AR\Laboratory\Jupyter</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\Maven</Left>
+            <Right>J:\DK-HP-PA-2000AR\Laboratory\Maven</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\target\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\php</Left>
+            <Right>J:\DK-HP-PA-2000AR\wwwroot\php</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\vendor\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\React-Native</Left>
+            <Right>J:\DK-HP-PA-2000AR\Laboratory\React-Native</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\Tests</Left>
+            <Right>J:\DK-HP-PA-2000AR\Laboratory\Tests</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Lab\Visual_Studio_2017</Left>
+            <Right>J:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                    <Item>\KKM College\Edusoft\bin\</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\obj\</Item>
+                    <Item>*\packages\</Item>
+                    <Item>*\bin\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <LogFolder/>
+    <PostSyncCommand Condition="Completion"/>
+    <Gui>
+        <MiddleGridView>Action</MiddleGridView>
+    </Gui>
+</FreeFileSync>

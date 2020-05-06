@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="15">
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Mirror</Variant>
+        <DetectMovedFiles>true</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLER\</Item>
+            <Item>\RECYCLED\</Item>
+            <Item>*\desktop.ini</Item>
+            <Item>*\thumbs.db</Item>
+            <Item>*.nomedia</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>ftp://francis@192.168.43.1:2222/|pass64=ZnJhbmNpcw==</Left>
+            <Right>F:\Data_Backups\Honor_9_Lite\sdcard</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\Android\data\com.android.gallery3d\cache\</Item>
+                    <Item>\Android\data\com.android.gallery3d\VolumeId\-902831846</Item>
+                    <Item>\Android\data\com.android.mediacenter\cache\</Item>
+                    <Item>\Android\data\com.android.providers.media\albumthumbs\</Item>
+                    <Item>\Android\data\com.android.providers.media\thumbnail_cache\</Item>
+                    <Item>\Android\data\com.huawei.hwid\files\Log\</Item>
+                    <Item>\Android\data\com.lonelycatgames.Xplore\cache\</Item>
+                    <Item>\Android\data\com.huawei.android.pushagent\files\Log\</Item>
+                    <Item>\Android\data\com.asana.app\files\instabug\logs\</Item>
+                    <Item>\Android\data\com.whatsapp\cache\</Item>
+                    <Item>\breakasia\fresco\normalDiskCacheName\v2.ols100.1\</Item>
+                    <Item>\com.yy.hiyo\audio\soundConfig\</Item>
+                    <Item>\com.yy.hiyo\image_manager_disk_cache\</Item>
+                    <Item>\com.yy.hiyo\logs\</Item>
+                    <Item>\com.yy.hiyo\tmp\</Item>
+                    <Item>\com.yy.hiyo\webgame\</Item>
+                    <Item>\im.thebot.messenger\cache\</Item>
+                    <Item>\system\tmp\</Item>
+                    <Item>\COASAPP\2019-12-19_10:23:41.184.txt</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>ftp://android@192.168.43.1:2221/|pass64=YW5kcm9pZA==</Left>
+            <Right>F:\Data_Backups\Honor_9_Lite\storage</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\Android\data\com.android.gallery3d\VolumeId\-1049522920</Item>
+                    <Item>\AppProjects\MyApp\app\build\</Item>
+                    <Item>\AppProjects\MyGame\gdx-game\bin\</Item>
+                    <Item>\AppProjects\MyGame\gdx-game-android\bin\</Item>
+                    <Item>\AppProjects\MyGame\gdx-game-android\gen\</Item>
+                    <Item>\AppProjects\MyJavaConsoleApp\bin\</Item>
+                    <Item>\AppProjects\MyNDKApp\bin\</Item>
+                    <Item>\AppProjects\MyNDKApp\gen\</Item>
+                    <Item>\DCIM\.thumbnails\</Item>
+                    <Item>\DCIM\Camera\cache\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <PostSyncCommand Condition="Completion"/>
+    <LogFolder/>
+    <EmailNotification Condition="Always"/>
+    <Gui>
+        <MiddleGridView>Action</MiddleGridView>
+    </Gui>
+</FreeFileSync>

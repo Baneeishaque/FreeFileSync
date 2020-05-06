@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="15">
+    <Compare>
+        <Variant>Size</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Mirror</Variant>
+        <DetectMovedFiles>true</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLER\</Item>
+            <Item>\RECYCLED\</Item>
+            <Item>*\desktop.ini</Item>
+            <Item>*\thumbs.db</Item>
+            <Item>*.nomedia</Item>
+            <Item>\AppProjects\MyGame\gdx-game\bin\</Item>
+            <Item>\AppProjects\MyGame\gdx-game-android\bin\</Item>
+            <Item>\AppProjects\MyGame\gdx-game-android\gen\</Item>
+            <Item>\AppProjects\MyJavaConsoleApp\bin\</Item>
+            <Item>\DCIM\.thumbnails\</Item>
+            <Item>\DCIM\Camera\cache\</Item>
+            <Item>\Android\data\com.android.gallery3d\VolumeId\-1049522920</Item>
+            <Item>\AppProjects\MyApp\app\build\</Item>
+            <Item>\AppProjects\MyNDKApp\bin\</Item>
+            <Item>\AppProjects\MyNDKApp\gen\</Item>
+            <Item>\Android\data\cn.gavinliu.snapmod\cache\</Item>
+            <Item>\Android\data\com.intube.in\cache\</Item>
+            <Item>\Android\data\com.promiz.media\cache\</Item>
+            <Item>\Android\data\com.supercell.clashofclans\cache\</Item>
+            <Item>\Android\data\com.ucturbo\cache\</Item>
+            <Item>\Android\data\in.amazon.mShop.android.shopping\cache\</Item>
+            <Item>\Android\data\in.shoppingwish.scandid\cache\</Item>
+            <Item>\Android\data\net.one97.paytm\cache\</Item>
+            <Item>\WA Saved Status\.85ce0.ncuid</Item>
+            <Item>\Android\data\com.techyinc.besthub\cache\</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>ftp://android@192.168.43.1:2221/|pass64=YW5kcm9pZA==</Left>
+            <Right>F:\Data_Backups\Honor_9_Lite\storage</Right>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <PostSyncCommand Condition="Completion"/>
+    <LogFolder/>
+    <EmailNotification Condition="Always"/>
+    <Gui>
+        <MiddleGridView>Action</MiddleGridView>
+    </Gui>
+</FreeFileSync>

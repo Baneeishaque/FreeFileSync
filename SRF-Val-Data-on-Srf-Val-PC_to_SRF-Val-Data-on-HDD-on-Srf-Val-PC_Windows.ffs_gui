@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="16">
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Mirror</Variant>
+        <DetectMovedFiles>true</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLER\</Item>
+            <Item>\RECYCLED\</Item>
+            <Item>*\desktop.ini</Item>
+            <Item>*\thumbs.db</Item>
+            <Item>/.fseventsd/</Item>
+            <Item>/.Spotlight-V100/</Item>
+            <Item>/.Trashes/</Item>
+            <Item>*/.DS_Store</Item>
+            <Item>*/._.*</Item>
+            <Item>\A56\AR RAHMAN\</Item>
+            <Item>\Desk\01-Saanson.Ko-Sharib.Toshi%2CArijit.Singh.mp3</Item>
+            <Item>\Desk\Azhagae Nee Asainthal-Kathakali.2016.1080p.HD-Rip.AvC www.HdEncoders.com .mp4</Item>
+            <Item>\Desk\I'm So Cool - Kaaki Sattai ¦ Official Video Song ¦ Sivakarthikeyan ¦ Anirudh.mp4</Item>
+            <Item>\Desk\Madras To Madurai - Official Video Song Aambala Vishal Sundar C Hip l Tamiz.mp4</Item>
+            <Item>\Desk\Download\01%20-%20Sanam%20Teri%20Kasam%20-%20DownloadMing.SE.mp3</Item>
+            <Item>\Desk\Download\02%20-%20Kheech%20Meri%20Photo%20-%20DownloadMing.SE.mp3</Item>
+            <Item>\Desk\Download\03%20-%20Bewajah%20-%20DownloadMing.SE.mp3</Item>
+            <Item>\Desk\Download\04%20-%20Tera%20Chehra%20-%20DownloadMing.SE.mp3</Item>
+            <Item>\Desk\Download\05%20-%20Haal%20-%20E%20-%20Dil%20(Male)%20-%20DownloadMing.SE.mp3</Item>
+            <Item>\Desk\Download\06%20-%20Haal%20-%20E%20-%20Dil%20(Female)%20-%20DownloadMing.SE.mp3</Item>
+            <Item>\Desk\Download\07%20-%20Ek%20Number%20-%20DownloadMing.SE.mp3</Item>
+            <Item>\Desk\Download\08%20-%20Main%20Teri%20Yaadon%20Mein%20-%20DownloadMing.SE.mp3</Item>
+            <Item>\Desk\Download\09%20-%20Sanam%20Teri%20Kasam%20(Reprise)%20-%20DownloadMing.SE.mp3</Item>
+            <Item>\Desk\Download\12---Shera-Di-Khom-(Speedy-Singh)-(LeBeWafa.Com).mp3</Item>
+            <Item>\Desk\Download\25---Te-Amo-(Duet)-(Dum-Maaro-Dum)-(LeBeWafa.Com).mp3</Item>
+            <Item>\Desk\Download\28---Char-Baj-Gaye-Party-Abhi-Baki-Hai-(F.A.L.T.U.)-(LeBeWafa.Com).mp3</Item>
+            <Item>\Desk\Download\43---Kun-Faya-Kun-(Rockstar)-(LeBeWafa.Com).mp3</Item>
+            <Item>\Desk\Download\51---Saadda-Haq-(Rockstar)-(LeBeWafa.Com).mp3</Item>
+            <Item>\Desk\New folder\Atif_Aslam_New_Song_Teri_Yadein_2012_ft_Shrey_Singhal(www.AllDjsSongs.Co.Cc).mp3</Item>
+            <Item>\Desk\New folder\Azhaghai_Pookkuthe_Ninaithale_Inikkum[ghilli_the_maestro][www.vellithiramusic.com].mp3</Item>
+            <Item>\Desk\New folder\Azhagho_Azhaghu_(KuttyWeb.com).mp3</Item>
+            <Item>\Desk\New folder\Azhalinte_Azhangalil(BindasWap.CoM).mp3</Item>
+            <Item>\Desk\New folder\Badtameez Dil Full Song 1080p HD (2013) Yeh Jawaani Hai Deewani - YouTube_2.mp3</Item>
+            <Item>\Desk\New folder\Bang+Bang_-_[FreshMaZa.Net.In].mp3</Item>
+            <Item>\Desk\New folder\Bhool Bhoolaiyaa (Remix) -_(funchit.com).mp3</Item>
+            <Item>\Desk\New folder\Bidu Pradap.mp3</Item>
+            <Item>\Desk\New folder\Billu BARBER - 07 - artist - KHUDAYA KHAIR.mp3</Item>
+            <Item>\Desk\New folder\Bin Tere .mp3</Item>
+            <Item>\Desk\New folder\Blue Eyes (Yo Yo Honey Singh) -320Kbps [DJMaza].mp3</Item>
+            <Item>\Desk\New folder\DILWALE_DULHANIYE_LE_JAYAGE8.MP3</Item>
+            <Item>\Desk\New folder\dilwzledul (1).mp3</Item>
+            <Item>\Desk\New folder\dilwzledul (2).mp3</Item>
+            <Item>\Desk\New folder\dilwzledul (3).mp3</Item>
+            <Item>\Desk\New folder\dilwzledul (4).mp3</Item>
+            <Item>\Desk\New folder\dilwzledul (5).mp3</Item>
+            <Item>\Desk\New folder\dilwzledul (6).mp3</Item>
+            <Item>\Desk\New folder\dilwzledul.mp3</Item>
+            <Item>\Desk\New folder\Ee+Mazhathan(Duet)+-+Sujatha+&amp;+K.+J.+Yesudas.mp3</Item>
+            <Item>\Desk\New folder\Eeran_Kaattin_128_123musiq.mobi.mp3</Item>
+            <Item>\Desk\New folder\Ek Do Teen - GoogleTamil.iN.mp3.mp3</Item>
+            <Item>\Desk\New folder\Ek Mulaqat Zaruri Hai Sanam.mp3</Item>
+            <Item>\Desk\New folder\EK SHARARAT HONE KO HAI.MP3</Item>
+            <Item>\Desk\New folder\EK_LADKI_KO_DEKHA_TO.MP3</Item>
+            <Item>\Desk\New folder\Ennisai padivarum(M).mp3</Item>
+            <Item>\Desk\New folder\Enthinee_MizhC.mp3</Item>
+            <Item>\Desk\New folder\Eriyuna.mp3</Item>
+            <Item>\Desk\New folder\ETHO_ORU_PAATTU__F_.mp3</Item>
+            <Item>\Desk\New folder\Ethrayo_(KuttyWeb.com).mp3</Item>
+            <Item>\Desk\New folder\ghungat main chand.mp3</Item>
+            <Item>\Desk\New folder\GHUNGHAT_KI_AAD_SE_DILBAR_K.MP3</Item>
+            <Item>\Desk\New folder\hai junoon (setkit.com)_2.mp3</Item>
+            <Item>\Desk\New folder\Hai.Apna-Desi.Remix.mp3</Item>
+            <Item>\Desk\New folder\Hashtag (Sharry Mann   JSL)  SongsKing.iN  PC.mp4</Item>
+            <Item>\Desk\New folder\hindi (22).mp3</Item>
+            <Item>\Desk\New folder\hote hote pyar hogaya.mp3</Item>
+            <Item>\Desk\New folder\Hoton pe basss.mp3</Item>
+            <Item>\Desk\New folder\hum tum.mp3</Item>
+            <Item>\Desk\New folder\Humko Humise Chura Lo.mp3</Item>
+            <Item>\Desk\New folder\HUMKO_SIRF_TUMSE.MP3</Item>
+            <Item>\Desk\New folder\HUM_AAP_KE_DIL_MEIN_REHTE_H.MP3</Item>
+            <Item>\Desk\New folder\Ice.Cream-Remix.mp3</Item>
+            <Item>\Desk\New folder\Ilahi_2_-_(albux.in)(1).mp3</Item>
+            <Item>\Desk\New folder\IMTIHAN - Is tarah Ashqui Ka Asar (kumar sanu).mp3</Item>
+            <Item>\Desk\New folder\Iruvanji+Puzhapenne+-++M.Jayachandran.mp3</Item>
+            <Item>\Desk\New folder\is deewane ladke ko03.mp3</Item>
+            <Item>\Desk\New folder\Ishqyaun_Dhishqyaun_128_123music.mobi.mp3</Item>
+            <Item>\Desk\New folder\Ishq_Shava(BindasWap.CoM).mp3</Item>
+            <Item>\Desk\New folder\IVAR VIVAHITHARAYAL - ENIKKUPAADANORU.mp3</Item>
+            <Item>\Desk\New folder\JAAN_E__JIGAR_JAANEMAN.MP3</Item>
+            <Item>\Desk\New folder\jab kisi ki taraf.mp3</Item>
+            <Item>\Desk\New folder\JAB_SE_TUMKO_DEKHA_HAI.MP3</Item>
+            <Item>\Desk\New folder\Jab_Tak_Hai_Jaan_128_123music.mobi.mp3</Item>
+            <Item>\Desk\New folder\Jackpot_128_123musiq.mobi.mp3</Item>
+            <Item>\Desk\New folder\Jackpot_Jeetna_128_123musiq.mobi.mp3</Item>
+            <Item>\Desk\New folder\Jadoo_Ki_Jhappi_128_123music.mobi.mp3</Item>
+            <Item>\Desk\New folder\JADU_HAI_TERA_HI_.MP3</Item>
+            <Item>\Desk\New folder\Jannatein_Kahan(Power_Ballad)-(HindiMp3.Mobi).mp3</Item>
+            <Item>\Desk\New folder\Jeene_Laga_Hoon_-_(albux.in).mp3</Item>
+            <Item>\Desk\New folder\Jee_Le_Zaraa_128_123music.mobi.mp3</Item>
+            <Item>\Desk\New folder\Jee_Le_Zaraa__Remix_128_123music.mobi.mp3</Item>
+            <Item>\Desk\New folder\Mehboob_Ki_Bestwap.mp3</Item>
+            <Item>\Desk\New folder\Meri_Maa_128_123musiq.mobi.mp3</Item>
+            <Item>\Desk\New folder\Mohabbat_Barsa_De_Ft._Arjun.mp3</Item>
+            <Item>\Desk\New folder\MOHENJO DARO.mkv</Item>
+            <Item>\Desk\New folder\Mor_Bani_Thanghat_Kare_128_123music.mobi.mp3</Item>
+            <Item>\Desk\New folder\Mujhe_Ishq_Se_128_123musiq.mobi.mp3</Item>
+            <Item>\Desk\New folder\Muskaanein_Jhooti_Hai_128_123music.mobi.mp3</Item>
+            <Item>\Desk\New folder\Nagada_Sang_Dol_128_123music.mobi.mp3</Item>
+            <Item>\Desk\New folder\Oru Naal Koothu (2016).mp4</Item>
+            <Item>\Desk\New folder\Peecha_Choote_128_123music.mobi.mp3</Item>
+            <Item>\Desk\New folder\Piya O Re Piya - Atif Aslam - Songs.PK.mp3</Item>
+            <Item>\Desk\New folder\Saamne Hai Savera.mp3</Item>
+            <Item>\Desk\New folder\Saans_128_123music.mobi.mp3</Item>
+            <Item>\Desk\New folder\Savaale Samali (2015)@58[DVDRip - Lotus - x264 - 400MB - Tamil].mkv</Item>
+            <Item>\Desk\New folder\yaad yaad.mp3</Item>
+            <Item>\Desk\New folder\Yeh Pyaar Kya Hai Remix 2014 - Gupt Again (DJ Sheizwood).mp3</Item>
+            <Item>\Desk\New folder\Zindagi .mp3</Item>
+            <Item>\Desk\New folder\Zindagi Ki Talash Mein.mp3.mp3</Item>
+            <Item>\Desk\New folder\New foer\</Item>
+            <Item>\Desk\New folder\New foer\Ikk Ikk Saah (Harbhajan Mann)  SongsKing.iN  PC.mp4</Item>
+            <Item>\Desk\New folder\New foer\Jacobinte Swargarajyam Official Trailer  Nivin Pauly - [☻CP™ nEoᴴᴰ☻].mp4</Item>
+            <Item>\Desk\New folder\New foer\Jacobinte SwargarajyamThiruvaavaniraavu [CP™ nEoHD].mp4</Item>
+            <Item>\Desk\New folder\New foer\Jawaani Le Doobi (SongsKing.iN) 720p.mp4</Item>
+            <Item>\Desk\New folder\New foer\Jeena Jeena _ Badlapur _ Darshan Raval _ [☻CP™ nEoᴴᴰ☻].mp4</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00                   Aavanipaadam - Biju Narayanan, Franco, Rimi Tomy.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00               ONNANAM KUNINMEL.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00              KANDU KANDU.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00             KANNADI KOODUM THEDI - Copy.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00             NINTE KANNIL.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00             OTHIRI OTHIRI.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00            AAYIRAM VARNAMAI.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00            Lallalam Chollunna.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00            POOVE_POOVE.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00            opriyaa.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00           AVANI PONNUNJAL.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00           GUJARATHI KALKLA KETTIYA.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00           KAKKAPPOO.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00           ONE PLUS ONE.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00          AARU PARANJU AARU.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00          ILLATHE KALYANATHINU.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00          NADHALALA.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00          ONNANAM.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00         CHILABOLI.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00         CHIRI CHIRIYO.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00         KOMBEDU_KUZHALEDU.MP3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00         MAA MAZHAYILE POO.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00         MUNDHIRI PADAM.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00         ONNAM_KILI.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00         PANJAYATHILE.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00        ANNAKILI.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00        CONFUTION THEERKANAME.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00        MATTU PONGAL MMASAM.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\00        THARA THARA.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\008 Konjikarayalle.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\008CHINGA.MP3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\009ENTE ELLAM ELLAM.MP3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\010 Indulekha kanthurannu.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\010SINDHOORASANDHYE2.MP3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\02 Thammil.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\021 Pularithoomanju thulliyil.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\021MARAKKUDAYAL.MP3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\022 Thalolam thane tharattum.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\022CHANTHUPOTTUM.MP3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\023 Anthiveyil ponnuthirum.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\023ABC2.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\026Narasimham - Mannin Mutheduthu.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\028 Neerpalunkukal.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\05-05. Pathiravai Neram.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\07 Anthiponvettam.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\07-tharum thalirum -k.j.yesudas,chitra(film-chilambu).mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\07_Ariyade F.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\08 Kaayalarigathu.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\08.Pallitherundo.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\08_cenvert.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\09-KANNUNEER[D].MP3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\09-Kanneermazhayathu.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\09-Katte Nee.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\10-Enthu Bhangi.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\21-Ambady Payyukal.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\AALAAPANAM.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\ARIKIL NE UNDAYIRUNNENKIL.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\ARTHAM - SHYAMAMBARAM.MP3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Aadyavasanthame eemookaveenayil.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Aavani.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Allipoove Mallipoo -bagya devatha.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Athmavin-MazhayethumMumbe.MP3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Azhake.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\CHANDRA HRIDAYAM_.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Chinkara kinnaram.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Chithram - Eeeran Megham.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Chocolate.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\EE KSHANAM.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\ELLAM_MARAKKAM.mp3.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\ENTE ONNUM MINDEELA.MP3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\FRIENDS.MP3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Ganashyama.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Harimuraleeravam.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Ilam manjin-EnnistamNinnishtam.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Indulekha-Oruvadakkan veeragada.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Ithramele Kjy Sujatha.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Jeevante jeevanam HIT ALBUM.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\KABADI KABADI.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\KADALKATTIN__F__.MP3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\KARUKARUTORU.MP3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\KLASS (1).mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\KLASS (5).mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Kaatadichu.MP3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Kaattile Mainaye.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Kabooliwaala.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Kadalinakhathamam(01).mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Kanneer kayalil(01).mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Karalinte.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Karayilekku_Oru_Kadal_Dooram_-_01_-_Hrudhayathin.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Karimizhi.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Kazhinhupoyakalam.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\MANDARACHEPPUNDO(01).mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\MAZHAYIL.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\MINNARAM-CHINKARA KINNARAM.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Madhuram-CHENKOL.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Mampoo-Paadam -orkuka vallapozhum.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Marakkumo nee.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Marannuvo poomakale.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Mathuram Jeevamruda-Chenkole.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Mayavi -  Anjil oral Arjunan - Track 01  Muttathe....mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Mazha_peythu_manam - Copy.MP3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\NAmmal (2).MP3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\NAmmal (4).MP3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\NIVE.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Nilave (M) .mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Oru Vallam Ponnum - Minnaram.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Unarumeegaanam {Moonnam Pakkam}.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Vaishagha Sandye.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Viyatnam coloney - Track 02.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\Viyatnam coloney - Track 04.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\ariyade ishtamai -paandipada.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\dhruvam-thalirvettila.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\ente kannil virunn.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\five star            maranno.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\five star hospital-etra madhurikkumo.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\halo (3).mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\halo.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\hgh.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\kabolivala(02).mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\kandu kandukodhi  -mambazhakalam.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\kanneer poovin te-kireedam.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\karineelakanninendedi -chakaramuth.mp3</Item>
+            <Item>\Desk\New folder\Old gold malayalam songs\khadayile.MP3</Item>
+            <Item>\Desk\New folder (4)\02 - ONS - Ijazat  Songspk.LINK .mp3</Item>
+            <Item>\Desk\New folder (4)\bcgf.mp4</Item>
+            <Item>\Desk\New folder (4)\daivasangalpam hindu mathathilum islamathathilum.mp4</Item>
+            <Item>\sharafu data\VIDEOS\Aa.Oruthi-WwW.ShabuNet.Mobi-Anarkali-HD.mp4</Item>
+            <Item>\sharafu data\VIDEOS\Calicut V4U- Kalan with Babu_HD.mp4</Item>
+            <Item>\sharafu data\VIDEOS\Kaathirunnu Kaathirunnu _ Making Song HD _ Ennu Ninte Moideen _ Shreya Ghoshal_HD.mp4</Item>
+            <Item>\sharafu data\VIDEOS\Saiyaan Superstar (Ek Paheli Leela) Full HD(videoming.in).mp4</Item>
+            <Item>\sharafu data\VIDEOS\english\</Item>
+            <Item>\sharafu data\VIDEOS\english\ARASH feat Helena - ONE DAY (Official Video)_(720p).mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Baaton Ko Teri (All Is Well) Full HD(videoming.in).mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Banjaara Full Song 1080p HD 2014 By Mohd Irfan.mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Chahun.Main.Ya.Naa-wWw.ShabuNet.Mobi-Aashiqui-2-HD.mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Dard Dilo Ke (The Xpose) HD(videoming.in).mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Ek Mulaqat (Sonali Cable) Full HD(videoming.in).mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Kabhi Aayine Pe (Hate Story 2) HD(videoming.in).mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Kabhi Ruhaani Kabhi Rumaani (Raja Natwarlal) HD(videoming.in).mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Khamoshiyan (Title Song) Full HD(videoming.in).mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Maheroo Maheroo (Super Nani) HD(videoming.in).mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Main Agar Kahoon _ Om Shanti Om[2008].mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Maula Mere....mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Mujhe Ishq Se (Yaariyan) HD(videoming.in).mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\O_Sanam_(Killer)[MobiMasti.in] (1).mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Raeth Ki Tarah (3 A.M.) HD(videoming.in).mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Rahat Fateh Ali Khan - Zaroori Tha.mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Sawan Aaya Hai (Creature 3D) Full HD(videoming.in).mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Sooraj Dooba Hain Yaaron (Roy) Full HD(videoming.in).mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Tere Ho Ke Rahenge -Raja Natwarlal[FreshMaza.Info].mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Tu Hai Ki Nahi (Roy) Full HD(videoming.in).mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\Tu Har Lamha (Khamoshiyan) Full HD(videoming.in).mp4</Item>
+            <Item>\sharafu data\VIDEOS\hindi\_Kabhi_Jo_Baadal_Barse____Jackpot___Romantic_Video_Song___ft__Sunny_Leone__Sachiin_Joshi___HD_1080p_medium-1.mp4</Item>
+            <Item>\sharafu data\VIDEOS\malayalam\</Item>
+            <Item>\sharafu data\VIDEOS\malayalam\Bangalore Days - Nam Ooru Bengaluru_HD.mp4</Item>
+            <Item>\sharafu data\VIDEOS\malayalam\Kolussu_Thenni_Thenni_-_Cousins(2).mp4</Item>
+            <Item>\sharafu data\VIDEOS\malayalam\Yelove ft Shreya Ghoshal and Siddharth Menon_HD-1.mp4</Item>
+            <Item>\sharafu data\VIDEOS\thamil\</Item>
+            <Item>\sharafu data\VIDEOS\thamil\Daimond Girl video Song HD - Baadshah Movie video songs - NTR, Kajal Aggarwal_HD-1.mp4</Item>
+            <Item>\sharafu data\VIDEOS\thamil\Gajini_ Oru.mp4</Item>
+            <Item>\sharafu data\VIDEOS\thamil\Mersalaayitten(Promo)-WwW.ShabuNet.Mobi-I-721.mp4</Item>
+            <Item>\sharafu data\VIDEOS\thamil\Tu Chale (I) Full HD(videoming.in) (1).mp4</Item>
+            <Item>\sharafu data\SONGS\01 - Rafta Rafta - K.K.mp3</Item>
+            <Item>\sharafu data\SONGS\02 - Uska Hi Banana [www.PakHeaven.Com].mp3</Item>
+            <Item>\sharafu data\SONGS\02 Baaton Ko Teri (All Is Well) Arijit Singh 320Kbps_2.mp3</Item>
+            <Item>\sharafu data\SONGS\1_[Songs.PK] 02 - Gulabi.mp3</Item>
+            <Item>\sharafu data\SONGS\AlbumArtSmall.jpg</Item>
+            <Item>\sharafu data\SONGS\Chittiyaan Kalaiyaan (Roy) -190Kbps [DJMaza.Info]-2.mp3</Item>
+            <Item>\sharafu data\SONGS\Folder.jpg</Item>
+            <Item>\sharafu data\SONGS\Galliyan+(Ek+Villain).mp3</Item>
+            <Item>\sharafu data\SONGS\Hai Dil Ye Mera.mp3</Item>
+            <Item>\sharafu data\SONGS\Hua_Hain_Aaj_Pehli_Baar.mp3</Item>
+            <Item>\sharafu data\SONGS\Sanam_Re.mp3</Item>
+            <Item>\sharafu data\SONGS\Tu+Hi+Toh+Hai+(Version+2).mp3</Item>
+            <Item>\sharafu data\SONGS\Tu-Chale_(webmusic.in).mp3</Item>
+            <Item>\sharafu data\SONGS\[Songs.PK] Saree Ke Fall Sa - RRajkumar 128Kbps.mp3</Item>
+            <Item>\sharafu data\SONGS\hindi\</Item>
+            <Item>\sharafu data\SONGS\hindi\01 - Zero Hour Mashup.m4a</Item>
+            <Item>\sharafu data\SONGS\hindi\03_-_teri_yaadon_se-_mymp3singer.com_.mp3</Item>
+            <Item>\sharafu data\SONGS\hindi\07-The-Disco-Song-(Tennu-le-To-Disco)-DJ-Akhil-Talreja-(Pagalworld.Com).mp3</Item>
+            <Item>\sharafu data\SONGS\hindi\08 Afreen (Remix).mp3</Item>
+            <Item>\sharafu data\SONGS\hindi\09. Ye Kasoor-Jism 2 (Remix) -  DJ Lemon Ft. Jiten Mundwa &amp; .mp3</Item>
+            <Item>\sharafu data\SONGS\hindi\ALEXMICABreathRingtone.mp3</Item>
+            <Item>\sharafu data\SONGS\hindi\Arijit singh Mirchi Music Awards 2014-FULL_HIGH.mp3</Item>
+            <Item>\sharafu data\SONGS\hindi\Blue_Eyes__Yo_Yo_Honey_Singh__-320Kbps__DJMaza_.mp3</Item>
+            <Item>\sharafu data\SONGS\hindi\Dance Basanti (Ungli) -192Kbps [FreshMaza.Info].mp3</Item>
+            <Item>\sharafu data\SONGS\hindi\High_Heels_(Honey_Singh)_(640x360)(MobiHD.in).mp3</Item>
+            <Item>\sharafu data\SONGS\hindi\Kahan_Hai_Khuda__Remix_128_123musiq.mobi.mp3</Item>
+            <Item>\sharafu data\SONGS\hindi\Over_the_horizon.mp3</Item>
+            <Item>\sharafu data\SONGS\hindi\Saanson Ko - Zid[FreshMaza.Info].mp3</Item>
+            <Item>\sharafu data\SONGS\hindi\Teri Jhuki Nazar (Murder 3) - Shafqat Amanat Ali -190Kbps [MP3Khan].mp3</Item>
+            <Item>\sharafu data\SONGS\my\</Item>
+            <Item>\sharafu data\SONGS\my\01 Khamoshiyan (Title Song) Arijit Singh - 190Kbps.mp3</Item>
+            <Item>\sharafu data\SONGS\my\03 Mareez - E - Ishq (Arijit Singh) - 190Kbps.mp3</Item>
+            <Item>\sharafu data\SONGS\my\03. Zindagi Se-Raaz 3 (Remix) - DJ Lemon [www.DJMaza.Com].mp3</Item>
+            <Item>\sharafu data\SONGS\my\04 - Zaroori Tha - Papa.PK.mp3</Item>
+            <Item>\sharafu data\SONGS\my\08 - Jackpot - Kabhi Jo Baadal Barse (Female) [DJMaza.Info].mp3</Item>
+            <Item>\sharafu data\SONGS\my\11 Mohabbat Barsa De (Creature) -190Kbps [PagalWorld.com].mp3</Item>
+            <Item>\sharafu data\SONGS\my\22 gupt = bechainiya.mp3</Item>
+            <Item>\sharafu data\SONGS\my\AlbumArtSmall.jpg</Item>
+            <Item>\sharafu data\SONGS\my\Dil Aaj Kal (Purani Jeans) HD(videoming.in).mp3</Item>
+            <Item>\sharafu data\SONGS\my\Dil Ibaadat (Rock) - KK.mp3</Item>
+            <Item>\sharafu data\SONGS\my\Folder.jpg</Item>
+            <Item>\sharafu data\SONGS\my\Heartless - Main Dhoondne Ko_@ NazZ NisHam....mp3</Item>
+            <Item>\sharafu data\SONGS\my\Mitti Di Khushboo (Ayushmann Khurrana).mp3</Item>
+            <Item>\sharafu data\SONGS\my\Muskurane_Ft._Arijit_Singh_(Citylights)(wapking.cc).mp3</Item>
+            <Item>\sharafu data\SONGS\my\[Songs.PK] 01 - Tere Hoke Rehengay.mp3</Item>
+            <Item>\sharafu data\SONGS\my\aashiqui 2 Afi boys.mp3</Item>
+            <Item>\project_Srf\android\SHC_Android_Client\app\build\</Item>
+            <Item>\Lab_Srf\android-vpn-client-ics-openvpn\app\build\</Item>
+            <Item>\Lab_Srf\Metra\app\build\</Item>
+            <Item>\Lab_Srf\Metra\send_otp\build\</Item>
+            <Item>\phone\SE\01 - Sanam Teri Kasam - Sanam Teri Kasam [Maango.me].mp3</Item>
+            <Item>\phone\SE\01ORUR~1.MP3</Item>
+            <Item>\phone\SE\02-Azhake.Azhake-Najim.Arshad.mp3</Item>
+            <Item>\phone\SE\03 - Rockey Handsome - Alfazon Ki Tarah [Maango.me].mp3</Item>
+            <Item>\phone\SE\03 - Sanam Teri Kasam - Bewajah [Maango.me].mp3</Item>
+            <Item>\phone\SE\03 Criminal - Akon, Vishal Dadlani, Shruti Pathak.mp3</Item>
+            <Item>\phone\SE\03.Nilave - PksoNgs.Me.mp3</Item>
+            <Item>\phone\SE\04 - Phir Mohabbat.mp3</Item>
+            <Item>\phone\SE\04.Rab+Ka+Shukrana+-+Mohit+Chauhan.mp3</Item>
+            <Item>\phone\SE\05 - Sanam Teri Kasam - Haal e Dil [Maango.me].mp3</Item>
+            <Item>\phone\SE\05-Aaluma.Doluma-Anirudh Baadshah.mp3</Item>
+            <Item>\phone\SE\06 - Zindagi Do Pal Ki (Remix).mp3</Item>
+            <Item>\phone\SE\09-Tumse-Milneki-Tamana-Hain-(DJ-Saurabh-Mix)-(Pagalworld.Com).mp3</Item>
+            <Item>\phone\SE\Aashiqui_2_Mashup__Kiran_Kamath_AllMp3Song.mp3</Item>
+            <Item>\phone\SE\ABCD  Remix  -(Mr-Jatt.com).mp3</Item>
+            <Item>\phone\SE\AlbumArtSmall.jpg</Item>
+            <Item>\phone\SE\ARASH feat Helena - ONE DAY (Official Video).mp3</Item>
+            <Item>\phone\SE\Arijit Singh Mashup (2014) - Robby Rai [DJMaza.Info]-1.mp3</Item>
+            <Item>\phone\SE\Arijit Singh Mashup (2014) - Robby Rai [DJMaza.Info].mp3</Item>
+            <Item>\phone\SE\Break Up Mashup Dj Chetas 2014 [Songsx.Pk].mp3</Item>
+            <Item>\phone\SE\ennamo yeadho - remix (tamil ost).mp3</Item>
+            <Item>\phone\SE\kurbaan03(www.songs.pk).mp3</Item>
+            <Item>\phone\SE\Oru Venal Puzhayil - Pranayakalam (WapMallu.CoM).mp3</Item>
+            <Item>\phone\SE\PICHA VECHA NAAL THOTTE  SUPER HIT MUSLIM LEAGUE S - 128K MP3.mp3</Item>
+            <Item>\phone\SE\Remix Jannat 2.mp3</Item>
+            <Item>\phone\SE\[Songs.PK] 01 - Badtameez Dil - Yeh Jawaani Hai Deewani.mp3</Item>
+            <Item>\phone\SE\[Songs.PK] 01 - MTV Unplugged - Tum Hi Ho.mp3</Item>
+            <Item>\phone\SE\[Songs.PK] 03 - MTV Unplugged - Banjaara.mp3</Item>
+            <Item>\phone\SE\[Songs.PK] 04 - MTV Unplugged - Baarish.mp3</Item>
+            <Item>\phone\SE\[Songs.PK] 09 - Piya O Re Piya (Remix).mp3</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>D:\Srf_Data</Left>
+            <Right>G:\Data_Backups\Sharafu_System\Srf_Data</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Rasak_Data</Left>
+            <Right>G:\Data_Backups\Sharafu_System\Rasak_Data</Right>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <PostSyncCommand Condition="Completion"/>
+    <LogFolder/>
+    <EmailNotification Condition="Always"/>
+    <Gui>
+        <MiddleGridView>Action</MiddleGridView>
+    </Gui>
+</FreeFileSync>

@@ -31,32 +31,40 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>D:\Lab_Banee\Visual_Studio_2010</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2010</Right>
+            <Left>C:\Lab_Banee\ZeroBrane_Studio</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\ZeroBrane_Studio</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Ziyad</Left>
-            <Right>G:\Lab_Ziyad</Right>
+            <Left>C:\Lab_Banee\CMD_Lua</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\CMD_Lua</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Nabeel</Left>
-            <Right>G:\Lab_Nabeel</Right>
+            <Left>C:\Lab_Banee\Visual_Studio_2010</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2010</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Kiran</Left>
-            <Right>G:\Lab_Kiran</Right>
+            <Left>C:\Lab_Ziyad</Left>
+            <Right>E:\Lab_Ziyad</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Jaseem</Left>
-            <Right>G:\Lab_Jaseem</Right>
+            <Left>C:\Lab_Nabeel</Left>
+            <Right>E:\Lab_Nabeel</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Asaru</Left>
-            <Right>G:\Lab_Asaru</Right>
+            <Left>C:\Lab_Kiran</Left>
+            <Right>E:\Lab_Kiran</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Abdulla</Left>
-            <Right>G:\Lab_Abdulla</Right>
+            <Left>C:\Lab_Jaseem</Left>
+            <Right>E:\Lab_Jaseem</Right>
+        </Pair>
+        <Pair>
+            <Left>C:\Lab_Asaru</Left>
+            <Right>E:\Lab_Asaru</Right>
+        </Pair>
+        <Pair>
+            <Left>C:\Lab_Abdulla</Left>
+            <Right>E:\Lab_Abdulla</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -72,52 +80,52 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\VS_Code_ionic1</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\VS_Code_ionic1</Right>
+            <Left>C:\Lab_Banee\VS_Code_ionic1</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\VS_Code_ionic1</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\PowerShell</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\PowerShell</Right>
+            <Left>C:\Lab_Banee\PowerShell</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\PowerShell</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Netbeans_Chrome_Extension</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Netbeans_Chrome_Extension</Right>
+            <Left>C:\Lab_Banee\Netbeans_Chrome_Extension</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\Netbeans_Chrome_Extension</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Moonshine</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\Moonshine</Right>
+            <Left>C:\Lab_Banee\Moonshine</Left>
+            <Right>E:\DK-HP-PA-2000AR\wwwroot\Moonshine</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Misc</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Misc</Right>
+            <Left>C:\Lab_Banee\Misc</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\Misc</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\ionic_angular</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\ionic_angular</Right>
+            <Left>C:\Lab_Banee\ionic_angular</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\ionic_angular</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\IntelliJ_IDEA</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\IntelliJ_IDEA</Right>
+            <Left>C:\Lab_Banee\IntelliJ_IDEA</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\IntelliJ_IDEA</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Ignite</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Ignite</Right>
+            <Left>C:\Lab_Banee\Ignite</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\Ignite</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Advanced_Renamer</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Advanced_Renamer</Right>
+            <Left>C:\Lab_Banee\Advanced_Renamer</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\Advanced_Renamer</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\FreeFileSync</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\FreeFileSync</Right>
+            <Left>C:\Lab_Banee\FreeFileSync</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\FreeFileSync</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\VS_Code_mingw64</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\VS_Code_mingw64</Right>
+            <Left>C:\Lab_Banee\VS_Code_mingw64</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\VS_Code_mingw64</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Netbeans_MinGW_W64_C</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Netbeans_MinGW_W64_C</Right>
+            <Left>C:\Lab_Banee\Netbeans_MinGW_W64_C</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\Netbeans_MinGW_W64_C</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -134,16 +142,16 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\CMD_GCC</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\CMD_GCC</Right>
+            <Left>C:\Lab_Banee\CMD_GCC</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\CMD_GCC</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Batch</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Batch</Right>
+            <Left>C:\Lab_Banee\Batch</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\Batch</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\NetBeans_J2SE</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\NetBeans_J2SE</Right>
+            <Left>C:\Lab_Banee\NetBeans_J2SE</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\NetBeans_J2SE</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -160,20 +168,20 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\PyCharm_py2</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\PyCharm_py2</Right>
+            <Left>C:\Lab_Banee\PyCharm_py2</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\PyCharm_py2</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\PyCharm</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\PyCharm</Right>
+            <Left>C:\Lab_Banee\PyCharm</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\PyCharm</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\CMD_Java</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\CMD_Java</Right>
+            <Left>C:\Lab_Banee\CMD_Java</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\CMD_Java</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Cordova_Mobile</Left>
-            <Right>G:\Lab\Cordova_Mobile</Right>
+            <Left>C:\Lab_Banee\Cordova_Mobile</Left>
+            <Right>E:\Lab\Cordova_Mobile</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -188,8 +196,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\www_Node_js</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\Node_js</Right>
+            <Left>C:\Lab_Banee\www_Node_js</Left>
+            <Right>E:\DK-HP-PA-2000AR\wwwroot\Node_js</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -203,8 +211,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Cordova_Web</Left>
-            <Right>G:\Lab\Cordova_Web</Right>
+            <Left>C:\Lab_Banee\Cordova_Web</Left>
+            <Right>E:\Lab\Cordova_Web</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -220,8 +228,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Expo</Left>
-            <Right>G:\Lab\Expo</Right>
+            <Left>C:\Lab_Banee\Expo</Left>
+            <Right>E:\Lab\Expo</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -235,12 +243,12 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\VS_Code_Python</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python</Right>
+            <Left>C:\Lab_Banee\VS_Code_Python</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\VS_Code_Python</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\NetBeans_Maven</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\NetBeans_Maven</Right>
+            <Left>C:\Lab_Banee\NetBeans_Maven</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\NetBeans_Maven</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -254,12 +262,12 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Projects_Banee</Left>
-            <Right>G:\DK-HP-PA-2000AR\Projects</Right>
+            <Left>C:\Projects_Banee</Left>
+            <Right>E:\DK-HP-PA-2000AR\Projects</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee</Left>
-            <Right>G:\Lab</Right>
+            <Left>C:\Lab_Banee</Left>
+            <Right>E:\Lab</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -449,6 +457,8 @@
                     <Item>\Flutter\*\ios\ServiceDefinitions.json</Item>
                     <Item>\Flutter\*\ios\Runner\GeneratedPluginRegistrant.*</Item>
                     <Item>\STS\.metadata\</Item>
+                    <Item>\CMD_Lua\</Item>
+                    <Item>\ZeroBrane_Studio\</Item>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>
@@ -456,16 +466,16 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Azure_DevOps</Left>
-            <Right>G:\Lab\Azure_DevOps</Right>
+            <Left>C:\Lab_Banee\Azure_DevOps</Left>
+            <Right>E:\Lab\Azure_DevOps</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Colaboratory</Left>
-            <Right>G:\Lab\Colaboratory</Right>
+            <Left>C:\Lab_Banee\Colaboratory</Left>
+            <Right>E:\Lab\Colaboratory</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\JupyterHub</Left>
-            <Right>G:\Lab\JupyterHub</Right>
+            <Left>C:\Lab_Banee\JupyterHub</Left>
+            <Right>E:\Lab\JupyterHub</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -479,8 +489,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Laravel</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\php\Laravel</Right>
+            <Left>C:\Lab_Banee\Laravel</Left>
+            <Right>E:\DK-HP-PA-2000AR\wwwroot\php\Laravel</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -494,8 +504,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Meson</Left>
-            <Right>G:\Lab\Meson</Right>
+            <Left>C:\Lab_Banee\Meson</Left>
+            <Right>E:\Lab\Meson</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -509,8 +519,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\MSYS2_MinGW-w64</Left>
-            <Right>G:\Lab\MSYS2_MinGW-w64</Right>
+            <Left>C:\Lab_Banee\MSYS2_MinGW-w64</Left>
+            <Right>E:\Lab\MSYS2_MinGW-w64</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -526,16 +536,16 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Persepolis</Left>
-            <Right>G:\Lab\Persepolis</Right>
+            <Left>C:\Lab_Banee\Persepolis</Left>
+            <Right>E:\Lab\Persepolis</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Phar</Left>
-            <Right>G:\Lab\Phar</Right>
+            <Left>C:\Lab_Banee\Phar</Left>
+            <Right>E:\Lab\Phar</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Rider</Left>
-            <Right>G:\Lab\Rider</Right>
+            <Left>C:\Lab_Banee\Rider</Left>
+            <Right>E:\Lab\Rider</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -551,8 +561,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\RStudio</Left>
-            <Right>G:\Lab\RStudio</Right>
+            <Left>C:\Lab_Banee\RStudio</Left>
+            <Right>E:\Lab\RStudio</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -570,8 +580,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Symfony</Left>
-            <Right>G:\Lab\Symfony</Right>
+            <Left>C:\Lab_Banee\Symfony</Left>
+            <Right>E:\Lab\Symfony</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -585,12 +595,12 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Tally_ERP</Left>
-            <Right>G:\Lab\Tally_ERP</Right>
+            <Left>C:\Lab_Banee\Tally_ERP</Left>
+            <Right>E:\Lab\Tally_ERP</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Android_Studio</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Android_Studio</Right>
+            <Left>C:\Lab_Banee\Android_Studio</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\Android_Studio</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -617,12 +627,12 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Bash</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Bash</Right>
+            <Left>C:\Lab_Banee\Bash</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\Bash</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\CMD_Node</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\CMD_Node</Right>
+            <Left>C:\Lab_Banee\CMD_Node</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\CMD_Node</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -637,16 +647,16 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\CMD_Python</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\CMD_Python</Right>
+            <Left>C:\Lab_Banee\CMD_Python</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\CMD_Python</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\django</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\django</Right>
+            <Left>C:\Lab_Banee\django</Left>
+            <Right>E:\DK-HP-PA-2000AR\wwwroot\django</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Eclipse_ADT</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT</Right>
+            <Left>C:\Lab_Banee\Eclipse_ADT</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -663,16 +673,16 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\HTML_JS_CSS</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS</Right>
+            <Left>C:\Lab_Banee\HTML_JS_CSS</Left>
+            <Right>E:\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Jupyter</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Jupyter</Right>
+            <Left>C:\Lab_Banee\Jupyter</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\Jupyter</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Maven</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Maven</Right>
+            <Left>C:\Lab_Banee\Maven</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\Maven</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -686,8 +696,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\php</Left>
-            <Right>G:\DK-HP-PA-2000AR\wwwroot\php</Right>
+            <Left>C:\Lab_Banee\php</Left>
+            <Right>E:\DK-HP-PA-2000AR\wwwroot\php</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -703,8 +713,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\React-Native</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\React-Native</Right>
+            <Left>C:\Lab_Banee\React-Native</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\React-Native</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -720,12 +730,12 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Tests</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Tests</Right>
+            <Left>C:\Lab_Banee\Tests</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\Tests</Right>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\Visual_Studio_2017</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017</Right>
+            <Left>C:\Lab_Banee\Visual_Studio_2017</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -742,8 +752,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>D:\Lab_Banee\VS_Code_Batch</Left>
-            <Right>G:\DK-HP-PA-2000AR\Laboratory\VS_Code_Batch</Right>
+            <Left>C:\Lab_Banee\VS_Code_Batch</Left>
+            <Right>E:\DK-HP-PA-2000AR\Laboratory\VS_Code_Batch</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

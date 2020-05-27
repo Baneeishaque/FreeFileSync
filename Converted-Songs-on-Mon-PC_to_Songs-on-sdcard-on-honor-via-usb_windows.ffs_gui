@@ -21,6 +21,7 @@
             <Item>\RECYCLE?\</Item>
             <Item>*\desktop.ini</Item>
             <Item>*\thumbs.db</Item>
+            <Item>*.txt | *.lrc | *.trc |</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -28,8 +29,8 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>V:\Users\mon\Music\Converted by MediaHuman</Left>
-            <Right>ftp://android@192.168.43.1:2221/Songs|pass64=YW5kcm9pZA==</Right>
+            <Left>C:\Users\mon\Music\Converted by MediaHuman</Left>
+            <Right>Computer\Honor 9 Lite\SanDisk SD card\Songs</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

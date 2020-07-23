@@ -23,6 +23,7 @@
             <Item>*\desktop.ini</Item>
             <Item>*\thumbs.db</Item>
             <Item>*.nomedia</Item>
+            <Item>\DCIM\Camera\cache\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -31,7 +32,7 @@
     <FolderPairs>
         <Pair>
             <Left>ftp://francis@192.168.43.1:2222/|pass64=ZnJhbmNpcw==</Left>
-            <Right>F:\Data_Backups\Honor_9_Lite\sdcard</Right>
+            <Right>D:\Honor_9_Lite\sdcard</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -64,7 +65,7 @@
         </Pair>
         <Pair>
             <Left>ftp://android@192.168.43.1:2221/|pass64=YW5kcm9pZA==</Left>
-            <Right>F:\Data_Backups\Honor_9_Lite\storage</Right>
+            <Right>D:\Honor_9_Lite\storage</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>

@@ -30,6 +30,18 @@
     </Filter>
     <FolderPairs>
         <Pair>
+            <Left>E:\To_Check</Left>
+            <Right>F:\Abdu_PC\To_Check</Right>
+        </Pair>
+        <Pair>
+            <Left>E:\To_DK</Left>
+            <Right>F:\Abdu_PC\To_DK</Right>
+        </Pair>
+        <Pair>
+            <Left>C:\Programs\aria2_repository</Left>
+            <Right>F:\Abdu_PC\aria2_repository</Right>
+        </Pair>
+        <Pair>
             <Left>E:\To_Sync\Lab_Abdulla</Left>
             <Right>F:\Lab_Abdulla</Right>
             <Filter>

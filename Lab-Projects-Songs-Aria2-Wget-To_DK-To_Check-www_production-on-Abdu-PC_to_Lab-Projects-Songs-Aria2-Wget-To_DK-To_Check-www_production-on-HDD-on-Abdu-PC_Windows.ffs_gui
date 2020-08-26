@@ -103,7 +103,7 @@
             <Item>\Flutter\*\ios\Runner\GeneratedPluginRegistrant.*</Item>
             <Item>\Kotlin_CMD\*\.gradle\</Item>
             <Item>\Kotlin_CMD\*\build\</Item>
-            <Item>\Kotlin_CMD\Transaction_Inserter_For_Account_Ledger\dist\</Item>
+            <Item>\Kotlin_CMD\*\*.hprof</Item>
             <Item>\CMD_Flutter\*\*.class</Item>
             <Item>\CMD_Flutter\*\*.log</Item>
             <Item>\CMD_Flutter\*\*.pyc</Item>
@@ -179,6 +179,10 @@
         <SizeMax Unit="None">0</SizeMax>
     </Filter>
     <FolderPairs>
+        <Pair>
+            <Left>C:\Programs\wwwroot_production</Left>
+            <Right>F:\DK-HP-PA-2000AR\wwwroot\production</Right>
+        </Pair>
         <Pair>
             <Left>E:\To_Check</Left>
             <Right>F:\Abdu_PC\To_Check</Right>

@@ -6,7 +6,15 @@
         <IgnoreTimeShift/>
     </Compare>
     <Synchronize>
-        <Variant>Mirror</Variant>
+        <Variant>Custom</Variant>
+        <CustomDirections>
+            <LeftOnly>right</LeftOnly>
+            <RightOnly>right</RightOnly>
+            <LeftNewer>right</LeftNewer>
+            <RightNewer>none</RightNewer>
+            <Different>right</Different>
+            <Conflict>none</Conflict>
+        </CustomDirections>
         <DetectMovedFiles>true</DetectMovedFiles>
         <DeletionPolicy>RecycleBin</DeletionPolicy>
         <VersioningFolder Style="Replace"/>
@@ -21,7 +29,6 @@
             <Item>\RECYCLE?\</Item>
             <Item>*\desktop.ini</Item>
             <Item>*\thumbs.db</Item>
-            <Item>*.flac | *.MP3 | *.pdf | *.ape | *.jpg | *.aac | *.m4a | *.wpl | *.nfo | *.m3u | *.png | *.cue | *.wma | *.xml |</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -29,8 +36,8 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>F:\DK-HP-PA-2000AR\Songs</Left>
-            <Right>C:\Songs</Right>
+            <Left>E:\dBpoweramp\To_Sync\Songs</Left>
+            <Right>ftp://android@192.168.43.1:2221/Songs|pass64=YW5kcm9pZA==</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

@@ -18,13 +18,8 @@
         <Exclude>
             <Item>\System Volume Information\</Item>
             <Item>\$Recycle.Bin\</Item>
-            <Item>\RECYCLER\</Item>
-            <Item>\RECYCLED\</Item>
-            <Item>*\desktop.ini</Item>
+            <Item>\RECYCLE?\</Item>
             <Item>*\thumbs.db</Item>
-            <Item>\.android_secure</Item>
-            <Item>\DCIM\Camera\cache\</Item>
-            <Item>\Android\data\com.google.android.apps.maps\cache\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -32,8 +27,24 @@
     </Filter>
     <FolderPairs>
         <Pair>
+            <Left>D:\Honor_9_Lite</Left>
+            <Right>F:\Data_Backups\Honor_9_Lite</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\storage\</Item>
+                    <Item>\sdcard\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
             <Left>D:\Honor_9_Lite\storage</Left>
-            <Right>ftp://android@192.168.225.31:2221/|pass64=YW5kcm9pZA==</Right>
+            <Right>F:\Data_Backups\Honor_9_Lite\storage</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

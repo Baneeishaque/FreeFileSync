@@ -22,6 +22,29 @@
             <Item>\RECYCLED\</Item>
             <Item>*\desktop.ini</Item>
             <Item>*\thumbs.db</Item>
+            <Item>\Android\data\com.android.gallery3d\cache\</Item>
+            <Item>\Android\data\com.android.mediacenter\cache\</Item>
+            <Item>\Android\data\com.android.providers.media\albumthumbs\</Item>
+            <Item>\Android\data\com.android.providers.media\thumbnail_cache\</Item>
+            <Item>\Android\data\com.google.android.apps.maps\cache\diskcache\</Item>
+            <Item>\Android\data\com.huawei.hwid\files\Log\</Item>
+            <Item>\Android\data\com.lonelycatgames.Xplore\cache\</Item>
+            <Item>\Android\data\com.tunnelbear.android\cache\</Item>
+            <Item>\Android\data\com.whatsapp\cache\SSLSessionCache\</Item>
+            <Item>\Android\data\com.whatsapp\cache\watls-sessions\</Item>
+            <Item>\Android\data\com.huawei.android.pushagent\files\Log\</Item>
+            <Item>\id_ie.txt</Item>
+            <Item>\AlivcData\alivc_data.txt</Item>
+            <Item>\Android\data\com.indiaBulls\files\push_cdata.data</Item>
+            <Item>\Android\data\com.indiaBulls\files\push_cdata.lock</Item>
+            <Item>\Android\data\com.intube.in\files\vungle_cache\clever_cache\</Item>
+            <Item>\Android\data\com.intube.in\files\vungle_cache\vungle\</Item>
+            <Item>\breakasia\wk_sign_1.txt</Item>
+            <Item>\breakasia\wk_sign_2.txt</Item>
+            <Item>\breakasia\fresco\normalDiskCacheName\</Item>
+            <Item>\breakasia\video\</Item>
+            <Item>\COASAPP\2019-12-19_10:23:41.184.txt</Item>
+            <Item>\OSSLog\logs.csv</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>

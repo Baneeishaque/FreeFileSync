@@ -27,8 +27,8 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>E:\Honor_9_Lite</Left>
-            <Right>F:\Data_Backups\Honor_9_Lite</Right>
+            <Left>F:\Data_Backups\Honor_9_Lite</Left>
+            <Right>E:\Honor_9_Lite</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -42,8 +42,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\Honor_9_Lite\storage</Left>
-            <Right>F:\Data_Backups\Honor_9_Lite\storage</Right>
+            <Left>F:\Data_Backups\Honor_9_Lite\storage</Left>
+            <Right>E:\Honor_9_Lite\storage</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>

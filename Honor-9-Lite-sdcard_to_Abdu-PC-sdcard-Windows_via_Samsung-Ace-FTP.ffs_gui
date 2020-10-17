@@ -45,13 +45,9 @@
             <Item>\breakasia\video\</Item>
             <Item>\COASAPP\2019-12-19_10:23:41.184.txt</Item>
             <Item>\OSSLog\logs.csv</Item>
+            <Item>\AlivcData\log\</Item>
             <Item>\Android\data\com.asana.app\files\instabug\logs\</Item>
-            <Item>\Android\data\org.teleroxy.xtele\cache\</Item>
-            <Item>\Android\data\System\local\_android.dat</Item>
-            <Item>\Android\data\System\local\_driver.dat</Item>
-            <Item>\Android\data\System\local\lut</Item>
-            <Item>\Android\data\com.vindhyainfotech.classicrummy\cache\</Item>
-            <Item>\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\voice_instructions_unitless.zip</Item>
+            <Item>\Android\data\com.paytm.paytmplay\files\push_cdata.lock</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -59,7 +55,7 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>ftp://francis@192.168.225.58:2222/|pass64=ZnJhbmNpcw==</Left>
+            <Left>ftp://francis@192.168.43.24:2222/|pass64=ZnJhbmNpcw==</Left>
             <Right>E:\Honor_9_Lite\sdcard</Right>
         </Pair>
     </FolderPairs>

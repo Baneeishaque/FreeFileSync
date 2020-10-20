@@ -175,6 +175,11 @@
             <Item>\Gradle\*\out\</Item>
             <Item>\phpMyAdmin-5.0.2-all-languages\tmp\</Item>
             <Item>\Vagrant\*\*.box</Item>
+            <Item>\Node_Web\*\node_modules\</Item>
+            <Item>\React_Web_Front\*\node_modules\</Item>
+            <Item>\JS_ES6_CMD\*\.yarn\install-state.gz</Item>
+            <Item>\Jupyter_JS_ES5\*\.ipynb_checkpoints\</Item>
+            <Item>\JS_ES6_CMD\*\.yarn\unplugged\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -182,24 +187,24 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>E:\To_Get</Left>
-            <Right>F:\Abdu_PC\To_Get</Right>
+            <Left>\\Abdu-pc\e\To_Get</Left>
+            <Right>\\Abdu-pc\F\Abdu_PC\To_Get</Right>
         </Pair>
         <Pair>
-            <Left>E:\wwwroot_production</Left>
-            <Right>F:\DK-HP-PA-2000AR\wwwroot\production</Right>
+            <Left>\\Abdu-pc\e\wwwroot_production</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\wwwroot\production</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_Check</Left>
-            <Right>F:\Abdu_PC\To_Check</Right>
+            <Left>\\Abdu-pc\e\To_Check</Left>
+            <Right>\\Abdu-pc\F\Abdu_PC\To_Check</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_DK</Left>
-            <Right>F:\Abdu_PC\To_DK</Right>
+            <Left>\\Abdu-pc\e\To_DK</Left>
+            <Right>\\Abdu-pc\F\Abdu_PC\To_DK</Right>
         </Pair>
         <Pair>
-            <Left>E:\aria2_repository</Left>
-            <Right>F:\Abdu_PC\aria2_repository</Right>
+            <Left>\\Abdu-pc\e\aria2_repository</Left>
+            <Right>\\Abdu-pc\F\Abdu_PC\aria2_repository</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -213,20 +218,20 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\wget_repository</Left>
-            <Right>F:\Abdu_PC\wget_repository</Right>
+            <Left>\\Abdu-pc\e\wget_repository</Left>
+            <Right>\\Abdu-pc\F\Abdu_PC\wget_repository</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Abdulla</Left>
-            <Right>F:\Labs\Lab_Abdulla</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Abdulla</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Abdulla</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Asaru</Left>
-            <Right>F:\Labs\Lab_Asaru</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Asaru</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Asaru</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Athira</Left>
-            <Right>F:\Labs\Lab_Athira</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Athira</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Athira</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -240,8 +245,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee</Left>
-            <Right>F:\Labs\Lab_Banee</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Banee</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -285,52 +290,52 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Dilshad</Left>
-            <Right>F:\Labs\Lab_Dilshad</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Dilshad</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Dilshad</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Jaseem</Left>
-            <Right>F:\Labs\Lab_Jaseem</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Jaseem</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Jaseem</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Kiran</Left>
-            <Right>F:\Labs\Lab_Kiran</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Kiran</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Kiran</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Nabeel</Left>
-            <Right>F:\Labs\Lab_Nabeel</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Nabeel</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Nabeel</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Nandana</Left>
-            <Right>F:\Labs\Lab_Nandana</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Nandana</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Nandana</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Rashid</Left>
-            <Right>F:\Labs\Lab_Rashid</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Rashid</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Rashid</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_References</Left>
-            <Right>F:\Labs\Lab_References</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_References</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_References</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Sharafu</Left>
-            <Right>F:\Labs\Lab_Sharafu</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Sharafu</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Sharafu</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Temp</Left>
-            <Right>F:\Labs\Lab_Temp</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Temp</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Temp</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Ziyad</Left>
-            <Right>F:\Labs\Lab_Ziyad</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Ziyad</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Ziyad</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Projects_Banee</Left>
-            <Right>F:\DK-HP-PA-2000AR\Projects</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Projects_Banee</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\Projects</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Songs</Left>
-            <Right>F:\DK-HP-PA-2000AR\Songs</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Songs</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\Songs</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -348,8 +353,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\Android_Studio</Left>
-            <Right>F:\DK-HP-PA-2000AR\Laboratory\Android_Studio</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\Android_Studio</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\Laboratory\Android_Studio</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -367,8 +372,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\CMD_Node</Left>
-            <Right>F:\DK-HP-PA-2000AR\Laboratory\CMD_Node</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\CMD_Node</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\Laboratory\CMD_Node</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -383,8 +388,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\Cordova_Mobile</Left>
-            <Right>F:\Labs\Lab_Banee\Cordova_Mobile</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\Cordova_Mobile</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Banee\Cordova_Mobile</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -399,8 +404,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\Cordova_Web</Left>
-            <Right>F:\Labs\Lab_Banee\Cordova_Web</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\Cordova_Web</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Banee\Cordova_Web</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -416,12 +421,12 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\django</Left>
-            <Right>F:\DK-HP-PA-2000AR\wwwroot\django</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\django</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\wwwroot\django</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\Eclipse_ADT</Left>
-            <Right>F:\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\Eclipse_ADT</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -438,8 +443,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\Expo</Left>
-            <Right>F:\Labs\Lab_Banee\Expo</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\Expo</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Banee\Expo</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -453,12 +458,12 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\HTML_JS_CSS</Left>
-            <Right>F:\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\HTML_JS_CSS</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\IntelliJ_IDEA</Left>
-            <Right>F:\DK-HP-PA-2000AR\Laboratory\IntelliJ_IDEA</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\IntelliJ_IDEA</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\Laboratory\IntelliJ_IDEA</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -474,8 +479,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\JupyterHub</Left>
-            <Right>F:\Labs\Lab_Banee\JupyterHub</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\JupyterHub</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Banee\JupyterHub</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -489,8 +494,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\Laravel</Left>
-            <Right>F:\DK-HP-PA-2000AR\wwwroot\php\Laravel</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\Laravel</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\wwwroot\php\Laravel</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -504,8 +509,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\Maven</Left>
-            <Right>F:\DK-HP-PA-2000AR\Laboratory\Maven</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\Maven</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\Laboratory\Maven</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -519,8 +524,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\Meson</Left>
-            <Right>F:\Labs\Lab_Banee\Meson</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\Meson</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Banee\Meson</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -534,12 +539,12 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\Moonshine</Left>
-            <Right>F:\DK-HP-PA-2000AR\wwwroot\Moonshine</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\Moonshine</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\wwwroot\Moonshine</Right>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\MSYS2_MinGW-w64</Left>
-            <Right>F:\Labs\Lab_Banee\MSYS2_MinGW-w64</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\MSYS2_MinGW-w64</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Banee\MSYS2_MinGW-w64</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -555,8 +560,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\NetBeans_J2SE</Left>
-            <Right>F:\DK-HP-PA-2000AR\Laboratory\NetBeans_J2SE</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\NetBeans_J2SE</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\Laboratory\NetBeans_J2SE</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -573,8 +578,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\NetBeans_Maven</Left>
-            <Right>F:\DK-HP-PA-2000AR\Laboratory\NetBeans_Maven</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\NetBeans_Maven</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\Laboratory\NetBeans_Maven</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -588,8 +593,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\Netbeans_MinGW_W64_C</Left>
-            <Right>F:\DK-HP-PA-2000AR\Laboratory\Netbeans_MinGW_W64_C</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\Netbeans_MinGW_W64_C</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\Laboratory\Netbeans_MinGW_W64_C</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -606,8 +611,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\php</Left>
-            <Right>F:\DK-HP-PA-2000AR\wwwroot\php</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\php</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\wwwroot\php</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -623,8 +628,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\React-Native</Left>
-            <Right>F:\DK-HP-PA-2000AR\Laboratory\React-Native</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\React-Native</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\Laboratory\React-Native</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -640,8 +645,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\Rider</Left>
-            <Right>F:\Labs\Lab_Banee\Rider</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\Rider</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Banee\Rider</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -657,8 +662,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\RStudio</Left>
-            <Right>F:\Labs\Lab_Banee\RStudio</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\RStudio</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Banee\RStudio</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -676,8 +681,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\Symfony</Left>
-            <Right>F:\Labs\Lab_Banee\Symfony</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\Symfony</Left>
+            <Right>\\Abdu-pc\F\Labs\Lab_Banee\Symfony</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -691,8 +696,8 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\Visual_Studio_2017</Left>
-            <Right>F:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\Visual_Studio_2017</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -709,14 +714,17 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>E:\To_Sync\Lab_Banee\www_Node_js</Left>
-            <Right>F:\DK-HP-PA-2000AR\wwwroot\Node_js</Right>
+            <Left>\\Abdu-pc\e\To_Sync\Lab_Banee\www_Node_js</Left>
+            <Right>\\Abdu-pc\F\DK-HP-PA-2000AR\wwwroot\Node_js</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
                 </Include>
                 <Exclude>
                     <Item>*\node_modules\</Item>
+                    <Item>\Teleconsultation\build\</Item>
+                    <Item>*\.yarn\unplugged\</Item>
+                    <Item>*\.yarn\install-state.gz</Item>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>

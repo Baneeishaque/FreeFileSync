@@ -42,7 +42,7 @@
             <Item>*\.DS_Store</Item>
             <Item>*\._*</Item>
             <Item>*\.idea\workspace.xml</Item>
-            <Item>\Cordova_Web\*\node_modules\</Item>
+            <Item>*\node_modules\</Item>
             <Item>\Cordova_Web\*\plugins\</Item>
             <Item>\Cordova_Web\*\platforms\browser\www\</Item>
             <Item>\Android_Studio\*\.gradle\</Item>
@@ -169,17 +169,15 @@
             <Item>\IntelliJ_Maven_Spring_Web\*\target\</Item>
             <Item>\LDT\.metadata\</Item>
             <Item>\STS\.metadata\</Item>
-            <Item>\Python_ML\*\.ipynb_checkpoints\</Item>
             <Item>\Gradle\*\.gradle\</Item>
             <Item>\Gradle\*\build\</Item>
             <Item>\Gradle\*\out\</Item>
-            <Item>\phpMyAdmin-5.0.2-all-languages\tmp\</Item>
+            <Item>\phpMyAdmin-5.0.*-all-languages\tmp\</Item>
             <Item>\Vagrant\*\*.box</Item>
-            <Item>\Node_Web\*\node_modules\</Item>
-            <Item>\React_Web_Front\*\node_modules\</Item>
-            <Item>\JS_ES6_CMD\*\.yarn\install-state.gz</Item>
-            <Item>\Jupyter_JS_ES5\*\.ipynb_checkpoints\</Item>
-            <Item>\JS_ES6_CMD\*\.yarn\unplugged\</Item>
+            <Item>*\node_modules\</Item>
+            <Item>*\.ipynb_checkpoints\</Item>
+            <Item>*\.yarn\unplugged\</Item>
+            <Item>*\.yarn\install-state.gz</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>

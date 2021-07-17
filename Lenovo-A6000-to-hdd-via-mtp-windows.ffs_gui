@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="17">
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Mirror</Variant>
+        <DetectMovedFiles>true</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLE?\</Item>
+            <Item>*\thumbs.db</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>mtp:\Lenovo A6000\Internal storage</Left>
+            <Right>E:\Data_Backups\Lenovo_A6000\Internal storage</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\Android\data\cn.xender\cache\igl_cache\</Item>
+                    <Item>\OSSLog\logs.csv</Item>
+                    <Item>\.system\ODY3ODA0MDIwNTI5NDk4X3B1c2hfYWN0aXZl</Item>
+                    <Item>\.uxx\.cca.dat</Item>
+                    <Item>\data\.push_deviceid</Item>
+                    <Item>\.um\.umm.dat</Item>
+                    <Item>\.cc\.adfwe.dat</Item>
+                    <Item>\PushSdkDefaultLog\com.yy.hiyo\data\RunningStatus\info.txt</Item>
+                    <Item>\PushSdkDefaultLog\com.yy.hiyo\config\LogPath.txt</Item>
+                    <Item>\.UTSystemConfig\Global\Alvin2.xml</Item>
+                    <Item>\.android\Global</Item>
+                    <Item>\.android\hdcltid.ini</Item>
+                    <Item>\.android\hduuid_v1</Item>
+                    <Item>\.DataStorage\ContextData.xml</Item>
+                    <Item>\.hiidosdk\Device</Item>
+                    <Item>\.hiidosdk\Device_v2</Item>
+                    <Item>\LSF_PUSH\10018343_resDir\big_img.png</Item>
+                    <Item>\LSF_PUSH\10018343_resDir\icon.png</Item>
+                    <Item>\Xender\.x_did</Item>
+                    <Item>\Xender\.cache\</Item>
+                    <Item>\com.yy.hiyo\image_manager_disk_cache\</Item>
+                    <Item>\com.yy.hiyo\logs\sdklog\pushsvc_log.txt</Item>
+                    <Item>\com.yy.hiyo\logs\com.yy.hiyo__com-yy-hiyo_*</Item>
+                    <Item>\Android\data\com.lenovo.lsf.device\files\lsf_start_time.txt</Item>
+                    <Item>\Android\data\com.lenovo.lsf.device\files\sdac_push_active.txt</Item>
+                    <Item>\Android\data\com.cyanogenmod.eleven\cache\ImageCache\journal</Item>
+                    <Item>\Android\data\com.google.android.gms\files\gmsnet2.jpg</Item>
+                    <Item>\Android\data\com.whatsapp\cache\watls-sessions\bW1nLndoYXRzYXBwLm5ldCM0NDMjVExTX0FFU18xMjhfR0NNX1NIQTI1Ng==</Item>
+                    <Item>\Android\data\com.whatsapp\cache\SSLSessionCache\157.240.23.53.443</Item>
+                    <Item>\Android\data\com.whatsapp\cache\SSLSessionCache\[2a03:2880:f237:c6:face:b00c:0:167].443</Item>
+                    <Item>\Android\data\com.whatsapp\cache\SSLSessionCache\pps.whatsapp.net.443</Item>
+                    <Item>\Android\data\com.whatsapp\cache\SSLSessionCache\static.whatsapp.net.443</Item>
+                    <Item>\Android\data\net.one97.paytm\cache\IdayCard-xhdpi.png</Item>
+                    <Item>\Android\data\net.one97.paytm\cache\card_bg-xhdpi.png</Item>
+                    <Item>\Android\data\com.android.vending\files\dna_data\FullArchive-20928831671611983602701</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>mtp:\Lenovo A6000\SD card</Left>
+            <Right>E:\Data_Backups\Lenovo_A6000\SD card</Right>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <PostSyncCommand Condition="Completion"/>
+    <LogFolder/>
+    <EmailNotification Condition="Always"/>
+    <Gui>
+        <GridViewType>Action</GridViewType>
+    </Gui>
+</FreeFileSync>

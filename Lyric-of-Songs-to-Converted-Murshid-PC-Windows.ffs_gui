@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FreeFileSync XmlType="GUI" XmlFormat="16">
+<FreeFileSync XmlType="GUI" XmlFormat="17">
     <Compare>
         <Variant>TimeAndSize</Variant>
         <Symlinks>Exclude</Symlinks>
@@ -18,10 +18,10 @@
         <Exclude>
             <Item>\System Volume Information\</Item>
             <Item>\$Recycle.Bin\</Item>
-            <Item>\RECYCLER\</Item>
-            <Item>\RECYCLED\</Item>
+            <Item>\RECYCLE?\</Item>
             <Item>*\desktop.ini</Item>
             <Item>*\thumbs.db</Item>
+            <Item>*.flac | *.MP3 | *.pdf | *.ape | *.jpg | *.aac | *.m4a | *.wpl | *.nfo | *.m3u | *.png | *.cue | *.wma | *.xml |</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -29,8 +29,8 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>D:\Honor_9_Lite\storage</Left>
-            <Right>ftp://android@192.168.43.1:2221/|pass64=YW5kcm9pZA==</Right>
+            <Left>Z:\Banee_Data\To_Sync\Songs</Left>
+            <Right>C:\Converted_Songs</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>
@@ -38,6 +38,6 @@
     <LogFolder/>
     <EmailNotification Condition="Always"/>
     <Gui>
-        <MiddleGridView>Action</MiddleGridView>
+        <GridViewType>Action</GridViewType>
     </Gui>
 </FreeFileSync>

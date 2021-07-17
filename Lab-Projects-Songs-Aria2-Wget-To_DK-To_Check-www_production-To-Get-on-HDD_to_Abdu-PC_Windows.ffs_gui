@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FreeFileSync XmlType="GUI" XmlFormat="16">
+<FreeFileSync XmlType="GUI" XmlFormat="17">
     <Compare>
         <Variant>TimeAndSize</Variant>
         <Symlinks>Exclude</Symlinks>
@@ -351,7 +351,7 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>F:\DK-HP-PA-2000AR\Laboratory\Android_Studio</Left>
+            <Left>F:\Labs\Lab_Banee\Android_Studio</Left>
             <Right>E:\To_Sync\Lab_Banee\Android_Studio</Right>
             <Filter>
                 <Include>
@@ -370,7 +370,7 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>F:\DK-HP-PA-2000AR\Laboratory\CMD_Node</Left>
+            <Left>F:\Labs\Lab_Banee\CMD_Node</Left>
             <Right>E:\To_Sync\Lab_Banee\CMD_Node</Right>
             <Filter>
                 <Include>
@@ -423,7 +423,7 @@
             <Right>E:\To_Sync\Lab_Banee\django</Right>
         </Pair>
         <Pair>
-            <Left>F:\DK-HP-PA-2000AR\Laboratory\Eclipse_ADT</Left>
+            <Left>F:\Labs\Lab_Banee\Eclipse_ADT</Left>
             <Right>E:\To_Sync\Lab_Banee\Eclipse_ADT</Right>
             <Filter>
                 <Include>
@@ -460,7 +460,7 @@
             <Right>E:\To_Sync\Lab_Banee\HTML_JS_CSS</Right>
         </Pair>
         <Pair>
-            <Left>F:\DK-HP-PA-2000AR\Laboratory\IntelliJ_IDEA</Left>
+            <Left>F:\Labs\Lab_Banee\IntelliJ_IDEA</Left>
             <Right>E:\To_Sync\Lab_Banee\IntelliJ_IDEA</Right>
             <Filter>
                 <Include>
@@ -507,7 +507,7 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>F:\DK-HP-PA-2000AR\Laboratory\Maven</Left>
+            <Left>F:\Labs\Lab_Banee\Maven</Left>
             <Right>E:\To_Sync\Lab_Banee\Maven</Right>
             <Filter>
                 <Include>
@@ -558,7 +558,7 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>F:\DK-HP-PA-2000AR\Laboratory\NetBeans_J2SE</Left>
+            <Left>F:\Labs\Lab_Banee\NetBeans_J2SE</Left>
             <Right>E:\To_Sync\Lab_Banee\NetBeans_J2SE</Right>
             <Filter>
                 <Include>
@@ -576,7 +576,7 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>F:\DK-HP-PA-2000AR\Laboratory\NetBeans_Maven</Left>
+            <Left>F:\Labs\Lab_Banee\NetBeans_Maven</Left>
             <Right>E:\To_Sync\Lab_Banee\NetBeans_Maven</Right>
             <Filter>
                 <Include>
@@ -591,7 +591,7 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>F:\DK-HP-PA-2000AR\Laboratory\Netbeans_MinGW_W64_C</Left>
+            <Left>F:\Labs\Lab_Banee\Netbeans_MinGW_W64_C</Left>
             <Right>E:\To_Sync\Lab_Banee\Netbeans_MinGW_W64_C</Right>
             <Filter>
                 <Include>
@@ -626,7 +626,7 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>F:\DK-HP-PA-2000AR\Laboratory\React-Native</Left>
+            <Left>F:\Labs\Lab_Banee\React-Native</Left>
             <Right>E:\To_Sync\Lab_Banee\React-Native</Right>
             <Filter>
                 <Include>
@@ -694,7 +694,7 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>F:\DK-HP-PA-2000AR\Laboratory\Visual_Studio_2017</Left>
+            <Left>F:\Labs\Lab_Banee\Visual_Studio_2017</Left>
             <Right>E:\To_Sync\Lab_Banee\Visual_Studio_2017</Right>
             <Filter>
                 <Include>
@@ -735,6 +735,6 @@
     <LogFolder/>
     <EmailNotification Condition="Always"/>
     <Gui>
-        <MiddleGridView>Action</MiddleGridView>
+        <GridViewType>Action</GridViewType>
     </Gui>
 </FreeFileSync>

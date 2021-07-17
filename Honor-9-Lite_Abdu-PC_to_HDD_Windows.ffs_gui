@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FreeFileSync XmlType="GUI" XmlFormat="16">
+<FreeFileSync XmlType="GUI" XmlFormat="17">
     <Compare>
         <Variant>TimeAndSize</Variant>
         <Symlinks>Exclude</Symlinks>
@@ -28,7 +28,7 @@
     <FolderPairs>
         <Pair>
             <Left>E:\Honor_9_Lite</Left>
-            <Right>F:\Data_Backups\Honor_9_Lite</Right>
+            <Right>F:\Data_Backups4\Honor_9_Lite</Right>
             <Filter>
                 <Include>
                     <Item>*</Item>
@@ -43,7 +43,7 @@
         </Pair>
         <Pair>
             <Left>E:\Honor_9_Lite\storage</Left>
-            <Right>F:\Data_Backups\Honor_9_Lite\storage</Right>
+            <Right>F:\Data_Backups4\Honor_9_Lite\storage</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>
@@ -51,6 +51,6 @@
     <LogFolder/>
     <EmailNotification Condition="Always"/>
     <Gui>
-        <MiddleGridView>Action</MiddleGridView>
+        <GridViewType>Action</GridViewType>
     </Gui>
 </FreeFileSync>

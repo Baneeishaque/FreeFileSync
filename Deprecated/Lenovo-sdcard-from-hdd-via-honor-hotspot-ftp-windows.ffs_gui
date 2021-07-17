@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FreeFileSync XmlType="GUI" XmlFormat="14">
+<FreeFileSync XmlType="GUI" XmlFormat="17">
     <Compare>
         <Variant>TimeAndSize</Variant>
         <Symlinks>Exclude</Symlinks>
@@ -96,44 +96,15 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>G:\Honor_9_Lite\storage\Song</Left>
-            <Right>ftp://francis@192.168.43.3:2221/storage/sdcard1/Song|pass64=ZnJhbmNpcw==</Right>
-            <Compare>
-                <Variant>Size</Variant>
-                <Symlinks>Exclude</Symlinks>
-                <IgnoreTimeShift/>
-            </Compare>
-        </Pair>
-        <Pair>
-            <Left>G:\Honor_9_Lite\storage\Songs</Left>
-            <Right>ftp://francis@192.168.43.3:2221/storage/sdcard1/Songs|pass64=ZnJhbmNpcw==</Right>
-            <Compare>
-                <Variant>Size</Variant>
-                <Symlinks>Exclude</Symlinks>
-                <IgnoreTimeShift/>
-            </Compare>
-        </Pair>
-        <Pair>
-            <Left>G:\Lenovo_A6000\storage</Left>
-            <Right>ftp://francis@192.168.43.3:2221/storage/sdcard1|pass64=ZnJhbmNpcw==</Right>
-            <Filter>
-                <Include>
-                    <Item>*</Item>
-                </Include>
-                <Exclude>
-                    <Item>\Songs\</Item>
-                    <Item>\Song\</Item>
-                </Exclude>
-                <TimeSpan Type="None">0</TimeSpan>
-                <SizeMin Unit="None">0</SizeMin>
-                <SizeMax Unit="None">0</SizeMax>
-            </Filter>
+            <Left>G:\Lenovo_A6000\sdcard</Left>
+            <Right>ftp://francis@192.168.43.3:2221/|pass64=ZnJhbmNpcw==</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>
-    <LogFolder/>
     <PostSyncCommand Condition="Completion"/>
+    <LogFolder/>
+    <EmailNotification Condition="Always"/>
     <Gui>
-        <MiddleGridView>Action</MiddleGridView>
+        <GridViewType>Action</GridViewType>
     </Gui>
 </FreeFileSync>

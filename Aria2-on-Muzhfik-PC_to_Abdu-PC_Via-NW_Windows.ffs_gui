@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FreeFileSync XmlType="GUI" XmlFormat="16">
+<FreeFileSync XmlType="GUI" XmlFormat="17">
     <Compare>
         <Variant>TimeAndSize</Variant>
         <Symlinks>Exclude</Symlinks>
         <IgnoreTimeShift/>
     </Compare>
     <Synchronize>
-        <Variant>Mirror</Variant>
+        <Variant>Custom</Variant>
+        <CustomDirections>
+            <LeftOnly>right</LeftOnly>
+            <RightOnly>right</RightOnly>
+            <LeftNewer>right</LeftNewer>
+            <RightNewer>none</RightNewer>
+            <Different>right</Different>
+            <Conflict>none</Conflict>
+        </CustomDirections>
         <DetectMovedFiles>true</DetectMovedFiles>
         <DeletionPolicy>RecycleBin</DeletionPolicy>
         <VersioningFolder Style="Replace"/>
@@ -19,7 +27,10 @@
             <Item>\System Volume Information\</Item>
             <Item>\$Recycle.Bin\</Item>
             <Item>\RECYCLE?\</Item>
+            <Item>*\desktop.ini</Item>
             <Item>*\thumbs.db</Item>
+            <Item>*\.DS_Store</Item>
+            <Item>*\._*</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -27,12 +38,19 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>mtp:\Galaxy J1 ace\Phone</Left>
-            <Right>D:\Galaxy_J1_ace\Phone</Right>
-        </Pair>
-        <Pair>
-            <Left>mtp:\Galaxy J1 ace\Card</Left>
-            <Right>D:\Galaxy_J1_ace\Card</Right>
+            <Left>\\User-pc\c\Programs\aria2_repository</Left>
+            <Right>\\Abdu-pc\E\Muzhfik_PC\aria2_repository</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>aria2.log</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>
@@ -40,6 +58,6 @@
     <LogFolder/>
     <EmailNotification Condition="Always"/>
     <Gui>
-        <MiddleGridView>Action</MiddleGridView>
+        <GridViewType>Action</GridViewType>
     </Gui>
 </FreeFileSync>

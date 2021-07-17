@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="17">
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Mirror</Variant>
+        <DetectMovedFiles>true</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLER\</Item>
+            <Item>\RECYCLED\</Item>
+            <Item>*\desktop.ini</Item>
+            <Item>*\thumbs.db</Item>
+            <Item>\Android\data\com.google.android.music\files\._playmusicid</Item>
+            <Item>\Android\obb\.nomedia</Item>
+            <Item>\.android_secure</Item>
+            <Item>\Android\data\com.android.gallery3d\cache\.nomedia</Item>
+            <Item>\Android\data\com.android.gallery3d\cache\imgcache.*</Item>
+            <Item>\To_DK\Allo\.127ee.acid</Item>
+            <Item>\Android\data\.nomedia</Item>
+            <Item>\To_DK\DCIM\Camera\cache\latest\IMG_*.thumbnail</Item>
+            <Item>\To_DK\Pictures\.Gallery2\recycle\bins\0\G*</Item>
+            <Item>\To_DK\Telegram\Telegram Audio\.nomedia</Item>
+            <Item>\To_DK\show-java\.3f159.openidcom.promiz.media</Item>
+            <Item>\To_DK\show-java\.nomedia</Item>
+            <Item>\To_DK\WunderlistFiles\.a2631.openidcom.promiz.media</Item>
+            <Item>\To_DK\WA Saved Status\.85ce0.ncuid</Item>
+            <Item>\To_DK\AppProjects\.nomedia</Item>
+            <Item>\Sounds\.backup\75f09781f5414b2677de9eb29b531560_direction.txt</Item>
+            <Item>\Sounds\.backup\recordmode.txt</Item>
+            <Item>\Pictures\.Gallery2\recycle\bins\0\G*</Item>
+            <Item>\To_DK\Telegram\Telegram Documents\.nomedia</Item>
+            <Item>\Android\data\com.android.providers.media\albumthumbs\1608897215843</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>E:\Data_Backups4\Honor_9_Lite\storage</Left>
+            <Right>ftp://android@192.168.43.1:2221/|pass64=YW5kcm9pZA==</Right>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <PostSyncCommand Condition="Completion"/>
+    <LogFolder/>
+    <EmailNotification Condition="Always"/>
+    <Gui>
+        <GridViewType>Action</GridViewType>
+    </Gui>
+</FreeFileSync>

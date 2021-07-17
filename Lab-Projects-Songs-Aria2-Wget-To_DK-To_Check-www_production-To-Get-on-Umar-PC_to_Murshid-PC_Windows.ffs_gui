@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="17">
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Custom</Variant>
+        <CustomDirections>
+            <LeftOnly>right</LeftOnly>
+            <RightOnly>right</RightOnly>
+            <LeftNewer>right</LeftNewer>
+            <RightNewer>none</RightNewer>
+            <Different>right</Different>
+            <Conflict>none</Conflict>
+        </CustomDirections>
+        <DetectMovedFiles>true</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+            <Item>\Flutter\*\ios\**\default.mode1v3</Item>
+            <Item>\Flutter\*\ios\**\default.mode2v3</Item>
+            <Item>\Flutter\*\ios\**\default.pbxuser</Item>
+            <Item>\Flutter\*\ios\**\default.perspectivev3</Item>
+            <Item>\Flutter\*\packages\flutter_tools\test\data\dart_dependencies_test\**\.packages</Item>
+            <Item>\CMD_Flutter\*\ios\**\default.mode1v3</Item>
+            <Item>\CMD_Flutter\*\ios\**\default.mode2v3</Item>
+            <Item>\CMD_Flutter\*\ios\**\default.pbxuser</Item>
+            <Item>\CMD_Flutter\*\ios\**\default.perspectivev3</Item>
+            <Item>\CMD_Flutter\*\packages\flutter_tools\test\data\dart_dependencies_test\**\.packages</Item>
+        </Include>
+        <Exclude>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLE?\</Item>
+            <Item>*\desktop.ini</Item>
+            <Item>*\thumbs.db</Item>
+            <Item>*\.DS_Store</Item>
+            <Item>*\._*</Item>
+            <Item>*\.idea\workspace.xml</Item>
+            <Item>*\node_modules\</Item>
+            <Item>\Cordova_Web\*\plugins\</Item>
+            <Item>\Cordova_Web\*\platforms\browser\www\</Item>
+            <Item>\Android_Studio\*\.gradle\</Item>
+            <Item>\Android_Studio\*\build\</Item>
+            <Item>\Android_Studio\*\.idea\caches\</Item>
+            <Item>\Android_Studio\*\.idea\libraries\</Item>
+            <Item>\Android_Studio\*\local.properties</Item>
+            <Item>\Flutter\*\*.class</Item>
+            <Item>\Flutter\*\*.log</Item>
+            <Item>\Flutter\*\*.pyc</Item>
+            <Item>\Flutter\*\*.swp</Item>
+            <Item>\Flutter\*\.atom\</Item>
+            <Item>\Flutter\*\.buildlog\</Item>
+            <Item>\Flutter\*\.history</Item>
+            <Item>\Flutter\*\.svn\</Item>
+            <Item>\Flutter\*\*.iml</Item>
+            <Item>\Flutter\*\*.ipr</Item>
+            <Item>\Flutter\*\*.iws</Item>
+            <Item>\Flutter\*\.idea</Item>
+            <Item>\Flutter\*\.vscode\</Item>
+            <Item>\Flutter\*\**\doc\api\</Item>
+            <Item>\Flutter\*\.dart_tool\</Item>
+            <Item>\Flutter\*\.flutter-plugins</Item>
+            <Item>\Flutter\*\.packages</Item>
+            <Item>\Flutter\*\.pub-cache\</Item>
+            <Item>\Flutter\*\.pub\</Item>
+            <Item>\Flutter\*\build\</Item>
+            <Item>\Flutter\*\android\**\gradle-wrapper.jar</Item>
+            <Item>\Flutter\*\android\.gradle</Item>
+            <Item>\Flutter\*\android\captures\</Item>
+            <Item>\Flutter\*\android\gradlew</Item>
+            <Item>\Flutter\*\android\gradlew.bat</Item>
+            <Item>\Flutter\*\android\local.properties</Item>
+            <Item>\Flutter\*\android\**\GeneratedPluginRegistrant.java</Item>
+            <Item>\Flutter\*\ios\**\*.mode1v3</Item>
+            <Item>\Flutter\*\ios\**\*.mode2v3</Item>
+            <Item>\Flutter\*\ios\**\*.moved-aside</Item>
+            <Item>\Flutter\*\ios\**\*.pbxuser</Item>
+            <Item>\Flutter\*\ios\**\*.perspectivev3</Item>
+            <Item>\Flutter\*\ios\**\*sync\</Item>
+            <Item>\Flutter\*\ios\**\.sconsign.dblite</Item>
+            <Item>\Flutter\*\ios\**\.tags*</Item>
+            <Item>\Flutter\*\ios\**\.vagrant\</Item>
+            <Item>\Flutter\*\ios\**\DerivedData\</Item>
+            <Item>\Flutter\*\ios\**\Icon?</Item>
+            <Item>\Flutter\*\ios\**\Pods\</Item>
+            <Item>\Flutter\*\ios\**\.symlinks\</Item>
+            <Item>\Flutter\*\ios\**\profile</Item>
+            <Item>\Flutter\*\ios\**\xcuserdata</Item>
+            <Item>\Flutter\*\ios\.generated\</Item>
+            <Item>\Flutter\*\ios\Flutter\App.framework</Item>
+            <Item>\Flutter\*\ios\Flutter\Flutter.framework</Item>
+            <Item>\Flutter\*\ios\Flutter\Generated.xcconfig</Item>
+            <Item>\Flutter\*\ios\Flutter\app.flx</Item>
+            <Item>\Flutter\*\ios\Flutter\app.zip</Item>
+            <Item>\Flutter\*\ios\Flutter\flutter_assets\</Item>
+            <Item>\Flutter\*\ios\ServiceDefinitions.json</Item>
+            <Item>\Flutter\*\ios\Runner\GeneratedPluginRegistrant.*</Item>
+            <Item>\Kotlin_CMD\*\.gradle\</Item>
+            <Item>\Kotlin_CMD\*\build\</Item>
+            <Item>\Kotlin_CMD\*\*.hprof</Item>
+            <Item>\CMD_Flutter\*\*.class</Item>
+            <Item>\CMD_Flutter\*\*.log</Item>
+            <Item>\CMD_Flutter\*\*.pyc</Item>
+            <Item>\CMD_Flutter\*\*.swp</Item>
+            <Item>\CMD_Flutter\*\.atom\</Item>
+            <Item>\CMD_Flutter\*\.buildlog\</Item>
+            <Item>\CMD_Flutter\*\.history</Item>
+            <Item>\CMD_Flutter\*\.svn\</Item>
+            <Item>\CMD_Flutter\*\*.iml</Item>
+            <Item>\CMD_Flutter\*\*.ipr</Item>
+            <Item>\CMD_Flutter\*\*.iws</Item>
+            <Item>\CMD_Flutter\*\.idea</Item>
+            <Item>\CMD_Flutter\*\.vscode\</Item>
+            <Item>\CMD_Flutter\*\**\doc\api\</Item>
+            <Item>\CMD_Flutter\*\.dart_tool\</Item>
+            <Item>\CMD_Flutter\*\.flutter-plugins</Item>
+            <Item>\CMD_Flutter\*\.packages</Item>
+            <Item>\CMD_Flutter\*\.pub-cache\</Item>
+            <Item>\CMD_Flutter\*\.pub\</Item>
+            <Item>\CMD_Flutter\*\build\</Item>
+            <Item>\CMD_Flutter\*\android\**\gradle-wrapper.jar</Item>
+            <Item>\CMD_Flutter\*\android\.gradle</Item>
+            <Item>\CMD_Flutter\*\android\captures\</Item>
+            <Item>\CMD_Flutter\*\android\gradlew</Item>
+            <Item>\CMD_Flutter\*\android\gradlew.bat</Item>
+            <Item>\CMD_Flutter\*\android\local.properties</Item>
+            <Item>\CMD_Flutter\*\android\**\GeneratedPluginRegistrant.java</Item>
+            <Item>\CMD_Flutter\*\ios\**\*.mode1v3</Item>
+            <Item>\CMD_Flutter\*\ios\**\*.mode2v3</Item>
+            <Item>\CMD_Flutter\*\ios\**\*.moved-aside</Item>
+            <Item>\CMD_Flutter\*\ios\**\*.pbxuser</Item>
+            <Item>\CMD_Flutter\*\ios\**\*.perspectivev3</Item>
+            <Item>\CMD_Flutter\*\ios\**\*sync\</Item>
+            <Item>\CMD_Flutter\*\ios\**\.sconsign.dblite</Item>
+            <Item>\CMD_Flutter\*\ios\**\.tags*</Item>
+            <Item>\CMD_Flutter\*\ios\**\.vagrant\</Item>
+            <Item>\CMD_Flutter\*\ios\**\DerivedData\</Item>
+            <Item>\CMD_Flutter\*\ios\**\Icon?</Item>
+            <Item>\CMD_Flutter\*\ios\**\Pods\</Item>
+            <Item>\CMD_Flutter\*\ios\**\.symlinks\</Item>
+            <Item>\CMD_Flutter\*\ios\**\profile</Item>
+            <Item>\CMD_Flutter\*\ios\**\xcuserdata</Item>
+            <Item>\CMD_Flutter\*\ios\.generated\</Item>
+            <Item>\CMD_Flutter\*\ios\Flutter\App.framework</Item>
+            <Item>\CMD_Flutter\*\ios\Flutter\Flutter.framework</Item>
+            <Item>\CMD_Flutter\*\ios\Flutter\Generated.xcconfig</Item>
+            <Item>\CMD_Flutter\*\ios\Flutter\app.flx</Item>
+            <Item>\CMD_Flutter\*\ios\Flutter\app.zip</Item>
+            <Item>\CMD_Flutter\*\ios\Flutter\flutter_assets\</Item>
+            <Item>\CMD_Flutter\*\ios\ServiceDefinitions.json</Item>
+            <Item>\CMD_Flutter\*\ios\Runner\GeneratedPluginRegistrant.*</Item>
+            <Item>\IntelliJ_IDEA_Maven\*\target\</Item>
+            <Item>\Eclipse_CDT\.metadata\</Item>
+            <Item>\Eclipse_CDT\*\build\</Item>
+            <Item>\Eclipse_CDT\*\a.out.exe</Item>
+            <Item>\Eclipse_CDT\*\autom4te.cache\</Item>
+            <Item>\Eclipse_CDT\*\Debug\</Item>
+            <Item>\Eclipse_CDT\*\.deps\</Item>
+            <Item>\CodeBlocks\*\bin\</Item>
+            <Item>\CodeBlocks\*\obj\</Item>
+            <Item>\VS_2008_Win_CE5\*\bin\</Item>
+            <Item>\VS_2008_Win_CE5\*\obj\</Item>
+            <Item>\IntelliJ_Maven_Spring_Web\*\target\</Item>
+            <Item>\LDT\.metadata\</Item>
+            <Item>\STS\.metadata\</Item>
+            <Item>\Gradle\*\.gradle\</Item>
+            <Item>\Gradle\*\build\</Item>
+            <Item>\Gradle\*\out\</Item>
+            <Item>\phpMyAdmin-5.0.*-all-languages\tmp\</Item>
+            <Item>\Vagrant\*\*.box</Item>
+            <Item>*\node_modules\</Item>
+            <Item>*\.ipynb_checkpoints\</Item>
+            <Item>*\.yarn\unplugged\</Item>
+            <Item>*\.yarn\install-state.gz</Item>
+            <Item>\Java_Console_Gradle\*\.gradle\</Item>
+            <Item>\Java_Console_Gradle\*\build\</Item>
+            <Item>\Kotlin_Console_Gradle\*\build\</Item>
+            <Item>\Kotlin_Console_Gradle\*\.gradle\</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\aria2_repository</Left>
+            <Right>D:\aria2_repository</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\aria2.log</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Get</Left>
+            <Right>D:\To_Get</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\wwwroot_production</Left>
+            <Right>D:\wwwroot_production</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_DK</Left>
+            <Right>D:\To_DK</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\wget_repository</Left>
+            <Right>D:\wget_repository</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Abdulla</Left>
+            <Right>D:\Labs\Lab_Abdulla</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Asaru</Left>
+            <Right>D:\Labs\Lab_Asaru</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Athira</Left>
+            <Right>D:\Labs\Lab_Athira</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\CMD_Node\*\node_modules\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee</Left>
+            <Right>D:\Labs\Lab_Banee</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\Meson\</Item>
+                    <Item>\MSYS2_MinGW-w64\</Item>
+                    <Item>\Rider\</Item>
+                    <Item>\Symfony\</Item>
+                    <Item>\Android_Studio\</Item>
+                    <Item>\CMD_Node\</Item>
+                    <Item>\django\</Item>
+                    <Item>\Eclipse_ADT\</Item>
+                    <Item>\HTML_JS_CSS\</Item>
+                    <Item>\Maven\</Item>
+                    <Item>\php\</Item>
+                    <Item>\React-Native\</Item>
+                    <Item>\Visual_Studio_2017\</Item>
+                    <Item>\RStudio\</Item>
+                    <Item>\JupyterHub\</Item>
+                    <Item>\NetBeans_Maven\</Item>
+                    <Item>\Expo\</Item>
+                    <Item>\Cordova_Web\</Item>
+                    <Item>\Cordova_Mobile\</Item>
+                    <Item>\www_Node_js\</Item>
+                    <Item>\NetBeans_J2SE\</Item>
+                    <Item>\Netbeans_MinGW_W64_C\</Item>
+                    <Item>\IntelliJ_IDEA\</Item>
+                    <Item>\Moonshine\</Item>
+                    <Item>\Laravel\</Item>
+                    <Item>\Multi_Projects\realm-scanner\Server\node_modules\</Item>
+                    <Item>\Eclipse_CDT\CPP_MinGW_Make\CPP_MinGW_Make.exe</Item>
+                    <Item>\Eclipse_CDT\CPP_Cygwin_Make\CPP_Cygwin_Make.exe</Item>
+                    <Item>\References\aria2\po\aria2.pot</Item>
+                    <Item>\Qt_Creator\build-Widget_Demo-Desktop_Qt_5_14_1_MinGW_64_bit-Debug\</Item>
+                    <Item>\Qt_Creator\build-Widget_Demo-Desktop_Qt_5_14_1_MinGW_w64_9_3_1_MCF_64_bit-Debug\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Dilshad</Left>
+            <Right>D:\Labs\Lab_Dilshad</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Jaseem</Left>
+            <Right>D:\Labs\Lab_Jaseem</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Kiran</Left>
+            <Right>D:\Labs\Lab_Kiran</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Nabeel</Left>
+            <Right>D:\Labs\Lab_Nabeel</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Nandana</Left>
+            <Right>D:\Labs\Lab_Nandana</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Rashid</Left>
+            <Right>D:\Labs\Lab_Rashid</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_References</Left>
+            <Right>D:\Labs\Lab_References</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Sharafu</Left>
+            <Right>D:\Labs\Lab_Sharafu</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Temp</Left>
+            <Right>D:\Labs\Lab_Temp</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Ziyad</Left>
+            <Right>D:\Labs\Lab_Ziyad</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Projects_Banee</Left>
+            <Right>D:\Projects</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Songs</Left>
+            <Right>D:\Songs</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\AlbumArtSmall.jpg</Item>
+                    <Item>*\folder.jpg</Item>
+                    <Item>*\AlbumArt_*_Large.jpg</Item>
+                    <Item>*\AlbumArt_*_Small.jpg</Item>
+                    <Item>*\Party Shuffle*</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\Android_Studio</Left>
+            <Right>D:\Labs\Lab_Banee\Android_Studio</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                    <Item>*\.idea\caches\</Item>
+                    <Item>*\.idea\libraries\</Item>
+                    <Item>*\local.properties</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\CMD_Node</Left>
+            <Right>D:\Labs\Lab_Banee\CMD_Node</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\node_modules\</Item>
+                    <Item>\Camtd\dist\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\Cordova_Mobile</Left>
+            <Right>D:\Labs\Lab_Banee\Cordova_Mobile</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\plugins\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\Cordova_Web</Left>
+            <Right>D:\Labs\Lab_Banee\Cordova_Web</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\platforms\browser\www\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\django</Left>
+            <Right>D:\Labs\Lab_Banee\django</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\Eclipse_ADT</Left>
+            <Right>D:\Labs\Lab_Banee\Eclipse_ADT</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\.metadata\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                    <Item>*\.apt_generated\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\Expo</Left>
+            <Right>D:\Labs\Lab_Banee\Expo</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\node_modules\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\HTML_JS_CSS</Left>
+            <Right>D:\Labs\Lab_Banee\HTML_JS_CSS</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\IntelliJ_IDEA</Left>
+            <Right>D:\Labs\Lab_Banee\IntelliJ_IDEA</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\Gradle_Cache_Preparation\.gradle\</Item>
+                    <Item>\Gradle_Cache_Preparation\build\</Item>
+                    <Item>\Gradle_Cache_Preparation\out\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\JupyterHub</Left>
+            <Right>D:\Labs\Lab_Banee\JupyterHub</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\.ipynb_checkpoints\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\Laravel</Left>
+            <Right>D:\Labs\Lab_Banee\php\Laravel</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\vendor\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\Maven</Left>
+            <Right>D:\Labs\Lab_Banee\Maven</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\target\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\Meson</Left>
+            <Right>D:\Labs\Lab_Banee\Meson</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\build\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\Moonshine</Left>
+            <Right>D:\Labs\Lab_Banee\Moonshine</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\MSYS2_MinGW-w64</Left>
+            <Right>D:\Labs\Lab_Banee\MSYS2_MinGW-w64</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\autom4te.cache\</Item>
+                    <Item>*\.deps\</Item>
+                    <Item>*\.libs\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\NetBeans_J2SE</Left>
+            <Right>D:\Labs\Lab_Banee\NetBeans_J2SE</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\NetBeans_Maven</Left>
+            <Right>D:\Labs\Lab_Banee\NetBeans_Maven</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\target\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\Netbeans_MinGW_W64_C</Left>
+            <Right>D:\Labs\Lab_Banee\Netbeans_MinGW_W64_C</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\build\</Item>
+                    <Item>*\dist\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\gen\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\php</Left>
+            <Right>D:\Labs\Lab_Banee\php</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\vendor\</Item>
+                    <Item>*\.idea\workspace.xml</Item>
+                    <Item>\Laravel\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\React-Native</Left>
+            <Right>D:\Labs\Lab_Banee\React-Native</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\.gradle\</Item>
+                    <Item>*\build\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\Rider</Left>
+            <Right>D:\Labs\Lab_Banee\Rider</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\packages\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\obj\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\RStudio</Left>
+            <Right>D:\Labs\Lab_Banee\RStudio</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\.Rproj.user\</Item>
+                    <Item>*\packrat\lib\</Item>
+                    <Item>*\packrat\lib-ext\</Item>
+                    <Item>*\packrat\lib-R\</Item>
+                    <Item>*\packrat\src\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\Symfony</Left>
+            <Right>D:\Labs\Lab_Banee\Symfony</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\vendor\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\Visual_Studio_2017</Left>
+            <Right>D:\Labs\Lab_Banee\Visual_Studio_2017</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                    <Item>\KKM College\Edusoft\bin\</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\obj\</Item>
+                    <Item>*\packages\</Item>
+                    <Item>*\bin\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Admin-pc\c\Banee_Data\To_Sync\Lab_Banee\www_Node_js</Left>
+            <Right>D:\Labs\Lab_Banee\www_Node_js</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\node_modules\</Item>
+                    <Item>\Teleconsultation\build\</Item>
+                    <Item>*\.yarn\unplugged\</Item>
+                    <Item>*\.yarn\install-state.gz</Item>
+                    <Item>\landing\build\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <PostSyncCommand Condition="Completion"/>
+    <LogFolder/>
+    <EmailNotification Condition="Always"/>
+    <Gui>
+        <GridViewType>Action</GridViewType>
+    </Gui>
+</FreeFileSync>

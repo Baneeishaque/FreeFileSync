@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="17">
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Custom</Variant>
+        <CustomDirections>
+            <LeftOnly>right</LeftOnly>
+            <RightOnly>right</RightOnly>
+            <LeftNewer>right</LeftNewer>
+            <RightNewer>none</RightNewer>
+            <Different>right</Different>
+            <Conflict>none</Conflict>
+        </CustomDirections>
+        <DetectMovedFiles>true</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLE?\</Item>
+            <Item>*\desktop.ini</Item>
+            <Item>*\thumbs.db</Item>
+            <Item>*\.DS_Store</Item>
+            <Item>\Cordova_Web\*\plugins\</Item>
+            <Item>\Cordova_Web\*\platforms\browser\www\</Item>
+            <Item>\Cordova_Mobile\*\node_modules\</Item>
+            <Item>\Cordova_Mobile\*\plugins\</Item>
+            <Item>\Android_Studio\*\.gradle\</Item>
+            <Item>\Android_Studio\*\build\</Item>
+            <Item>\Android_Studio\*\.idea\caches\</Item>
+            <Item>\Android_Studio\*\local.properties</Item>
+            <Item>\Flutter\*\*.class</Item>
+            <Item>\Flutter\*\*.log</Item>
+            <Item>\Flutter\*\*.pyc</Item>
+            <Item>\Flutter\*\*.swp</Item>
+            <Item>\Flutter\*\.atom\</Item>
+            <Item>\Flutter\*\.buildlog\</Item>
+            <Item>\Flutter\*\.history</Item>
+            <Item>\Flutter\*\.svn\</Item>
+            <Item>\Flutter\*\*.iml</Item>
+            <Item>\Flutter\*\*.ipr</Item>
+            <Item>\Flutter\*\*.iws</Item>
+            <Item>\Flutter\*\.idea</Item>
+            <Item>\Flutter\*\.vscode\</Item>
+            <Item>\Flutter\*\**\doc\api\</Item>
+            <Item>\Flutter\*\.dart_tool\</Item>
+            <Item>\Flutter\*\.flutter-plugins</Item>
+            <Item>\Flutter\*\.packages</Item>
+            <Item>\Flutter\*\.pub-cache\</Item>
+            <Item>\Flutter\*\.pub\</Item>
+            <Item>\Flutter\*\build\</Item>
+            <Item>\Flutter\*\android\**\gradle-wrapper.jar</Item>
+            <Item>\Flutter\*\android\.gradle</Item>
+            <Item>\Flutter\*\android\captures\</Item>
+            <Item>\Flutter\*\android\gradlew</Item>
+            <Item>\Flutter\*\android\gradlew.bat</Item>
+            <Item>\Flutter\*\android\local.properties</Item>
+            <Item>\Flutter\*\android\**\GeneratedPluginRegistrant.java</Item>
+            <Item>\Flutter\*\ios\**\*.mode1v3</Item>
+            <Item>\Flutter\*\ios\**\*.mode2v3</Item>
+            <Item>\Flutter\*\ios\**\*.moved-aside</Item>
+            <Item>\Flutter\*\ios\**\*.pbxuser</Item>
+            <Item>\Flutter\*\ios\**\*.perspectivev3</Item>
+            <Item>\Flutter\*\ios\**\*sync\</Item>
+            <Item>\Flutter\*\ios\**\.sconsign.dblite</Item>
+            <Item>\Flutter\*\ios\**\.tags*</Item>
+            <Item>\Flutter\*\ios\**\.vagrant\</Item>
+            <Item>\Flutter\*\ios\**\DerivedData\</Item>
+            <Item>\Flutter\*\ios\**\Icon?</Item>
+            <Item>\Flutter\*\ios\**\Pods\</Item>
+            <Item>\Flutter\*\ios\**\.symlinks\</Item>
+            <Item>\Flutter\*\ios\**\profile</Item>
+            <Item>\Flutter\*\ios\**\xcuserdata</Item>
+            <Item>\Flutter\*\ios\.generated\</Item>
+            <Item>\Flutter\*\ios\Flutter\App.framework</Item>
+            <Item>\Flutter\*\ios\Flutter\Flutter.framework</Item>
+            <Item>\Flutter\*\ios\Flutter\Generated.xcconfig</Item>
+            <Item>\Flutter\*\ios\Flutter\app.flx</Item>
+            <Item>\Flutter\*\ios\Flutter\app.zip</Item>
+            <Item>\Flutter\*\ios\Flutter\flutter_assets\</Item>
+            <Item>\Flutter\*\ios\ServiceDefinitions.json</Item>
+            <Item>\Flutter\*\ios\Runner\GeneratedPluginRegistrant.*</Item>
+            <Item>\Kotlin_CMD\*\.gradle\</Item>
+            <Item>\Kotlin_CMD\*\build\</Item>
+            <Item>\Kotlin_CMD\*\*.hprof</Item>
+            <Item>\CMD_Flutter\*\*.class</Item>
+            <Item>\CMD_Flutter\*\*.log</Item>
+            <Item>\CMD_Flutter\*\*.pyc</Item>
+            <Item>\CMD_Flutter\*\*.swp</Item>
+            <Item>\CMD_Flutter\*\.atom\</Item>
+            <Item>\CMD_Flutter\*\.buildlog\</Item>
+            <Item>\CMD_Flutter\*\.history</Item>
+            <Item>\CMD_Flutter\*\.svn\</Item>
+            <Item>\CMD_Flutter\*\*.iml</Item>
+            <Item>\CMD_Flutter\*\*.ipr</Item>
+            <Item>\CMD_Flutter\*\*.iws</Item>
+            <Item>\CMD_Flutter\*\.idea</Item>
+            <Item>\CMD_Flutter\*\.vscode\</Item>
+            <Item>\CMD_Flutter\*\**\doc\api\</Item>
+            <Item>\CMD_Flutter\*\.dart_tool\</Item>
+            <Item>\CMD_Flutter\*\.flutter-plugins</Item>
+            <Item>\CMD_Flutter\*\.packages</Item>
+            <Item>\CMD_Flutter\*\.pub-cache\</Item>
+            <Item>\CMD_Flutter\*\.pub\</Item>
+            <Item>\CMD_Flutter\*\build\</Item>
+            <Item>\CMD_Flutter\*\android\**\gradle-wrapper.jar</Item>
+            <Item>\CMD_Flutter\*\android\.gradle</Item>
+            <Item>\CMD_Flutter\*\android\captures\</Item>
+            <Item>\CMD_Flutter\*\android\gradlew</Item>
+            <Item>\CMD_Flutter\*\android\gradlew.bat</Item>
+            <Item>\CMD_Flutter\*\android\local.properties</Item>
+            <Item>\CMD_Flutter\*\android\**\GeneratedPluginRegistrant.java</Item>
+            <Item>\CMD_Flutter\*\ios\**\*.mode1v3</Item>
+            <Item>\CMD_Flutter\*\ios\**\*.mode2v3</Item>
+            <Item>\CMD_Flutter\*\ios\**\*.moved-aside</Item>
+            <Item>\CMD_Flutter\*\ios\**\*.pbxuser</Item>
+            <Item>\CMD_Flutter\*\ios\**\*.perspectivev3</Item>
+            <Item>\CMD_Flutter\*\ios\**\*sync\</Item>
+            <Item>\CMD_Flutter\*\ios\**\.sconsign.dblite</Item>
+            <Item>\CMD_Flutter\*\ios\**\.tags*</Item>
+            <Item>\CMD_Flutter\*\ios\**\.vagrant\</Item>
+            <Item>\CMD_Flutter\*\ios\**\DerivedData\</Item>
+            <Item>\CMD_Flutter\*\ios\**\Icon?</Item>
+            <Item>\CMD_Flutter\*\ios\**\Pods\</Item>
+            <Item>\CMD_Flutter\*\ios\**\.symlinks\</Item>
+            <Item>\CMD_Flutter\*\ios\**\profile</Item>
+            <Item>\CMD_Flutter\*\ios\**\xcuserdata</Item>
+            <Item>\CMD_Flutter\*\ios\.generated\</Item>
+            <Item>\CMD_Flutter\*\ios\Flutter\App.framework</Item>
+            <Item>\CMD_Flutter\*\ios\Flutter\Flutter.framework</Item>
+            <Item>\CMD_Flutter\*\ios\Flutter\Generated.xcconfig</Item>
+            <Item>\CMD_Flutter\*\ios\Flutter\app.flx</Item>
+            <Item>\CMD_Flutter\*\ios\Flutter\app.zip</Item>
+            <Item>\CMD_Flutter\*\ios\Flutter\flutter_assets\</Item>
+            <Item>\CMD_Flutter\*\ios\ServiceDefinitions.json</Item>
+            <Item>\CMD_Flutter\*\ios\Runner\GeneratedPluginRegistrant.*</Item>
+            <Item>\IntelliJ_IDEA_Maven\*\target\</Item>
+            <Item>\Eclipse_CDT\.metadata\</Item>
+            <Item>\Eclipse_CDT\*\build\</Item>
+            <Item>\Eclipse_CDT\*\a.out.exe</Item>
+            <Item>\Eclipse_CDT\*\autom4te.cache\</Item>
+            <Item>\Eclipse_CDT\*\Debug\</Item>
+            <Item>\Eclipse_CDT\*\.deps\</Item>
+            <Item>\CodeBlocks\*\bin\</Item>
+            <Item>\CodeBlocks\*\obj\</Item>
+            <Item>\VS_2008_Win_CE5\*\bin\</Item>
+            <Item>\VS_2008_Win_CE5\*\obj\</Item>
+            <Item>\IntelliJ_Maven_Spring_Web\*\target\</Item>
+            <Item>\LDT\.metadata\</Item>
+            <Item>\STS\.metadata\</Item>
+            <Item>\Gradle\*\.gradle\</Item>
+            <Item>\Gradle\*\build\</Item>
+            <Item>\Gradle\*\out\</Item>
+            <Item>\phpMyAdmin-5.0.*-all-languages\tmp\</Item>
+            <Item>\Vagrant\*\*.box</Item>
+            <Item>\Java_Console_Gradle\*\.gradle\</Item>
+            <Item>\Java_Console_Gradle\*\build\</Item>
+            <Item>\Kotlin_Console_Gradle\*\build\</Item>
+            <Item>\Kotlin_Console_Gradle\*\.gradle\</Item>
+            <Item>\CMD_Node\*\node_modules\</Item>
+            <Item>\CMD_Node\*\.yarn\build-state.yml</Item>
+            <Item>\CMD_Node\*\.yarn\cache\</Item>
+            <Item>\CMD_Node\*\.yarn\install-state.gz</Item>
+            <Item>\JS_ES5\*\.yarn\build-state.yml</Item>
+            <Item>\JS_ES5\*\.yarn\cache\</Item>
+            <Item>\JS_ES5\*\.yarn\install-state.gz</Item>
+            <Item>\JS_ES6_CMD\*\.yarn\build-state.yml</Item>
+            <Item>\JS_ES6_CMD\*\.yarn\cache\</Item>
+            <Item>\JS_ES6_CMD\*\.yarn\install-state.gz</Item>
+            <Item>\React_Web_Front\*\.yarn\build-state.yml</Item>
+            <Item>\React_Web_Front\*\.yarn\cache\</Item>
+            <Item>\React_Web_Front\*\.yarn\install-state.gz</Item>
+            <Item>\Nodejs_CMD\*\.yarn\build-state.yml</Item>
+            <Item>\Nodejs_CMD\*\.yarn\cache\</Item>
+            <Item>\Nodejs_CMD\*\.yarn\install-state.gz</Item>
+            <Item>\Netbeans11_Gradle\*\build\</Item>
+            <Item>\Visual_Studio_2019\*\packages\</Item>
+            <Item>\Visual_Studio_2019\*\bin\</Item>
+            <Item>\Visual_Studio_2019\*\obj\</Item>
+            <Item>\Visual_Studio_2017\*\bin\</Item>
+            <Item>\Visual_Studio_2017\*\obj\</Item>
+            <Item>\Java-Console-Gradle\*\build\</Item>
+            <Item>\Java-Console-Gradle\*\.gradle\</Item>
+            <Item>\Kotlin-Native-TUI-Gradle\*\.gradle\</Item>
+            <Item>\Kotlin-Native-TUI-Gradle\*\build\</Item>
+            <Item>\Eclipse_ADT\.metadata\</Item>
+            <Item>\Eclipse_ADT\*\gen\</Item>
+            <Item>\Eclipse_ADT\*\bin\</Item>
+            <Item>\Eclipse_ADT\*\.apt_generated\</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>D:\Said_PC\To_DK</Left>
+            <Right>C:\Banee_Data\To_DK</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Said_PC\To_Get</Left>
+            <Right>C:\Banee_Data\To_Get</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Abdulla</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Abdulla</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Asaru</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Asaru</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Athira</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Athira</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Banee</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Banee</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\Meson\</Item>
+                    <Item>\MSYS2_MinGW-w64\</Item>
+                    <Item>\Rider\</Item>
+                    <Item>\Symfony\</Item>
+                    <Item>\django\</Item>
+                    <Item>\HTML_JS_CSS\</Item>
+                    <Item>\php\</Item>
+                    <Item>\RStudio\</Item>
+                    <Item>\JupyterHub\</Item>
+                    <Item>\Expo\</Item>
+                    <Item>\Cordova_Web\</Item>
+                    <Item>\www_Node_js\</Item>
+                    <Item>\Moonshine\</Item>
+                    <Item>\Laravel\</Item>
+                    <Item>\Multi_Projects\realm-scanner\Server\node_modules\</Item>
+                    <Item>\Eclipse_CDT\CPP_MinGW_Make\CPP_MinGW_Make.exe</Item>
+                    <Item>\Eclipse_CDT\CPP_Cygwin_Make\CPP_Cygwin_Make.exe</Item>
+                    <Item>\References\aria2\po\aria2.pot</Item>
+                    <Item>\Qt_Creator\build-Widget_Demo-Desktop_Qt_5_14_1_MinGW_64_bit-Debug\</Item>
+                    <Item>\Qt_Creator\build-Widget_Demo-Desktop_Qt_5_14_1_MinGW_w64_9_3_1_MCF_64_bit-Debug\</Item>
+                    <Item>\WordPress\vfmob_WordPress\</Item>
+                    <Item>\Android_Studio\WordPress-Android\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Dilshad</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Dilshad</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Jaseem</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Jaseem</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Kiran</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Kiran</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Nabeel</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Nabeel</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Nandana</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Nandana</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Rashid</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Rashid</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_References</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_References</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Sharafu</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Sharafu</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Temp</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Temp</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\docker_test\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Ziyad</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Ziyad</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\DK-HP-PA-2000AR\Projects</Left>
+            <Right>C:\Banee_Data\To_Sync\Projects_Banee</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\DK-HP-PA-2000AR\Songs</Left>
+            <Right>C:\Banee_Data\To_Sync\Songs</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\AlbumArtSmall.jpg</Item>
+                    <Item>*\folder.jpg</Item>
+                    <Item>*\AlbumArt_*_Large.jpg</Item>
+                    <Item>*\AlbumArt_*_Small.jpg</Item>
+                    <Item>*\Party Shuffle*</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Banee\Cordova_Web</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Banee\Cordova_Web</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\node_modules\</Item>
+                    <Item>*\plugins\</Item>
+                    <Item>*\platforms\browser\www\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\DK-HP-PA-2000AR\wwwroot\django</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Banee\django</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Banee\Expo</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Banee\Expo</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\node_modules\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\DK-HP-PA-2000AR\wwwroot\HTML_JS_CSS</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Banee\HTML_JS_CSS</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Banee\JupyterHub</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Banee\JupyterHub</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\.ipynb_checkpoints\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\DK-HP-PA-2000AR\wwwroot\php\Laravel</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Banee\Laravel</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\vendor\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Banee\Meson</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Banee\Meson</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\build\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\DK-HP-PA-2000AR\wwwroot\Moonshine</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Banee\Moonshine</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Banee\MSYS2_MinGW-w64</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Banee\MSYS2_MinGW-w64</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\autom4te.cache\</Item>
+                    <Item>*\.deps\</Item>
+                    <Item>*\.libs\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\DK-HP-PA-2000AR\wwwroot\php</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Banee\php</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\vendor\</Item>
+                    <Item>\Laravel\</Item>
+                    <Item>\Lottery_Server\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Banee\Rider</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Banee\Rider</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\packages\</Item>
+                    <Item>*\bin\</Item>
+                    <Item>*\obj\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Banee\RStudio</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Banee\RStudio</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\.Rproj.user\</Item>
+                    <Item>*\packrat\lib\</Item>
+                    <Item>*\packrat\lib-ext\</Item>
+                    <Item>*\packrat\lib-R\</Item>
+                    <Item>*\packrat\src\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Labs\Lab_Banee\Symfony</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Banee\Symfony</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\vendor\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\DK-HP-PA-2000AR\wwwroot\Node_js</Left>
+            <Right>C:\Banee_Data\To_Sync\Lab_Banee\www_Node_js</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>*\node_modules\</Item>
+                    <Item>\Teleconsultation\build\</Item>
+                    <Item>*\.yarn\build-state.yml</Item>
+                    <Item>*\.yarn\cache\</Item>
+                    <Item>*\.yarn\install-state.gz</Item>
+                    <Item>\landing\build\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>D:\Said_PC\wget_repository</Left>
+            <Right>C:\Banee_Data\wget_repository</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\DK-HP-PA-2000AR\wwwroot\production</Left>
+            <Right>C:\Banee_Data\wwwroot_production</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Said_PC\Caches_C</Left>
+            <Right>C:\Banee_Data\Caches_C</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Said_PC\Converted_Songs</Left>
+            <Right>C:\Banee_Data\Converted_Songs</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Said_PC\Honor_9_Lite_sdcard</Left>
+            <Right>C:\Banee_Data\Honor_9_Lite_sdcard</Right>
+        </Pair>
+        <Pair>
+            <Left>D:\Said_PC</Left>
+            <Right>C:\Banee_Data</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\aria2_repository\aria2.log</Item>
+                    <Item>\aria2_repository\tasks\*\xvideos.com_*</Item>
+                    <Item>\Copied_1TB_HDD\</Item>
+                    <Item>\Copied_SanDisk_4GB\</Item>
+                    <Item>\Copied_Sony_8GB\</Item>
+                    <Item>\To_Sync\</Item>
+                    <Item>\wwwroot_production\</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <PostSyncCommand Condition="Completion"/>
+    <LogFolder/>
+    <EmailNotification Condition="Always"/>
+    <Gui>
+        <GridViewType>Action</GridViewType>
+    </Gui>
+</FreeFileSync>

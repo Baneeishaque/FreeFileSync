@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="17">
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Mirror</Variant>
+        <DetectMovedFiles>true</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLER\</Item>
+            <Item>\RECYCLED\</Item>
+            <Item>*\desktop.ini</Item>
+            <Item>*\thumbs.db</Item>
+            <Item>\Android\data\com.android.providers.media\thumbnail_cache\</Item>
+            <Item>\Android\data\com.lonelycatgames.Xplore\trash\Download\xvideos.com_*.mp4</Item>
+            <Item>\Android\data\net.one97.paytm\cache\</Item>
+            <Item>\Android\data\net.one97.paytm\files\Pictures\Image_tmp_16*.png</Item>
+            <Item>\Android\data\com.android.providers.media\albumthumbs\</Item>
+            <Item>\Android\data\com.android.mediacenter\cache\</Item>
+            <Item>\Android\data\com.tunnelbear.android\cache\</Item>
+            <Item>\Android\data\com.lonelycatgames.Xplore\cache\</Item>
+            <Item>\Android\data\com.google.android.apps.maps\cache\diskcache\</Item>
+            <Item>\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\voice_instructions_unitless.zip</Item>
+            <Item>\Android\data\com.touchtype.swiftkey\cache\ts_configuration.jwt</Item>
+            <Item>\Android\data\com.whatsapp\cache\SSLSessionCache\</Item>
+            <Item>\Android\data\com.huawei.hwid\files\Log\HiAdKitLog.log</Item>
+            <Item>\Android\data\com.google.android.gms\files\gmsnet2.jpg</Item>
+            <Item>*.nomedia</Item>
+            <Item>\Android\obj\.um\sysid.dat</Item>
+            <Item>\Huawei\Themes\</Item>
+            <Item>\.DataStorage\ContextData.xml</Item>
+            <Item>\.UTSystemConfig\Global\Alvin2.xml</Item>
+            <Item>\Recorders\.cf106.acid</Item>
+            <Item>\Recorders\.cf106.cuid2</Item>
+            <Item>\Recorders\.cf106.openidcom.promiz.media</Item>
+            <Item>\ideaCallRecorder\.56a9c.acid</Item>
+            <Item>\DCIM\.thumbnails\.thumbdata4--1?????????_?*</Item>
+            <Item>\WhatsApp\.StickerThumbs\</Item>
+            <Item>\WhatsApp\.Shared\</Item>
+            <Item>\Android\data\com.android.gallery3d\cache\imgcache.*</Item>
+            <Item>\Android\data\com.huawei.android.pushagent\files\Log\NC.log</Item>
+            <Item>\Android\data\com.android.gallery3d\cache\rev_geocoding.*</Item>
+            <Item>\Android\data\com.android.vending\files\config\play_sentinel</Item>
+            <Item>\Android\data\com.huawei.hifolder\cache\image\journal</Item>
+            <Item>\Android\data\com.huawei.hwid\files\Log\push.log</Item>
+            <Item>\Android\data\com.huawei.ims\files\hme_v_log_*.txt</Item>
+            <Item>\Android\data\org.teleroxy.xtele\cache\248235279_6596.jpg</Item>
+            <Item>\Android\data\com.touchtype.swiftkey\files\themes\thumbnails\xhdpi\6131293f-f86c-4259-8eaa-b77c178d4e7f.png</Item>
+            <Item>\Android\media\com.google.android.talk\Notifications\hangouts_message.ogg</Item>
+            <Item>\Android\media\com.google.android.talk\Ringtones\hangouts_incoming_call.ogg</Item>
+            <Item>\com.boldbeast.recorder\log\hardware_*</Item>
+            <Item>\DCIM\.thumbnails\.thumbdata4-*_15</Item>
+            <Item>\Android\data\com.asana.app\files\instabug\vusf\step*_e.png</Item>
+            <Item>\DCIM\.thumbnails\*.jpg</Item>
+            <Item>\Huawei\CloudDrive\.thumbnail\category\*.cache</Item>
+            <Item>\Android\data\org.teleroxy.xtele\cache\*.temp</Item>
+            <Item>\Android\data\org.teleroxy.xtele\cache\*.jpg</Item>
+            <Item>\Android\data\com.android.soundrecorder\cache\thumbnails\journal</Item>
+            <Item>\Android\data\org.teleroxy.xtele\cache\2*.webp</Item>
+            <Item>\Android\data\org.teleroxy.xtele\cache\2_*.tgs</Item>
+            <Item>\Android\data\org.teleroxy.xtele\cache\5_6188451354118193205.preload</Item>
+            <Item>\Huawei\CloudClone\pic_favorite.txt</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>ftp://android@192.168.43.1:2221/|pass64=YW5kcm9pZA==</Left>
+            <Right>C:\Honor_9_Lite_sdcard</Right>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <PostSyncCommand Condition="Completion"/>
+    <LogFolder/>
+    <EmailNotification Condition="Always"/>
+    <Gui>
+        <GridViewType>Action</GridViewType>
+    </Gui>
+</FreeFileSync>

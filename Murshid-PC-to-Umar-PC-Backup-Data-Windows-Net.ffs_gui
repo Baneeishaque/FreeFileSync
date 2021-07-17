@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="17">
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Custom</Variant>
+        <CustomDirections>
+            <LeftOnly>right</LeftOnly>
+            <RightOnly>right</RightOnly>
+            <LeftNewer>right</LeftNewer>
+            <RightNewer>none</RightNewer>
+            <Different>right</Different>
+            <Conflict>right</Conflict>
+        </CustomDirections>
+        <DetectMovedFiles>true</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLE?\</Item>
+            <Item>*\thumbs.db</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>\\Desktop-tnl36kj\c\Programs</Left>
+            <Right>\\Umar-PC\C\Banee_Data\Murshid-PC\Programs</Right>
+            <Filter>
+                <Include>
+                    <Item>\PresentSdk.txt</Item>
+                </Include>
+                <Exclude/>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Desktop-tnl36kj\c\Lab_Temp</Left>
+            <Right>\\Umar-PC\C\Banee_Data\Murshid-PC\Lab_Temp</Right>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\aria2_repository\aria2.log</Item>
+                    <Item>\Copied_1TB_HDD\</Item>
+                    <Item>\Copied_SanDisk_4GB\</Item>
+                    <Item>\Copied_Sony_8GB\</Item>
+                    <Item>\Balance Sheet.xlsx</Item>
+                </Exclude>
+                <TimeSpan Type="None">0</TimeSpan>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>\\Desktop-tnl36kj\c\Honor_9_Lite_sdcard</Left>
+            <Right>\\Umar-PC\C\Banee_Data\Murshid-PC\Honor_9_Lite_sdcard</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Desktop-tnl36kj\c\Converted_Songs</Left>
+            <Right>\\Umar-PC\C\Banee_Data\Murshid-PC\Converted_Songs</Right>
+        </Pair>
+        <Pair>
+            <Left>\\Desktop-tnl36kj\c\Caches_C</Left>
+            <Right>\\Umar-PC\C\Banee_Data\Murshid-PC\Caches_C</Right>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <PostSyncCommand Condition="Completion"/>
+    <LogFolder/>
+    <EmailNotification Condition="Always"/>
+    <Gui>
+        <GridViewType>Action</GridViewType>
+    </Gui>
+</FreeFileSync>

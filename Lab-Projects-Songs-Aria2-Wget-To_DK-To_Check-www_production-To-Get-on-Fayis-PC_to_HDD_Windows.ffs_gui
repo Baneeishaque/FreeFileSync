@@ -216,6 +216,10 @@
             <Item>\Laravel\*\storage\framework\views\</Item>
             <Item>\Laravel\*\storage\framework\sessions\</Item>
             <Item>\Laravel\*\vendor\</Item>
+            <Item>\Vagrant\*\.vagrant\</Item>
+            <Item>\Honor_9_Lite\SanDisk SD card\Android\data\com.android.gallery3d\cache\</Item>
+            <Item>\Honor_9_Lite\SanDisk SD card\Android\data\com.google.android.apps.maps\cache\</Item>
+            <Item>\Honor_9_Lite\SanDisk SD card\Android\data\com.android.providers.media\albumthumbs\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -296,16 +300,6 @@
         <Pair>
             <Left>C:\Banee_Data\To_Sync\Lab_Temp</Left>
             <Right>E:\Labs\Lab_Temp</Right>
-            <Filter>
-                <Include>
-                    <Item>*</Item>
-                </Include>
-                <Exclude>
-                </Exclude>
-                <TimeSpan Type="None">0</TimeSpan>
-                <SizeMin Unit="None">0</SizeMin>
-                <SizeMax Unit="None">0</SizeMax>
-            </Filter>
         </Pair>
         <Pair>
             <Left>C:\Banee_Data\To_Sync\Lab_Ziyad</Left>

@@ -19,9 +19,6 @@
             <Item>\System Volume Information\</Item>
             <Item>\$Recycle.Bin\</Item>
             <Item>\RECYCLE?\</Item>
-            <Item>*\thumbs.db</Item>
-            <Item>\Android\data\com.touchtype.swiftkey\files\themes\thumbnails\</Item>
-            <Item>\Android\data\com.google.android.gms\files\gmsnet2.jpg</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -39,14 +36,18 @@
                     <Item>\Huawei\Themes\.cache\</Item>
                     <Item>\Huawei\Themes\themecache\</Item>
                     <Item>\DCIM\.thumbnails\</Item>
-                    <Item>\Android\obb\.nomedia</Item>
                     <Item>\Android\data\com.lonelycatgames.Xplore\cache\</Item>
                     <Item>\Android\data\com.android.providers.media\thumbnail_cache\</Item>
                     <Item>\Android\data\com.android.mediacenter\cache\</Item>
                     <Item>\Android\data\com.android.gallery3d\cache\</Item>
-                    <Item>\Android\data\com.huawei.hwid\files\Log\</Item>
                     <Item>\Android\data\com.huawei.hifolder\cache\</Item>
-                    <Item>\Android\data\.nomedia</Item>
+                    <Item>\Android\data\android</Item>
+                    <Item>\Android\data\com.android.contacts</Item>
+                    <Item>\Android\data\com.huawei.android.pushagent\files\Log\NC.log</Item>
+                    <Item>\Android\data\com.huawei.hwid\cache</Item>
+                    <Item>\Android\data\com.huawei.hwid\files\Log\HiAdKitLog.log</Item>
+                    <Item>\Android\data\com.huawei.hwid\files\Log\push.log</Item>
+                    <Item>\.photoShare\</Item>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
                 <SizeMin Unit="None">0</SizeMin>

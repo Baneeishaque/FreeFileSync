@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FreeFileSync XmlType="GUI" XmlFormat="17">
     <Compare>
-        <Variant>TimeAndSize</Variant>
+        <Variant>Size</Variant>
         <Symlinks>Exclude</Symlinks>
         <IgnoreTimeShift/>
     </Compare>
@@ -21,6 +21,19 @@
             <Item>\RECYCLE?\</Item>
             <Item>*\thumbs.db</Item>
             <Item>*\xvideos.com_*.mp4</Item>
+            <Item>\Android\data\com.android.gallery3d\cache\</Item>
+            <Item>*\.nomedia</Item>
+            <Item>*\.outside</Item>
+            <Item>*\.inside</Item>
+            <Item>*\.hidden</Item>
+            <Item>\Android\data\com.android.providers.media\albumthumbs\</Item>
+            <Item>\Android\data\com.google.android.music\files\._playmusicid</Item>
+            <Item>\Android\data\com.huawei.hwid\files\Log\</Item>
+            <Item>\Android\data\com.huawei.hwid\files\com.huawei.hms.ads\Log\</Item>
+            <Item>\Android\data\com.huawei.hwid\files\com.huawei.hms.push\Log\</Item>
+            <Item>\Android\data\com.teamviewer.host.market\files\export\files.zip</Item>
+            <Item>\Android\data\com.teamviewer.quicksupport.addon.huawei2\files\TVLog.html</Item>
+            <Item>\huawei\CloudClone\logs\PhoneClone.log</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -28,7 +41,7 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>ftp://192.168.225.31:2222/Internal shared storage</Left>
+            <Left>ftp://192.168.1.3:2222/Internal shared storage</Left>
             <Right>C:\Banee_Data\Honor_9_Lite\Internal shared storage</Right>
             <Filter>
                 <Include>
@@ -38,19 +51,25 @@
                     <Item>\Huawei\Themes\.cache\</Item>
                     <Item>\Huawei\Themes\themecache\</Item>
                     <Item>\DCIM\.thumbnails\</Item>
-                    <Item>\Android\obb\.nomedia</Item>
                     <Item>\Android\data\com.lonelycatgames.Xplore\cache\</Item>
                     <Item>\Android\data\com.android.providers.media\thumbnail_cache\</Item>
                     <Item>\Android\data\com.android.mediacenter\cache\</Item>
                     <Item>\Android\data\com.android.gallery3d\cache\</Item>
-                    <Item>\Android\data\com.huawei.hwid\files\Log\</Item>
                     <Item>\Android\data\com.huawei.hifolder\cache\</Item>
-                    <Item>\Android\data\.nomedia</Item>
                     <Item>\Android\data\com.touchtype.swiftkey\files\themes\thumbnails\</Item>
-                    <Item>\Android\data\com.google.android.gms\files\gmsnet2.jpg</Item>
                     <Item>\DCIM\Camera\cache\</Item>
                     <Item>\Android\data\com.google.android.apps.maps\cache\diskcache\</Item>
+                    <Item>\Huawei\CloudDrive\.thumbnail\</Item>
+                    <Item>\.photoShare\thumb\</Item>
+                    <Item>\WhatsApp\.Thumbs\</Item>
+                    <Item>\WhatsApp\.StickerThumbs\</Item>
+                    <Item>\WhatsApp\.Shared\</Item>
+                    <Item>\Android\data\com.google.android.apps.nbu.paisa.user\cache\share\</Item>
                     <Item>\Android\data\com.huawei.android.pushagent\files\Log\NC.log</Item>
+                    <Item>\Android\data\com.huawei.hwid\files\Log\HiAdKitLog.log</Item>
+                    <Item>\Android\data\com.huawei.hwid\files\Log\push.log</Item>
+                    <Item>\Android\data\com.touchtype.swiftkey\cache\ts_configuration.jwt</Item>
+                    <Item>\Android\data\com.google.android.gms\files\gmsnet2.jpg</Item>
                     <Item>\Android\data\com.android.vending\files\config\play_sentinel</Item>
                 </Exclude>
                 <TimeSpan Type="None">0</TimeSpan>
@@ -59,7 +78,7 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>ftp://192.168.225.31:2222/SanDisk SD card</Left>
+            <Left>ftp://192.168.1.3:2222/SanDisk SD card</Left>
             <Right>C:\Banee_Data\Honor_9_Lite\SanDisk SD card</Right>
         </Pair>
     </FolderPairs>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="17">
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Custom</Variant>
+        <CustomDirections>
+            <LeftOnly>right</LeftOnly>
+            <RightOnly>right</RightOnly>
+            <LeftNewer>right</LeftNewer>
+            <RightNewer>none</RightNewer>
+            <Different>right</Different>
+            <Conflict>none</Conflict>
+        </CustomDirections>
+        <DetectMovedFiles>true</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>\System Volume Information\</Item>
+            <Item>\$Recycle.Bin\</Item>
+            <Item>\RECYCLE?\</Item>
+            <Item>*\thumbs.db</Item>
+            <Item>\*.nomedia</Item>
+            <Item>\Xender\.x_did</Item>
+            <Item>\Xender\.cache\</Item>
+            <Item>\.android\Global</Item>
+            <Item>\.android\hdcltid.ini</Item>
+            <Item>\.android\hduuid_v1</Item>
+            <Item>\.a.dat</Item>
+            <Item>\.cc\.adfwe.dat</Item>
+            <Item>\.DataStorage\ContextData.xml</Item>
+            <Item>\.hiidosdk\Device</Item>
+            <Item>\.hiidosdk\Device_v2</Item>
+            <Item>\.system\ODY3ODA0MDIwNTI5NDk4X3B1c2hfYWN0aXZl</Item>
+            <Item>\.um\.umm.dat</Item>
+            <Item>\.UTSystemConfig\Global\Alvin2.xml</Item>
+            <Item>\.uxx\.cca.dat</Item>
+            <Item>\Android\data\cn.xender\cache\igl_cache\</Item>
+            <Item>\Android\data\com.cyanogenmod.eleven\cache\ImageCache\journal</Item>
+            <Item>\Android\data\com.lenovo.lsf.device\files\lsf_start_time.txt</Item>
+            <Item>\Android\data\com.lenovo.lsf.device\files\sdac_push_active.txt</Item>
+            <Item>\Android\data\com.whatsapp\cache\SSLSessionCache\</Item>
+            <Item>\Android\data\com.whatsapp\cache\watls-sessions\</Item>
+            <Item>\Android\data\net.one97.paytm\cache\</Item>
+            <Item>\com.yy.hiyo\image_manager_disk_cache\</Item>
+            <Item>\com.yy.hiyo\logs\</Item>
+            <Item>\data\.push_deviceid</Item>
+            <Item>\MediaMonkey\files\StorageInfo.xml.mmw</Item>
+            <Item>\OSSLog\logs.csv</Item>
+            <Item>\PushSdkDefaultLog\com.yy.hiyo\config\LogPath.txt</Item>
+            <Item>\PushSdkDefaultLog\com.yy.hiyo\data\RunningStatus\info.txt</Item>
+            <Item>\WhatsApp\WhatsApp.upgrade</Item>
+            <Item>\WhatsApp\Backups\chatsettingsbackup.db.crypt1</Item>
+            <Item>\WhatsApp\Backups\stickers.db.crypt1</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>mtp:\Lenovo A6000\Internal storage</Left>
+            <Right>C:\Banee_Data\To_Sync\Lenovo A6000\Internal Storage</Right>
+        </Pair>
+        <Pair>
+            <Left>mtp:\Lenovo A6000\SD card</Left>
+            <Right>C:\Banee_Data\To_Sync\Lenovo A6000\SD card</Right>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <PostSyncCommand Condition="Completion"/>
+    <LogFolder/>
+    <EmailNotification Condition="Always"/>
+    <Gui>
+        <GridViewType>Action</GridViewType>
+    </Gui>
+</FreeFileSync>

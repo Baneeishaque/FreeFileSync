@@ -21,6 +21,7 @@
             <Item>\RECYCLE?\</Item>
             <Item>*\thumbs.db</Item>
             <Item>*\xvideos.com_*</Item>
+            <Item>\Android\data\com.google.android.apps.maps\cache\diskcache\</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>
@@ -28,7 +29,7 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>ftp://192.168.1.14:2222/SanDisk SD card</Left>
+            <Left>ftp://192.168.225.31:2222/SanDisk SD card</Left>
             <Right>C:\Banee_Data\Honor_9_Lite\SanDisk SD card</Right>
         </Pair>
     </FolderPairs>

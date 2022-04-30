@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="17">
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Mirror</Variant>
+        <DetectMovedFiles>true</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude>
+            <Item>*/.Trash-*/</Item>
+            <Item>*/.recycle/</Item>
+            <Item>/DCIM/.thumbnails/</Item>
+            <Item>/WhatsApp/Media/WhatsApp Video/Sent/.nomedia</Item>
+            <Item>/WhatsApp/Media/WhatsApp Video/Private/.nomedia</Item>
+            <Item>/WhatsApp/Media/WhatsApp Images/Sent/.nomedia</Item>
+            <Item>/WhatsApp/Media/WhatsApp Images/Private/.nomedia</Item>
+            <Item>/WhatsApp/Media/WhatsApp Documents/Sent/.nomedia</Item>
+            <Item>/WhatsApp/Media/WhatsApp Documents/Private/.nomedia</Item>
+            <Item>/WhatsApp/Media/WhatsApp Audio/Sent/.nomedia</Item>
+            <Item>/WhatsApp/Media/WhatsApp Audio/Private/.nomedia</Item>
+            <Item>/WhatsApp/Media/.Statuses/.nomedia</Item>
+            <Item>/WhatsApp/Media/WhatsApp Voice Notes/202126/.nomedia</Item>
+            <Item>/WhatsApp/Media/WhatsApp Animated Gifs/Private/.nomedia</Item>
+            <Item>/WhatsApp/Media/WhatsApp Animated Gifs/Sent/.nomedia</Item>
+            <Item>/WhatsApp/.Shared/</Item>
+            <Item>/com.boldbeast.recorder/rec/.nomedia</Item>
+            <Item>/Android/data/com.sec.android.gallery3d/cache/</Item>
+        </Exclude>
+        <TimeSpan Type="None">0</TimeSpan>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>ftp://192.168.1.2:2222/Internal storage</Left>
+            <Right>/home/dk/Downloads/Ponnu-Phone</Right>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <PostSyncCommand Condition="Completion"/>
+    <LogFolder/>
+    <EmailNotification Condition="Always"/>
+    <Gui>
+        <GridViewType>Action</GridViewType>
+    </Gui>
+</FreeFileSync>

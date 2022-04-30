@@ -18,6 +18,7 @@
         <Exclude>
             <Item>*/.Trash-*/</Item>
             <Item>*/.recycle/</Item>
+            <Item>/Shared-Files/</Item>
         </Exclude>
         <TimeSpan Type="None">0</TimeSpan>
         <SizeMin Unit="None">0</SizeMin>

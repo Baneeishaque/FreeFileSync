@@ -42,6 +42,9 @@
                     <Item>*\thumbs.db</Item>
                     <Item>\DCIM\.deleteRecord\</Item>
                     <Item>\Android\media\com.whatsapp\</Item>
+                    <Item>\Music\.thumbnails\</Item>
+                    <Item>\Movies\.thumbnails\</Item>
+                    <Item>\Pictures\.thumbnails\</Item>
                 </Exclude>
                 <SizeMin Unit="None">0</SizeMin>
                 <SizeMax Unit="None">0</SizeMax>

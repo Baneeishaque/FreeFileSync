@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="17">
+    <Compare>
+        <Variant>TimeAndSize</Variant>
+        <Symlinks>Exclude</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Variant>Mirror</Variant>
+        <DetectMovedFiles>true</DetectMovedFiles>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*</Item>
+        </Include>
+        <Exclude/>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+        <TimeSpan Type="None">0</TimeSpan>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>ftp://admin@192.168.1.5:2222/Internal shared storage|pass64=MTIzNDU2</Left>
+            <Right>C:\Lab_Data\To_Upload\Redmi_Note_10_Lite</Right>
+            <Synchronize>
+                <Variant>Mirror</Variant>
+                <DetectMovedFiles>true</DetectMovedFiles>
+                <DeletionPolicy>RecycleBin</DeletionPolicy>
+                <VersioningFolder Style="Replace"/>
+            </Synchronize>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLE?\</Item>
+                    <Item>\Recovery\</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>\DCIM\.deleteRecord\</Item>
+                    <Item>\Android\media\com.whatsapp\</Item>
+                    <Item>\Music\.thumbnails\</Item>
+                    <Item>\Movies\.thumbnails\</Item>
+                    <Item>\Pictures\.thumbnails\</Item>
+                    <Item>\Android\obb\.nomedia</Item>
+                    <Item>\Android\data\com.lonelycatgames.Xplore\cache\</Item>
+                    <Item>\Android\data\.nomedia</Item>
+                    <Item>\Android\data\free.vpn.unblock.proxy.turbovpn\cache\</Item>
+                    <Item>\Android\data\com.jungleerummy.playcashgameonline\files\UnityCache\</Item>
+                    <Item>\Android\data\org.telegram.messenger\cache\</Item>
+                    <Item>\Android\data\com.games24x7.rummycircle.rummy\cache\UnityShaderCache\</Item>
+                    <Item>\Android\data\com.games24x7.rummycircle.rummy\files\il2cpp\</Item>
+                    <Item>\Android\data\com.jungleerummy.playcashgameonline\files\il2cpp\</Item>
+                    <Item>\Android\data\com.miui.msa.global\files\miad\cacheFolderAd\</Item>
+                    <Item>\Android\data\com.miui.gallery\files\gallery_disk_cache\</Item>
+                    <Item>\Android\data\com.google.android.apps.maps\cache\</Item>
+                    <Item>\Android\data\in.sportscafe.nostragamus.pro\files\il2cpp\</Item>
+                    <Item>\Android\data\com.miui.msa.global\filescache\</Item>
+                    <Item>\Android\data\com.paytm.paytmplay\cache\</Item>
+                    <Item>\Android\data\free.vpn.unblock.proxy.turbovpn\no_backup\vungle_cache\</Item>
+                    <Item>\Android\data\com.miui.global.packageinstaller\cache\</Item>
+                    <Item>\Android\data\com.miui.global.packageinstaller\filescache\</Item>
+                    <Item>\Android\data\com.miui.cleaner\cache\</Item>
+                    <Item>\Android\data\com.milink.service\files\dump\</Item>
+                    <Item>\Android\data\com.microsoft.amp.apps.bingnews\cache\</Item>
+                    <Item>\Android\data\com.xiaomi.mipicks\files\MIUI\debug_log\</Item>
+                    <Item>\Android\data\com.android.deskclock\files\dump\</Item>
+                    <Item>\Android\data\com.google.android.gm\cache\</Item>
+                    <Item>\Android\data\com.xiaomi.mipicks\files\miapm\xlog\logDir\</Item>
+                    <Item>\Android\data\com.xiaomi.mipicks\files\MiPushLog\</Item>
+                    <Item>\Android\data\com.xiaomi.account\files\MiPushLog\</Item>
+                    <Item>\Android\data\com.jungleerummy.playcashgameonline\files\Unity\</Item>
+                    <Item>\Android\data\com.jungleerummy.playcashgameonline\cache\</Item>
+                    <Item>\Android\data\com.jungleerummy.playcashgameonline\files\DeviceLog.txt</Item>
+                    <Item>\Android\data\com.jungleerummy.playcashgameonline\files\DeviceLog_Prev.txt</Item>
+                    <Item>\Android\data\com.whatsapp\cache\</Item>
+                    <Item>\Android\data\in.sportscafe.nostragamus.pro\cache\</Item>
+                    <Item>\Android\data\com.xiaomi.discover\files\persist_log1.log</Item>
+                    <Item>\Android\data\com.microsoft.emmx.dev\cache\</Item>
+                    <Item>\Android\data\com.microsoft.emmx\cache\</Item>
+                    <Item>\Android\data\com.microsoft.emmx.canary\cache\</Item>
+                    <Item>\Android\data\com.microsoft.bing\cache\</Item>
+                    <Item>\Android\data\com.microsoft.emmx.beta\cache\</Item>
+                    <Item>\Android\data\com.miui.gallery\files\noMediaRecord\</Item>
+                    <Item>\Android\data\com.xiaomi.simactivate.service\files\activationHistory.log</Item>
+                    <Item>\Android\data\com.games24x7.rummycircle.rummy\files\Unity\</Item>
+                    <Item>\Android\data\com.google.android.gms\files\gmsnet2.jpg</Item>
+                    <Item>\Android\data\com.miui.msa.global\filesinstall_preload\</Item>
+                    <Item>\Android\data\com.miui.msa.global\filespush_ad_preload\</Item>
+                    <Item>\Android\data\com.android.vending\files\config\play_sentinel</Item>
+                    <Item>\Android\data\com.miui.msa.global\filessplash_preload\</Item>
+                    <Item>\Android\data\com.miui.cleaner\filesnative_ad_preload_1\</Item>
+                    <Item>\Android\data\com.miui.global.packageinstaller\filesnative_ad_preload_1\</Item>
+                </Exclude>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+                <TimeSpan Type="None">0</TimeSpan>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>ftp://admin@192.168.1.5:2222/Internal shared storage/Android/media/com.whatsapp|pass64=MTIzNDU2</Left>
+            <Right>C:\Lab_Data\To_Upload\com.whatsapp</Right>
+            <Compare>
+                <Variant>TimeAndSize</Variant>
+                <Symlinks>Follow</Symlinks>
+                <IgnoreTimeShift/>
+            </Compare>
+            <Synchronize>
+                <Variant>Update</Variant>
+                <DetectMovedFiles>false</DetectMovedFiles>
+                <DeletionPolicy>RecycleBin</DeletionPolicy>
+                <VersioningFolder Style="Replace"/>
+            </Synchronize>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLE?\</Item>
+                    <Item>\Recovery\</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>\WhatsApp\.StickerThumbs\</Item>
+                    <Item>\WhatsApp\.Shared\</Item>
+                    <Item>\WhatsApp\Media\.Links\</Item>
+                    <Item>\WhatsApp\Media\.Statuses\.nomedia</Item>
+                </Exclude>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+                <TimeSpan Type="None">0</TimeSpan>
+            </Filter>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <PostSyncCommand Condition="Completion"/>
+    <LogFolder/>
+    <EmailNotification Condition="Always"/>
+    <Gui>
+        <GridViewType>Action</GridViewType>
+    </Gui>
+</FreeFileSync>

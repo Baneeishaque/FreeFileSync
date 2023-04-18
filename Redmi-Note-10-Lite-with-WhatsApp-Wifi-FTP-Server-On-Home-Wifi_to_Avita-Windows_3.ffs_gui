@@ -16,9 +16,6 @@
             <Item>*</Item>
         </Include>
         <Exclude>
-            <Item>\DCIM\.globalTrash\</Item>
-            <Item>\Android\media\com.whatsapp\</Item>
-            <Item>\Android\data\com.pa.calllog.tracker\</Item>
             <Item>*\.nomedia</Item>
         </Exclude>
         <SizeMin Unit="None">0</SizeMin>
@@ -40,7 +37,10 @@
                     <Item>*</Item>
                 </Include>
                 <Exclude>
+                    <Item>\Android\media\com.whatsapp\</Item>
+                    <Item>\Android\data\com.pa.calllog.tracker\</Item>
                     <Item>\DCIM\.deleteRecord\</Item>
+                    <Item>\DCIM\.globalTrash\</Item>
                     <Item>\Music\.thumbnails\</Item>
                     <Item>\Movies\.thumbnails\</Item>
                     <Item>\Pictures\.thumbnails\</Item>

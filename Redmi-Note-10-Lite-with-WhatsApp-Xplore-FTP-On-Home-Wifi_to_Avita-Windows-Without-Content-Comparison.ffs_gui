@@ -35,13 +35,15 @@
                     <Item>*</Item>
                 </Include>
                 <Exclude>
-                    <Item>\Android\data\.nomedia</Item>
+                    <Item>*\.nomedia</Item>
                     <Item>\Android\data\com.android.deskclock\files\dump\</Item>
+                    <Item>\Android\data\com.android.thememanager\filescache\</Item>
                     <Item>\Android\data\com.android.vending\files\config\play_sentinel</Item>
                     <Item>\Android\data\com.games24x7.rummycircle.rummy\cache\UnityShaderCache\</Item>
                     <Item>\Android\data\com.games24x7.rummycircle.rummy\files\Unity\</Item>
                     <Item>\Android\data\com.games24x7.rummycircle.rummy\files\il2cpp\</Item>
                     <Item>\Android\data\com.google.android.apps.maps\cache\</Item>
+                    <Item>\Android\data\com.google.android.apps.nbu.paisa.user\cache\share\</Item>
                     <Item>\Android\data\com.google.android.gm\cache\</Item>
                     <Item>\Android\data\com.google.android.gms\files\gmsnet2.jpg</Item>
                     <Item>\Android\data\com.jungleerummy.playcashgameonline\cache\</Item>
@@ -59,6 +61,7 @@
                     <Item>\Android\data\com.microsoft.emmx\cache\</Item>
                     <Item>\Android\data\com.milink.service\files\dump\</Item>
                     <Item>\Android\data\com.miui.cleaner\cache\</Item>
+                    <Item>\Android\data\com.miui.cleaner\filescache\</Item>
                     <Item>\Android\data\com.miui.cleaner\filesnative_ad_preload_1\</Item>
                     <Item>\Android\data\com.miui.gallery\files\gallery_disk_cache\</Item>
                     <Item>\Android\data\com.miui.gallery\files\noMediaRecord\</Item>
@@ -72,7 +75,13 @@
                     <Item>\Android\data\com.miui.msa.global\filessplash_preload\</Item>
                     <Item>\Android\data\com.paytm.paytmplay\cache\</Item>
                     <Item>\Android\data\com.whatsapp\cache\</Item>
+                    <Item>\Android\data\com.whereismytrain.android\files\31.sna</Item>
+                    <Item>\Android\data\com.whereismytrain.android\files\31.sna.checksum</Item>
+                    <Item>\Android\data\com.whereismytrain.android\files\67.sna</Item>
+                    <Item>\Android\data\com.whereismytrain.android\files\67.sna.checksum</Item>
+                    <Item>\Android\data\com.whereismytrain.android\files\patch.zip.checksum</Item>
                     <Item>\Android\data\com.xiaomi.account\files\MiPushLog\</Item>
+                    <Item>\Android\data\com.xiaomi.discover\files\apk\AutoUpdate\com.android.thememanager\Themes_2.1.8.6-global_2010806_com.android.thememanager_main_standalone.apk</Item>
                     <Item>\Android\data\com.xiaomi.discover\files\persist_log1.log</Item>
                     <Item>\Android\data\com.xiaomi.mipicks\files\MIUI\debug_log\</Item>
                     <Item>\Android\data\com.xiaomi.mipicks\files\MiPushLog\</Item>
@@ -80,11 +89,14 @@
                     <Item>\Android\data\com.xiaomi.simactivate.service\files\activationHistory.log</Item>
                     <Item>\Android\data\free.vpn.unblock.proxy.turbovpn\cache\</Item>
                     <Item>\Android\data\free.vpn.unblock.proxy.turbovpn\no_backup\vungle_cache\</Item>
+                    <Item>\Android\data\in.amazon.mShop.android.shopping\files\models\detect.caffemodel</Item>
+                    <Item>\Android\data\in.amazon.mShop.android.shopping\files\models\detect.prototxt</Item>
+                    <Item>\Android\data\in.amazon.mShop.android.shopping\files\models\sr.caffemodel</Item>
+                    <Item>\Android\data\in.amazon.mShop.android.shopping\files\models\sr.prototxt</Item>
                     <Item>\Android\data\in.sportscafe.nostragamus.pro\cache\</Item>
                     <Item>\Android\data\in.sportscafe.nostragamus.pro\files\il2cpp\</Item>
                     <Item>\Android\data\org.telegram.messenger\cache\</Item>
                     <Item>\Android\media\com.whatsapp\</Item>
-                    <Item>\Android\obb\.nomedia</Item>
                     <Item>\DCIM\.deleteRecord\</Item>
                     <Item>\Movies\.thumbnails\</Item>
                     <Item>\Music\.thumbnails\</Item>

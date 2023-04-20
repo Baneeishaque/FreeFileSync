@@ -98,6 +98,7 @@
                     <Item>\Android\data\org.telegram.messenger\cache\</Item>
                     <Item>\Android\media\com.whatsapp\</Item>
                     <Item>\DCIM\.deleteRecord\</Item>
+                    <Item>\DCIM\.globalTrash\</Item>
                     <Item>\Movies\.thumbnails\</Item>
                     <Item>\Music\.thumbnails\</Item>
                     <Item>\Pictures\.thumbnails\</Item>
@@ -126,6 +127,7 @@
                     <Item>*</Item>
                 </Include>
                 <Exclude>
+                    <Item>*\.nomedia</Item>
                     <Item>\WhatsApp\.Shared\</Item>
                     <Item>\WhatsApp\.StickerThumbs\</Item>
                     <Item>\WhatsApp\Media\.Links\</Item>

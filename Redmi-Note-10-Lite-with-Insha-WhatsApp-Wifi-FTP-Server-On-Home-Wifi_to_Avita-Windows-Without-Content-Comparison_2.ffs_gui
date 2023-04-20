@@ -37,12 +37,12 @@
                     <Item>*</Item>
                 </Include>
                 <Exclude>
-                    <Item>\Android\media\com.whatsapp\</Item>
                     <Item>\Android\data\com.pa.calllog.tracker\</Item>
+                    <Item>\Android\media\com.whatsapp\</Item>
                     <Item>\DCIM\.deleteRecord\</Item>
                     <Item>\DCIM\.globalTrash\</Item>
-                    <Item>\Music\.thumbnails\</Item>
                     <Item>\Movies\.thumbnails\</Item>
+                    <Item>\Music\.thumbnails\</Item>
                     <Item>\Pictures\.thumbnails\</Item>
                 </Exclude>
                 <SizeMin Unit="None">0</SizeMin>
@@ -69,8 +69,9 @@
                     <Item>*</Item>
                 </Include>
                 <Exclude>
-                    <Item>\WhatsApp\.StickerThumbs\</Item>
+                    <Item>*\.nomedia</Item>
                     <Item>\WhatsApp\.Shared\</Item>
+                    <Item>\WhatsApp\.StickerThumbs\</Item>
                     <Item>\WhatsApp\Media\.Links\</Item>
                     <Item>\WhatsApp\Media\.Statuses\.nomedia</Item>
                 </Exclude>

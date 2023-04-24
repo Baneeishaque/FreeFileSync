@@ -73,7 +73,6 @@
                     <Item>\WhatsApp\.Shared\</Item>
                     <Item>\WhatsApp\.StickerThumbs\</Item>
                     <Item>\WhatsApp\Media\.Links\</Item>
-                    <Item>\WhatsApp\Media\.Statuses\.nomedia</Item>
                 </Exclude>
                 <SizeMin Unit="None">0</SizeMin>
                 <SizeMax Unit="None">0</SizeMax>

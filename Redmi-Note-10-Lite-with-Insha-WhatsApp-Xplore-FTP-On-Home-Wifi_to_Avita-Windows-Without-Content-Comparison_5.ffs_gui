@@ -22,7 +22,7 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>ftp://admin@192.168.1.4:2222/Internal shared storage|pass64=MTIzNDU2</Left>
+            <Left>ftp://admin@192.168.1.2:2222/Internal shared storage|pass64=MTIzNDU2</Left>
             <Right>C:\Lab_Data\To_Upload\Redmi_Note_10_Lite</Right>
             <Synchronize>
                 <Variant>Mirror</Variant>
@@ -109,7 +109,7 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>ftp://admin@192.168.1.4:2222/Internal shared storage/Android/media/com.whatsapp|pass64=MTIzNDU2</Left>
+            <Left>ftp://admin@192.168.1.2:2222/Internal shared storage/Android/media/com.whatsapp|pass64=MTIzNDU2</Left>
             <Right>C:\Lab_Data\To_Upload\com.whatsapp</Right>
             <Compare>
                 <Variant>TimeAndSize</Variant>

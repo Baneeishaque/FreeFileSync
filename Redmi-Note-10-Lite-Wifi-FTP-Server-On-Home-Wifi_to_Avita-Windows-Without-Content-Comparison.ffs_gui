@@ -13,17 +13,19 @@
     </Synchronize>
     <Filter>
         <Include>
-            <Item>\Android\obb\</Item>
+            <Item>*</Item>
         </Include>
-        <Exclude/>
+        <Exclude>
+            <Item>\Android\data\</Item>
+        </Exclude>
         <SizeMin Unit="None">0</SizeMin>
         <SizeMax Unit="None">0</SizeMax>
         <TimeSpan Type="None">0</TimeSpan>
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>C:\Lab_Data\To_Upload\Redmi_Note_10_Lite</Left>
-            <Right>ftp://android@192.168.1.2:2221|pass64=YW5kcm9pZA==</Right>
+            <Left>ftp://android@192.168.1.3:2221|pass64=YW5kcm9pZA==</Left>
+            <Right>C:\Lab_Data\To_Upload\Redmi_Note_10_Lite</Right>
             <Synchronize>
                 <Variant>Mirror</Variant>
                 <DetectMovedFiles>true</DetectMovedFiles>
@@ -94,12 +96,40 @@
                     <Item>\Android\data\com.miui.msa.global\filessplash_preload\</Item>
                     <Item>\Android\data\com.miui.cleaner\filesnative_ad_preload_1\</Item>
                     <Item>\Android\data\com.miui.global.packageinstaller\filesnative_ad_preload_1\</Item>
-                    <Item>\Android\data\com.google.android.youtube\cache\</Item>
-                    <Item>\Android\data\com.android.thememanager\filescache\</Item>
-                    <Item>\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\</Item>
-                    <Item>\Android\data\com.pa.calllog.tracker\</Item>
-                    <Item>\Android\media\</Item>
-                    <Item>\Android\obb\</Item>
+                </Exclude>
+                <SizeMin Unit="None">0</SizeMin>
+                <SizeMax Unit="None">0</SizeMax>
+                <TimeSpan Type="None">0</TimeSpan>
+            </Filter>
+        </Pair>
+        <Pair>
+            <Left>ftp://android@192.168.1.3:2221/Android/media/com.whatsapp|pass64=YW5kcm9pZA==</Left>
+            <Right>C:\Lab_Data\To_Upload\com.whatsapp</Right>
+            <Compare>
+                <Variant>TimeAndSize</Variant>
+                <Symlinks>Follow</Symlinks>
+                <IgnoreTimeShift/>
+            </Compare>
+            <Synchronize>
+                <Variant>Update</Variant>
+                <DetectMovedFiles>false</DetectMovedFiles>
+                <DeletionPolicy>RecycleBin</DeletionPolicy>
+                <VersioningFolder Style="Replace"/>
+            </Synchronize>
+            <Filter>
+                <Include>
+                    <Item>*</Item>
+                </Include>
+                <Exclude>
+                    <Item>\System Volume Information\</Item>
+                    <Item>\$Recycle.Bin\</Item>
+                    <Item>\RECYCLE?\</Item>
+                    <Item>\Recovery\</Item>
+                    <Item>*\thumbs.db</Item>
+                    <Item>\WhatsApp\.StickerThumbs\</Item>
+                    <Item>\WhatsApp\.Shared\</Item>
+                    <Item>\WhatsApp\Media\.Links\</Item>
+                    <Item>\WhatsApp\Media\.Statuses\.nomedia</Item>
                 </Exclude>
                 <SizeMin Unit="None">0</SizeMin>
                 <SizeMax Unit="None">0</SizeMax>

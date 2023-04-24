@@ -22,7 +22,7 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>ftp://admin@192.168.1.4:2222/Internal shared storage|pass64=MTIzNDU2</Left>
+            <Left>ftp://admin@192.168.1.3:2222/Internal shared storage|pass64=MTIzNDU2</Left>
             <Right>C:\Lab_Data\To_Upload\Redmi_Note_10_Lite</Right>
             <Synchronize>
                 <Variant>Mirror</Variant>
@@ -36,6 +36,7 @@
                 </Include>
                 <Exclude>
                     <Item>*\.nomedia</Item>
+                    <Item>\Android\data\best.bulbsmash.cash\cache\</Item>
                     <Item>\Android\data\com.android.deskclock\files\dump\</Item>
                     <Item>\Android\data\com.android.thememanager\filescache\</Item>
                     <Item>\Android\data\com.android.vending\files\config\play_sentinel</Item>
@@ -95,6 +96,8 @@
                     <Item>\Android\data\in.amazon.mShop.android.shopping\files\models\sr.prototxt</Item>
                     <Item>\Android\data\in.sportscafe.nostragamus.pro\cache\</Item>
                     <Item>\Android\data\in.sportscafe.nostragamus.pro\files\il2cpp\</Item>
+                    <Item>\Android\data\net.one97.paytm\files\profilePicture.jpg</Item>
+                    <Item>\Android\data\net.one97.paytm\cache\paytm\</Item>
                     <Item>\Android\data\org.telegram.messenger\cache\</Item>
                     <Item>\Android\media\com.whatsapp\</Item>
                     <Item>\DCIM\.deleteRecord\</Item>
@@ -109,7 +112,7 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>ftp://admin@192.168.1.4:2222/Internal shared storage/Android/media/com.whatsapp|pass64=MTIzNDU2</Left>
+            <Left>ftp://admin@192.168.1.3:2222/Internal shared storage/Android/media/com.whatsapp|pass64=MTIzNDU2</Left>
             <Right>C:\Lab_Data\To_Upload\com.whatsapp</Right>
             <Compare>
                 <Variant>TimeAndSize</Variant>

@@ -15,14 +15,16 @@
         <Include>
             <Item>*</Item>
         </Include>
-        <Exclude/>
+        <Exclude>
+            <Item>*\.nomedia</Item>
+        </Exclude>
         <SizeMin Unit="None">0</SizeMin>
         <SizeMax Unit="None">0</SizeMax>
         <TimeSpan Type="None">0</TimeSpan>
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>ftp://android@192.168.1.10:2221|pass64=YW5kcm9pZA==</Left>
+            <Left>ftp://android@192.168.1.6:2221|pass64=YW5kcm9pZA==</Left>
             <Right>C:\Lab_Data\To_Upload\Redmi_Note_10_Lite</Right>
             <Synchronize>
                 <Variant>Mirror</Variant>
@@ -35,14 +37,12 @@
                     <Item>*</Item>
                 </Include>
                 <Exclude>
-                    <Item>*\.nomedia</Item>
-                    <Item>\Android\data\com.lonelycatgames.Xplore\</Item>
-                    <Item>\Android\data\com.pa.calllog.tracker\</Item>
                     <Item>\Android\media\com.whatsapp\</Item>
+                    <Item>\Android\data\com.pa.calllog.tracker\</Item>
                     <Item>\DCIM\.deleteRecord\</Item>
                     <Item>\DCIM\.globalTrash\</Item>
-                    <Item>\Movies\.thumbnails\</Item>
                     <Item>\Music\.thumbnails\</Item>
+                    <Item>\Movies\.thumbnails\</Item>
                     <Item>\Pictures\.thumbnails\</Item>
                 </Exclude>
                 <SizeMin Unit="None">0</SizeMin>
@@ -51,7 +51,7 @@
             </Filter>
         </Pair>
         <Pair>
-            <Left>ftp://android@192.168.1.10:2221/Android/media/com.whatsapp|pass64=YW5kcm9pZA==</Left>
+            <Left>ftp://android@192.168.1.6:2221/Android/media/com.whatsapp|pass64=YW5kcm9pZA==</Left>
             <Right>C:\Lab_Data\To_Upload\com.whatsapp</Right>
             <Compare>
                 <Variant>TimeAndSize</Variant>
@@ -70,8 +70,8 @@
                 </Include>
                 <Exclude>
                     <Item>*\.nomedia</Item>
-                    <Item>\WhatsApp\.Shared\</Item>
                     <Item>\WhatsApp\.StickerThumbs\</Item>
+                    <Item>\WhatsApp\.Shared\</Item>
                     <Item>\WhatsApp\Media\.Links\</Item>
                 </Exclude>
                 <SizeMin Unit="None">0</SizeMin>

@@ -23,7 +23,7 @@
     <FolderPairs>
         <Pair>
             <Left>C:\Lab_Data\To_Upload\Redmi_Note_10_Lite</Left>
-            <Right>ftp://android@192.168.1.4:2221|pass64=YW5kcm9pZA==</Right>
+            <Right>ftp://android@192.168.1.2:2221|pass64=YW5kcm9pZA==</Right>
             <Synchronize>
                 <Variant>Mirror</Variant>
                 <DetectMovedFiles>true</DetectMovedFiles>

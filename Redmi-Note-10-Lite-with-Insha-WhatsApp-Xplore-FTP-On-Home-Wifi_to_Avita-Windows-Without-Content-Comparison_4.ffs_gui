@@ -75,10 +75,8 @@
                     <Item>\Android\data\com.miui.msa.global\filessplash_preload\</Item>
                     <Item>\Android\data\com.paytm.paytmplay\cache\</Item>
                     <Item>\Android\data\com.whatsapp\cache\</Item>
-                    <Item>\Android\data\com.whereismytrain.android\files\31.sna</Item>
-                    <Item>\Android\data\com.whereismytrain.android\files\31.sna.checksum</Item>
-                    <Item>\Android\data\com.whereismytrain.android\files\67.sna</Item>
-                    <Item>\Android\data\com.whereismytrain.android\files\67.sna.checksum</Item>
+                    <Item>\Android\data\com.whereismytrain.android\files\\d\d?.sna(.checksum)?</Item>
+                    <Item>\Android\data\com.whereismytrain.android\files\patch.zip</Item>
                     <Item>\Android\data\com.whereismytrain.android\files\patch.zip.checksum</Item>
                     <Item>\Android\data\com.xiaomi.account\files\MiPushLog\</Item>
                     <Item>\Android\data\com.xiaomi.discover\files\apk\AutoUpdate\com.android.thememanager\Themes_2.1.8.6-global_2010806_com.android.thememanager_main_standalone.apk</Item>
@@ -95,6 +93,8 @@
                     <Item>\Android\data\in.amazon.mShop.android.shopping\files\models\sr.prototxt</Item>
                     <Item>\Android\data\in.sportscafe.nostragamus.pro\cache\</Item>
                     <Item>\Android\data\in.sportscafe.nostragamus.pro\files\il2cpp\</Item>
+                    <Item>\Android\data\net.one97.paytm\cache\paytm\</Item>
+                    <Item>\Android\data\net.one97.paytm\files\profilePicture.jpg</Item>
                     <Item>\Android\data\org.telegram.messenger\cache\</Item>
                     <Item>\Android\media\com.whatsapp\</Item>
                     <Item>\DCIM\.deleteRecord\</Item>

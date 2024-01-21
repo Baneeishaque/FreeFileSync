@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FreeFileSync XmlType="GUI" XmlFormat="23">
+    <Notes/>
+    <Compare>
+        <Variant>Content</Variant>
+        <Symlinks>Direct</Symlinks>
+        <IgnoreTimeShift/>
+    </Compare>
+    <Synchronize>
+        <Changes>
+            <Left Create="right" Update="right" Delete="right"/>
+            <Right Create="right" Update="right" Delete="right"/>
+        </Changes>
+        <DeletionPolicy>RecycleBin</DeletionPolicy>
+        <VersioningFolder Style="Replace"/>
+    </Synchronize>
+    <Filter>
+        <Include>
+            <Item>*:</Item>
+        </Include>
+        <Exclude>
+            <Item>*\.nomedia</Item>
+            <Item>\.git\</Item>
+            <Item>\.gitattributes</Item>
+            <Item>\Internal shared storage\Android\data\*\files\mb\other\mraid_js.txt</Item>
+            <Item>\Internal shared storage\Android\data\*\files\mb\other\omsdk\om_js_content.txt</Item>
+            <Item>\Internal shared storage\Android\data\*\files\mb\res\.mbridge700\mb\res\res\afd1707ad76c449f9c1ce4de75dac80e\confirmDialog\confirmDialog.html</Item>
+            <Item>\Internal shared storage\Android\data\*\files\mb\res\.mbridge700\mb\res\res\afd1707ad76c449f9c1ce4de75dac80e\confirmDialog\confirmDialog.js</Item>
+            <Item>\Internal shared storage\Android\data\*\files\mb\res\.mbridge700\mb\res\res\afd1707ad76c449f9c1ce4de75dac80e\confirmDialog\m.bundle.js</Item>
+            <Item>\Internal shared storage\Android\data\*\no_backup\vungle_cache\clever_cache\assets\*</Item>
+            <Item>\Internal shared storage\Android\data\*\no_backup\vungle_cache\clever_cache\cache_policy_journal</Item>
+            <Item>\Internal shared storage\Android\data\*\no_backup\vungle_cache\clever_cache\cache_touch_timestamp</Item>
+            <Item>\Internal shared storage\Android\data\*\no_backup\vungle_cache\sdk_logs\log_170*</Item>
+            <Item>\Internal shared storage\Android\data\com.dv.adm\cache\fyb.vamp.vid.cache\journal</Item>
+            <Item>\Internal shared storage\Android\data\com.dv.adm\files\mb\res\.mbridge700\mb\res\html\*.html</Item>
+            <Item>\Internal shared storage\Android\data\com.dv.adm\files\vast_rtb_cache\httpscdn-c.adsmoloco.com*.mp4</Item>
+            <Item>\Internal shared storage\Android\data\com.dv.adm\files\vast_rtb_cache\httpscdn.liftoff-creatives.iodevcustomersd0aab8679fvideosmobile6624a1d214e38cbc01bf.mp4</Item>
+            <Item>\Internal shared storage\Android\data\com.dv.adm\no_backup\vungle_cache\vungle\65a85f20751d63dcf9c65512\lncxwcol_jswy2tl_chcakusm7uqzfvis.png</Item>
+            <Item>\Internal shared storage\Android\data\com.dv.adm\no_backup\vungle_cache\vungle\65a85f20751d63dcf9c65512\lncxwdhs_wiypcnf_hyhaagbnrbx7aorz_transcoded.mp4</Item>
+            <Item>\Internal shared storage\Android\data\com.google.android.youtube\cache\exo\2435a64176dafa53.uid</Item>
+            <Item>\Internal shared storage\Android\data\com.lonelycatgames.Xplore\cache\album_art.db</Item>
+            <Item>\Internal shared storage\Android\data\com.lonelycatgames.Xplore\cache\album_art.db-journal</Item>
+            <Item>\Internal shared storage\Android\data\com.miui.cleaner\cache\.thumbnail\*</Item>
+            <Item>\Internal shared storage\Android\data\com.miui.cleaner\cache\sift\*.sift</Item>
+            <Item>\Internal shared storage\Android\data\com.miui.cleaner\cache\uil-images\*</Item>
+            <Item>\Internal shared storage\Android\data\com.miui.cleaner\filescache\*</Item>
+            <Item>\Internal shared storage\Android\data\org.videolan.vlc\files\medialib\*.jpg</Item>
+            <Item>\Internal shared storage\Android\data\org.videolan.vlc\files\vlc_crash_*.log</Item>
+            <Item>\Internal shared storage\Android\data\org.videolan.vlc\files\vlc_logcat_*.log</Item>
+            <Item>\Internal shared storage\DCIM\.deleteRecord\galleryrecord\*_com.miui.gallery.records</Item>
+            <Item>\deleted_contents\</Item>
+            <Item>\internal shared storage\Android\data\*\files\mb\res\.mbridge700\mb\config\exc_log.kv*</Item>
+            <Item>\internal shared storage\Android\data\*\files\mb\res\.mbridge700\mb\config\mbridge.kv*</Item>
+            <Item>\internal shared storage\Android\data\*\files\mb\res\.mbridge700\mb\config\mbridge\*</Item>
+            <Item>\internal shared storage\Android\data\*\files\mb\res\.mbridge700\mb\config\share_date.kv*</Item>
+            <Item>\internal shared storage\Android\data\*\no_backup\vungle_cache\vungle\*\ad-js-injection.js</Item>
+            <Item>\internal shared storage\Android\data\*\no_backup\vungle_cache\vungle\*\index.html</Item>
+            <Item>\internal shared storage\Android\data\*\no_backup\vungle_cache\vungle\*\mraid.js</Item>
+            <Item>\internal shared storage\Android\data\com.android.deskclock\files\dump\android.android.deskclock.log*</Item>
+            <Item>\internal shared storage\Android\data\com.android.deskclock\files\dump\locked\android.android.deskclock.locked.log</Item>
+            <Item>\internal shared storage\Android\data\com.android.vending\files\config\play_sentinel</Item>
+            <Item>\internal shared storage\Android\data\com.binance.dev\files\gee_logger_cache\cache.log</Item>
+            <Item>\internal shared storage\Android\data\com.binance.dev\files\janus_logs\.janus_journal</Item>
+            <Item>\internal shared storage\Android\data\com.binance.dev\files\janus_logs\janus_170*.log</Item>
+            <Item>\internal shared storage\Android\data\com.binance.dev\minicache\cachefiles\*\tmp_*.png</Item>
+            <Item>\internal shared storage\Android\data\com.binance.dev\minicache\cachefiles\*\tmp_*.png_config</Item>
+            <Item>\internal shared storage\Android\data\com.binance.dev\minicache\cachefiles\*\tmp_*.svg</Item>
+            <Item>\internal shared storage\Android\data\com.binance.dev\minicache\cachefiles\*\tmp_*.svg_config</Item>
+            <Item>\internal shared storage\Android\data\com.cerebtech.kgb\cache\cache_bd.m</Item>
+            <Item>\internal shared storage\Android\data\com.cerebtech.kgb\cache\cache_its.m</Item>
+            <Item>\internal shared storage\Android\data\com.cerebtech.kgb\cache\cache_its_ter.m</Item>
+            <Item>\internal shared storage\Android\data\com.cerebtech.kgb\cache\cache_r.m</Item>
+            <Item>\internal shared storage\Android\data\com.cerebtech.kgb\cache\cache_vts_com.cerebtech.kgb_default.0</Item>
+            <Item>\internal shared storage\Android\data\com.cerebtech.kgb\cache\cache_vts_com.cerebtech.kgb_default.m</Item>
+            <Item>\internal shared storage\Android\data\com.cerebtech.kgb\cache\cache_vts_inaka_com.cerebtech.kgb_default.m</Item>
+            <Item>\internal shared storage\Android\data\com.cerebtech.kgb\cache\cache_vts_labl_com.cerebtech.kgb_default.m</Item>
+            <Item>\internal shared storage\Android\data\com.cerebtech.kgb\cache\cache_vts_no_pois_com.cerebtech.kgb_default.m</Item>
+            <Item>\internal shared storage\Android\data\com.dubox.drive\files\DuboxYunKernel\.accelerate\*\M3U8_FLV_264_480\*_ts_*_0</Item>
+            <Item>\internal shared storage\Android\data\com.dubox.drive\files\DuboxYunKernel\.accelerate\*\M3U8_FLV_264_480\M3U8_FLV_264_480.m3u8bn</Item>
+            <Item>\internal shared storage\Android\data\com.dubox.drive\files\DuboxYunKernel\.accelerate\*\M3U8_FLV_264_480\sdkconfig</Item>
+            <Item>\internal shared storage\Android\data\com.dubox.drive\files\PNVpaidAds\1506651425</Item>
+            <Item>\internal shared storage\Android\data\com.dubox.drive\files\PNVpaidAds\2383411211</Item>
+            <Item>\internal shared storage\Android\data\com.dubox.drive\files\config.ini</Item>
+            <Item>\internal shared storage\Android\data\com.dubox.drive\files\mb\res\.mbridge700\mb\res\img\862313611</Item>
+            <Item>\internal shared storage\Android\data\com.dubox.drive\files\mb\res\.mbridge700\mb\res\img\916455975</Item>
+            <Item>\internal shared storage\Android\data\com.dubox.drive\files\videocache\*_M3U8_AUTO_480\*_0\0.block</Item>
+            <Item>\internal shared storage\Android\data\com.dubox.drive\files\videocache\*_M3U8_AUTO_480\*_0\file.json</Item>
+            <Item>\internal shared storage\Android\data\com.dubox.drive\videocache\*_M3U8_AUTO_480\*_0\*.block</Item>
+            <Item>\internal shared storage\Android\data\com.dubox.drive\videocache\*_M3U8_AUTO_480\*_0\file.json</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\cache\diskcache\map_cache.db</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\cache\diskcache\map_cache.db-shm</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\cache\diskcache\map_cache.db-wal</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\._DESTINATION_ON_LEFT.mp3</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\._DESTINATION_WILL_BE_ON_LEFT.mp3</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\._DESTINATION_WILL_BE_ON_RIGHT.mp3</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\._GPS_LOST.mp3</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\._HEAD_NORTH.mp3</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\._HEAD_NORTHEAST.mp3</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\._HEAD_SOUTH.mp3</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\._HEAD_SOUTHEAST.mp3</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\._IN_200_METERS.mp3</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\._IN_300_METERS.mp3</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\._IN_400_METERS.mp3</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\._IN_500_METERS.mp3</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\._IN_50_METERS.mp3</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\._IN_600_METERS.mp3</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\._ROUNDABOUT_1ST_EXIT.mp3</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\._THEN.mp3</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\._TURN_LEFT.mp3</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\._TURN_RIGHT.mp3</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.apps.maps\testdata\voice\en_INd5786998\voice_instructions_unitless.zip</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.gm\cache\5cbc92cde57e0f90884ac8a475e7cca5</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.gms\files\gmsnet2.jpg</Item>
+            <Item>\internal shared storage\Android\data\com.google.android.youtube\files\offline\uaV_MWWhoNuo-WyC\streams\f2d73605fccff73.uid</Item>
+            <Item>\internal shared storage\Android\data\com.instagram.android\cache\subtitle\*.clean</Item>
+            <Item>\internal shared storage\Android\data\com.instagram.android\cache\subtitle\journal</Item>
+            <Item>\internal shared storage\Android\data\com.lonelycatgames.Xplore\cache\thumbnails.db</Item>
+            <Item>\internal shared storage\Android\data\com.lonelycatgames.Xplore\cache\thumbnails.db-journal</Item>
+            <Item>\internal shared storage\Android\data\com.lonelycatgames.Xplore\trash\Download\xvideos.com_*.mp4</Item>
+            <Item>\internal shared storage\Android\data\com.microsoft.bing\cache\MSA_Avatar.jpg</Item>
+            <Item>\internal shared storage\Android\data\com.microsoft.bing\cache\ts_configuration.jwt</Item>
+            <Item>\internal shared storage\Android\data\com.microsoft.bing\files\preview\*.png</Item>
+            <Item>\internal shared storage\Android\data\com.microsoft.emmx\cache\ts_configuration.jwt</Item>
+            <Item>\internal shared storage\Android\data\com.milink.service\files\dump\airkan.log</Item>
+            <Item>\internal shared storage\Android\data\com.milink.service\files\dump\com.milink.service.log*</Item>
+            <Item>\internal shared storage\Android\data\com.milink.service\files\dump\miracast.log</Item>
+            <Item>\internal shared storage\Android\data\com.miui.gallery\files\gallery_disk_cache\small_size\journal</Item>
+            <Item>\internal shared storage\Android\data\com.miui.global.packageinstaller\files\cache\</Item>
+            <Item>\internal shared storage\Android\data\com.miui.global.packageinstaller\files\native_ad_preload_1\journal</Item>
+            <Item>\internal shared storage\Android\data\com.miui.global.packageinstaller\filescache\</Item>
+            <Item>\internal shared storage\Android\data\com.miui.global.packageinstaller\filesnative_ad_preload_1\journal</Item>
+            <Item>\internal shared storage\Android\data\com.miui.msa.global\files\miad\cacheFolderAd\</Item>
+            <Item>\internal shared storage\Android\data\com.miui.msa.global\files\miad\cacheLocalAd\</Item>
+            <Item>\internal shared storage\Android\data\com.miui.msa.global\filescache\</Item>
+            <Item>\internal shared storage\Android\data\com.miui.msa.global\filesinstall_preload\journal</Item>
+            <Item>\internal shared storage\Android\data\com.miui.msa.global\filespush_ad_preload\journal</Item>
+            <Item>\internal shared storage\Android\data\com.miui.msa.global\filessplash_preload\*.0</Item>
+            <Item>\internal shared storage\Android\data\com.miui.msa.global\filessplash_preload\journal</Item>
+            <Item>\internal shared storage\Android\data\com.miui.screenshot\cache\bitmap\journal</Item>
+            <Item>\internal shared storage\Android\data\com.mobikwik_new\cache\grand_slam_font.ttf</Item>
+            <Item>\internal shared storage\Android\data\com.myairtelapp\cache\*.jpg</Item>
+            <Item>\internal shared storage\Android\data\com.paytm.paytmplay\cache\.image\*.jpg</Item>
+            <Item>\internal shared storage\Android\data\com.paytm.paytmplay\cache\.image\*.png</Item>
+            <Item>\internal shared storage\Android\data\com.paytm.paytmplay\cache\.res\0c384ac5ce332d6ead4c8c93f35ca902</Item>
+            <Item>\internal shared storage\Android\data\com.paytm.paytmplay\cache\.res\34071e50bf53c41e69cd7b94175d4293.mp4</Item>
+            <Item>\internal shared storage\Android\data\com.paytm.paytmplay\cache\.res\ad4bab4167758c2ada4c17922327d92e.mp4</Item>
+            <Item>\internal shared storage\Android\data\com.phonepe.app\files\Pictures\Chat\Sent\</Item>
+            <Item>\internal shared storage\Android\data\com.spine.myl_march_ernakulam\cache\cache_bd.m</Item>
+            <Item>\internal shared storage\Android\data\com.spine.myl_march_ernakulam\cache\cache_its.m</Item>
+            <Item>\internal shared storage\Android\data\com.spine.myl_march_ernakulam\cache\cache_its_ter.m</Item>
+            <Item>\internal shared storage\Android\data\com.spine.myl_march_ernakulam\cache\cache_r.0</Item>
+            <Item>\internal shared storage\Android\data\com.spine.myl_march_ernakulam\cache\cache_r.m</Item>
+            <Item>\internal shared storage\Android\data\com.spine.myl_march_ernakulam\cache\cache_vts_com.spine.myl_march_ernakulam_default.0</Item>
+            <Item>\internal shared storage\Android\data\com.spine.myl_march_ernakulam\cache\cache_vts_com.spine.myl_march_ernakulam_default.m</Item>
+            <Item>\internal shared storage\Android\data\com.spine.myl_march_ernakulam\cache\cache_vts_inaka_com.spine.myl_march_ernakulam_default.m</Item>
+            <Item>\internal shared storage\Android\data\com.spine.myl_march_ernakulam\cache\cache_vts_labl_com.spine.myl_march_ernakulam_default.m</Item>
+            <Item>\internal shared storage\Android\data\com.spine.myl_march_ernakulam\cache\cache_vts_no_pois_com.spine.myl_march_ernakulam_default.m</Item>
+            <Item>\internal shared storage\Android\data\com.xiaomi.account\files\MiPushLog\log.lock</Item>
+            <Item>\internal shared storage\Android\data\com.xiaomi.account\files\MiPushLog\log1.txt</Item>
+            <Item>\internal shared storage\Android\data\com.xiaomi.discover\files\persist_log1.log</Item>
+            <Item>\internal shared storage\Android\data\com.xiaomi.mipicks\files\MIUI\debug_log\com.xiaomi.mipicks\persist_log1.log</Item>
+            <Item>\internal shared storage\Android\data\com.xiaomi.mipicks\files\MiPushLog\log.lock</Item>
+            <Item>\internal shared storage\Android\data\com.xiaomi.mipicks\files\MiPushLog\log1.txt</Item>
+            <Item>\internal shared storage\Android\data\com.xiaomi.mipicks\files\miapm\xlog\logDir\com.xiaomi.mipicks:guard_log_*.xlog</Item>
+            <Item>\internal shared storage\Android\data\com.xiaomi.mipicks\files\miapm\xlog\logDir\com.xiaomi.mipicks_log_*.xlog</Item>
+            <Item>\internal shared storage\Android\data\com.xiaomi.simactivate.service\files\activationHistory.log</Item>
+            <Item>\internal shared storage\Android\data\in.amazon.mShop.android.shopping\files\models\detect.caffemodel</Item>
+            <Item>\internal shared storage\Android\data\in.amazon.mShop.android.shopping\files\models\detect.prototxt</Item>
+            <Item>\internal shared storage\Android\data\in.amazon.mShop.android.shopping\files\models\sr.caffemodel</Item>
+            <Item>\internal shared storage\Android\data\in.amazon.mShop.android.shopping\files\models\sr.prototxt</Item>
+            <Item>\internal shared storage\Android\data\io.jungleerummy.jungleegames\cache\UnityShaderCache\</Item>
+            <Item>\internal shared storage\Android\data\io.jungleerummy.jungleegames\files\DeviceLog.txt</Item>
+            <Item>\internal shared storage\Android\data\io.jungleerummy.jungleegames\files\DeviceLog_Prev.txt</Item>
+            <Item>\internal shared storage\Android\data\io.jungleerummy.jungleegames\files\UnityCache\Shared\*\*\__data</Item>
+            <Item>\internal shared storage\Android\data\io.jungleerummy.jungleegames\files\UnityCache\Shared\*\*\__info</Item>
+            <Item>\internal shared storage\Android\data\io.jungleerummy.jungleegames\files\UnityCache\Shared\__info</Item>
+            <Item>\internal shared storage\Android\data\io.jungleerummy.jungleegames\files\Unity\edca86eb-e61f-40f3-a7ca-b3a68e502a0f\Analytics\config</Item>
+            <Item>\internal shared storage\Android\data\io.jungleerummy.jungleegames\files\Unity\edca86eb-e61f-40f3-a7ca-b3a68e502a0f\Analytics\values</Item>
+            <Item>\internal shared storage\Android\data\io.jungleerummy.jungleegames\files\il2cpp\Metadata\global-metadata.dat</Item>
+            <Item>\internal shared storage\Android\data\io.jungleerummy.jungleegames\files\il2cpp\Resources\System.Data.dll-resources.dat</Item>
+            <Item>\internal shared storage\Android\data\io.jungleerummy.jungleegames\files\il2cpp\Resources\mscorlib.dll-resources.dat</Item>
+            <Item>\internal shared storage\Android\data\io.jungleerummy.jungleegames\files\il2cpp\unity.ver</Item>
+            <Item>\internal shared storage\Android\data\org.telegram.messenger\cache\</Item>
+            <Item>\internal shared storage\Android\data\org.telegram.messenger\files\Telegram\Telegram Documents\</Item>
+            <Item>\internal shared storage\Android\data\org.telegram.messenger\files\Telegram\Telegram Images\</Item>
+            <Item>\internal shared storage\Android\data\org.telegram.messenger\files\Telegram\Telegram Video\</Item>
+            <Item>\internal shared storage\Android\media\com.whatsapp\WhatsApp\.Shared\</Item>
+            <Item>\internal shared storage\Android\media\com.whatsapp\WhatsApp\.StickerThumbs\</Item>
+            <Item>\internal shared storage\Android\media\com.whatsapp\WhatsApp\Media\.Links\</Item>
+            <Item>\internal shared storage\MIUI\debug_log\powerinfo\result_reason</Item>
+            <Item>\internal shared storage\Movies\.thumbnails\.database_uuid</Item>
+            <Item>\internal shared storage\Music\.thumbnails\.database_uuid</Item>
+            <Item>\internal shared storage\Pictures\.thumbnails\</Item>
+            <Item>\internal shared storage\backups\.SystemConfig\.cuid2</Item>
+        </Exclude>
+        <SizeMin Unit="None">0</SizeMin>
+        <SizeMax Unit="None">0</SizeMax>
+        <TimeSpan Type="None">0</TimeSpan>
+    </Filter>
+    <FolderPairs>
+        <Pair>
+            <Left>ftp://192.168.1.4:2222</Left>
+            <Right>C:\Lab_Data\Redmi-Note-10-Lite-Mirror</Right>
+        </Pair>
+    </FolderPairs>
+    <Errors Ignore="false" Retry="0" Delay="5"/>
+    <PostSyncCommand Condition="Completion"/>
+    <LogFolder/>
+    <EmailNotification Condition="Always"/>
+    <GridViewType>Difference</GridViewType>
+</FreeFileSync>

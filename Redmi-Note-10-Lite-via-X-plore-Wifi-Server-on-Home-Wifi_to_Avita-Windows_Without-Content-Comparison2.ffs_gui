@@ -2,7 +2,7 @@
 <FreeFileSync XmlType="GUI" XmlFormat="23">
     <Notes/>
     <Compare>
-        <Variant>Content</Variant>
+        <Variant>TimeAndSize</Variant>
         <Symlinks>Direct</Symlinks>
         <IgnoreTimeShift/>
     </Compare>
@@ -207,5 +207,5 @@
     <PostSyncCommand Condition="Completion"/>
     <LogFolder/>
     <EmailNotification Condition="Always"/>
-    <GridViewType>Difference</GridViewType>
+    <GridViewType>Action</GridViewType>
 </FreeFileSync>

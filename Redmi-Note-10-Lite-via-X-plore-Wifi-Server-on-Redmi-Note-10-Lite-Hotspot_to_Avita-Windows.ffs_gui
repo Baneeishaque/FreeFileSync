@@ -2,7 +2,7 @@
 <FreeFileSync XmlType="GUI" XmlFormat="23">
     <Notes/>
     <Compare>
-        <Variant>TimeAndSize</Variant>
+        <Variant>Content</Variant>
         <Symlinks>Direct</Symlinks>
         <IgnoreTimeShift/>
     </Compare>
@@ -201,13 +201,13 @@
     </Filter>
     <FolderPairs>
         <Pair>
-            <Left>ftp://192.168.1.3:2222</Left>
-            <Right>C:\Lab_Data\To-Upload\Redmi-Note-10-Lite</Right>
+            <Left>ftp://192.168.224.65:2222</Left>
+            <Right>C:\Lab_Data\Redmi-Note-10-Lite-Mirror</Right>
         </Pair>
     </FolderPairs>
     <Errors Ignore="false" Retry="0" Delay="5"/>
     <PostSyncCommand Condition="Completion"/>
     <LogFolder/>
     <EmailNotification Condition="Always"/>
-    <GridViewType>Action</GridViewType>
+    <GridViewType>Difference</GridViewType>
 </FreeFileSync>

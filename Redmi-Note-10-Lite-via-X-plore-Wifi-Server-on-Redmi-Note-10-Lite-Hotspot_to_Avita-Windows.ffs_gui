@@ -40,6 +40,7 @@
             <Item>\Internal shared storage\Android\data\com.dv.adm\no_backup\vungle_cache\vungle\65a85f20751d63dcf9c65512\lncxwcol_jswy2tl_chcakusm7uqzfvis.png</Item>
             <Item>\Internal shared storage\Android\data\com.dv.adm\no_backup\vungle_cache\vungle\65a85f20751d63dcf9c65512\lncxwdhs_wiypcnf_hyhaagbnrbx7aorz_transcoded.mp4</Item>
             <Item>\Internal shared storage\Android\data\com.google.android.youtube\cache\exo\2435a64176dafa53.uid</Item>
+            <Item>\Internal shared storage\Android\data\com.google.android.youtube\files\offline\z_RDqBS5VsADC6tT\streams\66efcddc2462e073.uid</Item>
             <Item>\Internal shared storage\Android\data\com.lonelycatgames.Xplore\cache\album_art.db</Item>
             <Item>\Internal shared storage\Android\data\com.lonelycatgames.Xplore\cache\album_art.db-journal</Item>
             <Item>\Internal shared storage\Android\data\com.miui.cleaner\cache\.thumbnail\*</Item>
@@ -183,7 +184,9 @@
             <Item>\internal shared storage\Android\data\io.jungleerummy.jungleegames\files\il2cpp\Resources\mscorlib.dll-resources.dat</Item>
             <Item>\internal shared storage\Android\data\io.jungleerummy.jungleegames\files\il2cpp\unity.ver</Item>
             <Item>\internal shared storage\Android\data\org.telegram.messenger\cache\</Item>
+            <Item>\internal shared storage\Android\data\org.telegram.messenger\files\Telegram\Telegram Audio\</Item>
             <Item>\internal shared storage\Android\data\org.telegram.messenger\files\Telegram\Telegram Documents\</Item>
+            <Item>\internal shared storage\Android\data\org.telegram.messenger\files\Telegram\Telegram Files\</Item>
             <Item>\internal shared storage\Android\data\org.telegram.messenger\files\Telegram\Telegram Images\</Item>
             <Item>\internal shared storage\Android\data\org.telegram.messenger\files\Telegram\Telegram Video\</Item>
             <Item>\internal shared storage\Android\media\com.whatsapp\WhatsApp\.Shared\</Item>
